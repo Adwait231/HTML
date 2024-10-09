@@ -1,0 +1,695 @@
+Disaster Subgroup,Disaster Type,Disaster Subtype,Country,Subregion,Region,Location,Origin,Magnitude,Magnitude Scale,Start Year,End Year,Total Deaths,No. Injured,No. Affected,Total Affected,Total Damage ('000 US$),"Total Damage, Adjusted ('000 US$)"
+Hydrological,Flood,Flood (General),Philippines,South-eastern Asia,Asia,"Lanao del Norte Province (Northern Mindanao Region); Davao de Oro and Davao del Norte provinces; Maguindanao (BARMM Region); Mimaropa Region; Cagayan Valley, Central Luzon, Calabarzon, Bicol, Western Visayas, Eastern Visayas, Zamboanga Peninsula, Soccsksargen, Caraga",Heavy rains,0.0,Km2,2023,2023,52.0,11.0,2143347.0,2143358.0,30371.0,30371.0
+Geophysical,Earthquake,Ground movement,Indonesia,South-eastern Asia,Asia,Southwest Maluku and Tanimbar Islands Regencies (Maluku Province),0,7.6,Moment Magnitude,2023,2023,1.0,11.0,4350.0,4421.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Colombia,Latin America and the Caribbean,Americas,"Rosas, Cauca municipality",Heavy rains,0.0,0,2023,2023,0.0,0.0,700.0,700.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,"Khoy, Firoraq (Azerbaïdjan province)",0,5.7,Moment Magnitude,2023,2023,0.0,252.0,41426.0,41678.0,50000.0,50000.0
+Meteorological,Extreme temperature,Cold wave,Afghanistan,Southern Asia,Asia,"Ghor, Baghlan, Sar-e-Pul, Faryab, Takhar, Kandahar, Nimroz and Badghis",0,-33.0,°C,2023,2023,166.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Madagascar,Sub-Saharan Africa,Africa,Antalaha (Sava Region); Diana regon,0,106.0,Kph,2023,2023,53.0,0.0,90870.0,90870.0,20000.0,20000.0
+Hydrological,Mass movement (wet),Avalanche (wet),China,Eastern Asia,Asia,"Nyingchi City (Nyingchi County, Autonomous Region of Tibet)",0,0.0,0,2023,2023,28.0,5.0,53.0,58.0,0.0,0.0
+Hydrological,Flood,Riverine flood,Serbia,Southern Europe,Europe,"Sjenica and Brodarevo Novi Pazar Municipality; Novi Pazar Municipality (Sumadija and Western Serbia Region, south-western Serbia)",Heavy rainfall and river overflow,0.0,Km2,2023,2023,2.0,0.0,210.0,210.0,0.0,0.0
+Hydrological,Flood,Flood (General),Colombia,Latin America and the Caribbean,Americas,"Los Conquistadores, Medellín city (Antioquia Department); ",Heavy rains and strong winds,0.0,Km2,2023,2023,2.0,23.0,15.0,38.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,Rodeio Municipality (Santa Caterina State),0,0.0,Km2,2023,2023,5.0,0.0,180.0,180.0,10000.0,10000.0
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,Alabama and Georgia,0,145.0,Kph,2023,2023,11.0,49.0,0.0,49.0,770000.0,770000.0
+Hydrological,Flood,Flood (General),Australia,Australia and New Zealand,Oceania,Kimberley region (Western Australia),Heavy rains,0.0,Km2,2023,2023,0.0,0.0,363.0,477.0,0.0,0.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,Aceh and West Sumatra Provinces,Torrential rains,0.0,Km2,2023,2023,0.0,0.0,100000.0,100000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Malaysia,South-eastern Asia,Asia,"Johor, Pahang, and Sabah States",Torrential rains,0.0,Km2,2023,2023,0.0,0.0,11000.0,11000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,Manado City area (North Sulawesi Province),Heavy rains,0.0,Km2,2023,2023,0.0,0.0,16700.0,16700.0,0.0,0.0
+Hydrological,Flood,Flood (General),New Zealand,Australia and New Zealand,Oceania,"Kelston, Albany, Randwick Park, Mangere, Wellsford, Warkworth and Kumeu Region (Auckland)",Heavy rains,0.0,Km2,2023,2023,4.0,0.0,3786.0,5400.0,1900000.0,1900000.0
+Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,"Firouragh district, Khoy county (West Azerbaijan)",0,5.9,Moment Magnitude,2023,2023,3.0,1017.0,261387.0,262404.0,255000.0,255000.0
+Climatological,Wildfire,Wildfire (General),Chile,Latin America and the Caribbean,Americas,"Bío Bío, Araucanía, Ñuble, Maule, Los Ríos, Los Lagos, Aysén, OHiggins, Valparaíso, and Santiago Metropolitan",Strong winds and high temperatures,0.0,Km2,2023,2023,26.0,3034.0,7500.0,10534.0,900000.0,900000.0
+Meteorological,Extreme temperature,Severe winter conditions,Canada,Northern America,Americas,0,0,-50.0,°C,2023,2023,2.0,0.0,0.0,0.0,165000.0,165000.0
+Meteorological,Extreme temperature,Severe winter conditions,United States of America,Northern America,Americas,"Texas, Arkansas, Louisiana, Oklahoma, Tennessee. Mississippi",0,-50.0,°C,2023,2023,10.0,25.0,0.0,25.0,385000.0,385000.0
+Geophysical,Earthquake,Ground movement,Syrian Arab Republic,Western Asia,Asia,"Aleppo, Lattakia, Hama; Harim (Idlib); Tartous; Atmeh, Sarmada, Atareb, and Kafr Takharim",0,7.8,Moment Magnitude,2023,2023,5900.0,8700.0,8800000.0,8808700.0,8900000.0,8900000.0
+Geophysical,Earthquake,Ground movement,Türkiye,Western Asia,Asia,"Gaziantep; Pazarcik District (Kahramanmaras); Sanliurfa, Diyarbakir, Adana, Adiyaman, Osmaniye, Hatay, Kilis, Elazig, Malatya ",0,7.8,Moment Magnitude,2023,2023,53000.0,107000.0,16000000.0,16107000.0,34000000.0,34000000.0
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,"Guanay, Mapiri, Chuquisaca, Tipuani municipalities (La Paz); Santa Cruz, Cochabamba, Potosi, Beni Departments",Heavy rains,0.0,Km2,2023,2023,5.0,0.0,188610.0,188610.0,0.0,0.0
+Hydrological,Flood,Flood (General),Zambia,Sub-Saharan Africa,Africa,"Kalomo, Namwala, and Choma Districts in the Southern Province",Heavy rain,0.0,Km2,2023,2023,0.0,0.0,22000.0,22000.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Peru,Latin America and the Caribbean,Americas,Camaná Province (Arequipa Department),Heavy rains,0.0,0,2023,2023,38.0,27.0,6300.0,6327.0,0.0,0.0
+Biological,Epidemic,Bacterial disease,Zambia,Sub-Saharan Africa,Africa,"Chikoma, Mbande, Mzigawa, Chipanji, Mlawe, Eastern, Luapula, Lusaka, Southern",0,0.0,0,2023,2023,2.0,118.0,0.0,118.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Indonesia,South-eastern Asia,Asia,Papua,0,5.1,Moment Magnitude,2023,2023,4.0,0.0,2136.0,2136.0,0.0,0.0
+Hydrological,Mass movement (wet),Avalanche (wet),Austria,Western Europe,Europe,0,0,0.0,0,2023,2023,8.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Mass movement (wet),Avalanche (wet),Switzerland,Western Europe,Europe,0,0,0.0,0,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Mass movement (wet),Avalanche (wet),Italy,Southern Europe,Europe,0,0,0.0,0,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Mozambique,Sub-Saharan Africa,Africa,"Boane, Magude, and Moamba Districts (Maputo Province)",Heavy rains,0.0,Km2,2023,2023,14.0,3.0,89090.0,89093.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,New Zealand,Australia and New Zealand,Oceania,"Northland, Auckland, Tairawhiti, Bay of Plenty, Waikato, and Hawkes Bay",0,140.0,Kph,2023,2023,11.0,0.0,10500.0,10500.0,2800000.0,2800000.0
+Hydrological,Flood,Flood (General),South Africa,Sub-Saharan Africa,Africa,"Mpumalanga, the Eastern Cape, Gauteng, KwaZulu-Natal, Limpopo, the Northern Cape, and North West",Heavy rains,0.0,Km2,2023,2023,17.0,0.0,1000.0,1000.0,0.0,0.0
+Biological,Epidemic,Viral disease,Equatorial Guinea,Sub-Saharan Africa,Africa,Kie Ntem (Nsok Nsomo province),0,0.0,Vaccinated,2023,2023,10.0,16.0,0.0,16.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Syrian Arab Republic,Western Asia,Asia,0,0,6.3,Moment Magnitude,2023,2023,0.0,470.0,0.0,470.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Türkiye,Western Asia,Asia,"Defne District (Hatay Province, southern Türkiye)",0,6.3,Moment Magnitude,2023,2023,6.0,294.0,0.0,294.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,Sao Sebastiao City and one in Ubatuba City (Sao Paulo state),Heavy rains,0.0,Km2,2023,2023,67.0,25.0,4000.0,4025.0,30000.0,30000.0
+Hydrological,Flood,Flood (General),Philippines,South-eastern Asia,Asia,"Bicol, Western Visayas, Eastern Visayas, Zamboanga Peninsula, Davao Region, Soccsksargen and Caraga",Low-pressure area,0.0,Km2,2023,2023,15.0,0.0,32764.0,32764.0,5000.0,5000.0
+Meteorological,Storm,Tropical cyclone,Madagascar,Sub-Saharan Africa,Africa,"Vatovavy, Fitovinany, Atsimo Atsinanana, AmoronI Mania, Analamanga, Itasy, Alaotra-Mangoro, Menabe, Atsinanana",0,165.0,Kph,2023,2023,17.0,0.0,299000.0,299000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Mozambique,Sub-Saharan Africa,Africa,"Niassa, Maputo, Inhambane, Gaza, Manica, Tete, Zambezia, Sofala Provinces ",0,95.0,Kph,2023,2023,183.0,698.0,1230691.0,1231389.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Mauritius,Sub-Saharan Africa,Africa,0,0,0.0,Kph,2023,2023,1.0,0.0,2500.0,2500.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Malawi,Sub-Saharan Africa,Africa,"Balaka, Blantyre City, Blantyre, Chikwawa, Chiradzulu, Machinga, Mangochi, Mulanje, Neno, Nsanje, Phalombe, Thyolo, Zomba City, Zomb, Mwanza Distriicts ",0,0.0,Kph,2023,2023,1209.0,2186.0,2267458.0,2269644.0,506710.0,506710.0
+Meteorological,Storm,Tropical cyclone,Réunion,Sub-Saharan Africa,Africa,0,0,0.0,Kph,2023,2023,0.0,0.0,25000.0,25000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Zimbabwe,Sub-Saharan Africa,Africa,0,0,0.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Namibia,Sub-Saharan Africa,Africa,"Ohangwena, Oshana",0,0.0,Km2,2023,2023,0.0,0.0,2190.0,2190.0,0.0,0.0
+Hydrological,Flood,Flood (General),Philippines,South-eastern Asia,Asia,Davao City (Davao del Norte); Davao Oriental (Dava Region); Maguidanao del Sur Province (BARMM Region),Heavy rains,0.0,Km2,2023,2023,2.0,0.0,215000.0,215000.0,5000.0,5000.0
+Geophysical,Earthquake,Ground movement,Syrian Arab Republic,Western Asia,Asia,Northwest,0,5.2,Moment Magnitude,2023,2023,0.0,150.0,0.0,150.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Türkiye,Western Asia,Asia,Yesilyurt District (Malatya province),0,5.2,Moment Magnitude,2023,2023,1.0,110.0,0.0,200.0,0.0,0.0
+Hydrological,Flood,Flash flood,Zambia,Sub-Saharan Africa,Africa,"Namwala, Monze and Mazabuka districts; Lusaka province",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,154608.0,154608.0,0.0,0.0
+Meteorological,Extreme temperature,Cold wave,Lebanon,Western Asia,Asia,"Bekaa Valley, Beirut, Mount Lebanon",0,0.0,°C,2023,2023,0.0,0.0,1024200.0,1024200.0,0.0,0.0
+Hydrological,Flood,Flash flood,Paraguay,Latin America and the Caribbean,Americas,"San Lazaro, Horqueta, Sargento Felix Lopez, Paso Horqueta and Paso Barreto (Concepción); Alto Paraguay, Amambay San Pedro departments",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,39000.0,39000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Vanuatu,Melanesia,Oceania,Shefa and Tafea Provinces,0,0.0,Kph,2023,2023,0.0,0.0,251346.0,251346.0,0.0,0.0
+Hydrological,Flood,Flood (General),Malaysia,South-eastern Asia,Asia,"Johor, Pahang, Malacca, and Negeri Sembilan",Heavy rains,0.0,Km2,2023,2023,4.0,0.0,46630.0,46630.0,0.0,0.0
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,"Texas, Oklahoma, Mississippi, Kentucky, Arkansas, Alabama, Tennessee, Louisiana, Indiana and Ohio",0,0.0,Kph,2023,2023,13.0,0.0,0.0,0.0,6000000.0,6000000.0
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,Serasan District (Riau Islands),Heavy rains,0.0,0,2023,2023,55.0,8.0,1200.0,1208.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,Bandeirantes (Paraná state),Heavy rains,0.0,Km2,2023,2023,0.0,0.0,750.0,750.0,95000.0,95000.0
+Hydrological,Flood,Flood (General),Ecuador,Latin America and the Caribbean,Americas,"Chone Canton (Manabí); Guayas; Los Ríos, Santa Elena, Cotopaxi, El Oro, Santo Domingo de Los Tsáchilas, Imbabura, Esmeraldas, and Chimborazo",0,0.0,Km2,2023,2023,30.0,37.0,66727.0,66764.0,205000.0,205000.0
+Meteorological,Storm,Severe weather,Indonesia,South-eastern Asia,Asia,"Konawe Regency, Southeast Sulawesi and Central Sulawesi provinces",0,0.0,Kph,2023,2023,1.0,3.0,650.0,653.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Vanuatu,Melanesia,Oceania,"Sanma, Penama, Malampa, Shefa and Tafea Provinces",0,0.0,Kph,2023,2023,0.0,0.0,251356.0,251356.0,0.0,0.0
+Hydrological,Flood,Flood (General),Australia,Australia and New Zealand,Oceania,"Daguragu, Kalkarindji, Pigeon Hole and Palumpa in the Victoria Daly Region",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,700.0,700.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"Monterey, Merced and Tulare Counties (California); Nevada",0,0.0,Kph,2023,2023,3.0,0.0,551.0,551.0,255000.0,255000.0
+Hydrological,Flood,Flood (General),Peru,Latin America and the Caribbean,Americas,"Cajamarca, La Libertad, Lambayeque, Ancash, Lima, Piura, Arequipa and Tumbes, departments.","Heavy rains, cyclone Yaku",0.0,Km2,2023,2023,71.0,0.0,410000.0,410000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Australia,Australia and New Zealand,Oceania,"Burketown, Riversleigh, Gregory Downs, Doomadgee, and Normanton Towns (northern Queensland)",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,170.0,170.0,0.0,0.0
+Biological,Epidemic,Bacterial disease,South Sudan,Sub-Saharan Africa,Africa,Malakal (Upper Nile state),0,0.0,0,2023,2023,1.0,178.0,0.0,178.0,0.0,0.0
+Hydrological,Flood,Flood (General),Türkiye,Western Asia,Asia,Adiyaman and Sanliurfa provinces,0,0.0,Km2,2023,2023,19.0,0.0,0.0,0.0,25000.0,25000.0
+Geophysical,Earthquake,Ground movement,Ecuador,Latin America and the Caribbean,Americas,"El Oro, Guayas, and Azuay",0,6.8,Moment Magnitude,2023,2023,14.0,494.0,126922.0,127416.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Peru,Latin America and the Caribbean,Americas,Tumbes,0,6.8,Moment Magnitude,2023,2023,1.0,1.0,140.0,141.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,Hindu Kush Mountain,0,6.5,Moment Magnitude,2023,2023,5.0,80.0,3265.0,3345.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,Khyber Pakhtunkhwa,0,6.5,Moment Magnitude,2023,2023,11.0,79.0,860.0,939.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Ceara, Maranhao, Para, Pernambuco, and Piau States",0,0.0,Km2,2023,2023,6.0,0.0,2400.0,2400.0,50000.0,50000.0
+Hydrological,Flood,Flash flood,Pakistan,Southern Asia,Asia,"Awaran, Zhob and Khuzdar Districts (Balochistan Province)",Heavy rains,0.0,Km2,2023,2023,10.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Syrian Arab Republic,Western Asia,Asia,Aleppo and Idlib governorates,Heavy rains,0.0,Km2,2023,2023,0.0,1.0,2850.0,2851.0,0.0,0.0
+Meteorological,Storm,Severe weather,India,Southern Asia,Asia,"Khandwa, Sagar, Satna, Raisen, Narmadapura, Dhar, Ratlam, Ashok Nagar and Damoh (Madhya Pradesh State)",0,0.0,Kph,2023,2023,16.0,14.0,0.0,14.0,0.0,0.0
+Biological,Epidemic,Bacterial disease,Nigeria,Sub-Saharan Africa,Africa,"Kano, Yobe, Katsina, Sokoto, Enugu, Osun, Kaduna, Lagos, Zamfara, Bauchi, Gombe, Lagos, Yobe, Borno, Jigawa, Niger, Cross River, Imo, Kebbi, Nasarawa and the Federal Capitol Territory",0,0.0,0,2023,2023,562.0,9486.0,0.0,9486.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,Khoy City (West Azerbaijan Province),0,5.6,Moment Magnitude,2023,2023,0.0,239.0,0.0,239.0,0.0,0.0
+Hydrological,Flood,Flash flood,Somalia,Sub-Saharan Africa,Africa,"Baardheere District (Gedo Region); Galmudug, Hirshabelle, Jubaland, Puntland, South West State, Somaliland States",Gu rainy season,0.0,Km2,2023,2023,21.0,2.0,100001.0,100003.0,0.0,0.0
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,"Mardan, Peshawar, South Waziristan and Khybe districts ( Khyber Pakhtunkhwa Province)",Heavy rains,0.0,Km2,2023,2023,14.0,0.0,50.0,50.0,0.0,0.0
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,"El Torno, Santa Cruz de la Sierra municipalities (Santa Cruz Department)",Heavy rains,0.0,Km2,2023,2023,3.0,0.0,9960.0,9960.0,0.0,0.0
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,"Rolling Fork, Silver City, Winona, Sharkey, Smithville, Amory and Montgomery (Mississippi); Alabama, Georgia, Tennessee",0,0.0,Kph,2023,2023,25.0,72.0,6000.0,7011.0,2900000.0,2900000.0
+Hydrological,Mass movement (wet),Landslide (wet),Ecuador,Latin America and the Caribbean,Americas,"Alausí, La Esperanza, Control Norte, Nuevo Alausí, Pircapamba and Buain (Chimborazo Province)",Heavy rains,0.0,0,2023,2023,75.0,44.0,8400.0,8444.0,0.0,0.0
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,Cobija City (Pando Department),Heavy rains,0.0,Km2,2023,2023,0.0,0.0,1500.0,1500.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Brasileia, Assis Brasil, Xapuri, Rio Branco, Epitaciolândia Municipalities (Acre); Manaus Municipality (Amazonas)",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,15000.0,15000.0,20000.0,20000.0
+Hydrological,Flood,Flood (General),South Africa,Sub-Saharan Africa,Africa,"Ingquza Hill, King Sabata Dalindyebo and Port St Johns (Easter Cape Province)",Heavy rains,0.0,Km2,2023,2023,3.0,0.0,500.0,500.0,0.0,0.0
+Hydrological,Flood,Flood (General),Ethiopia,Sub-Saharan Africa,Africa,Dhawa Zone (Somali Region); Oromia and Afar Regions,Heavy rains,0.0,Km2,2023,2023,91.0,0.0,240000.0,240000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Kenya,Sub-Saharan Africa,Africa,"Mombasa, Kwale, Tana River, Taita-Taveta, Garissa, Wajir, Mandera, Marsabit, Isiolo, Turkana, West Pokot, Narok, Kajiado, Busia, Siaya, Kisumu, Homa Bay, Migori",Heavy rains,0.0,Km2,2023,2023,36.0,29.0,139135.0,139164.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Papua New Guinea,Melanesia,Oceania,East Sepik Province,0,7.0,Moment Magnitude,2023,2023,8.0,11.0,13635.0,16274.0,0.0,0.0
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,"Memphis (Tennessee); Owen and Sullivan counties (Indiana); Arkansas, Mississippi, Alabama, Illinois; Sussex county (Delaware); Oklahoma, Iowa, Kentucky, Ohio, Missouri, Kansas; Pennsylvania",0,0.0,Kph,2023,2023,31.0,200.0,5544.0,6479.0,5500000.0,5500000.0
+Hydrological,Mass movement (wet),Landslide (wet),Democratic Republic of the Congo,Sub-Saharan Africa,Africa,"Bulwa (Masisi, Nord-Kivu)",Heavy rains,0.0,0,2023,2023,19.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Colombia,Latin America and the Caribbean,Americas,"Suarez, Caloto, La Vega, Jambaló and Santander de Quilichao muncipalities (Cauca)",Heavy rains,0.0,Km2,2023,2023,1.0,0.0,4500.0,4500.0,0.0,0.0
+Biological,Epidemic,Bacterial disease,Somalia,Sub-Saharan Africa,Africa,"Kismayo, Belethawo, Afgoye, Afmadow",0,0.0,0,2023,2023,14.0,3428.0,0.0,3428.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Aratuba, Guaramiranga, Itapipoca, Missão Velha, Uruburetama, Altaneira, Antonina do Norte and Itapaje (Ceará state)",Heavy rains,0.0,Km2,2023,2023,6.0,26.0,3693.0,3719.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,Maranhão,Heavy rains,0.0,Km2,2023,2023,5.0,0.0,1152.0,1152.0,0.0,0.0
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,"Bollinger County (Missouri); Illinois, Kentucky, Iowa, Indiana, Ohio, Michigan",0,0.0,Kph,2023,2023,5.0,5.0,225.0,266.0,2900000.0,2900000.0
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,"Peshawar, South Waziristan, Tank, Khyber, Lower Kohistan, Mardan, Hangu, Orakza, Bajaur (Khyber Pakhtunkhwa Province)Orakzai, Peshawar, Tank and ",Heavy rains,0.0,Km2,2023,2023,14.0,27.0,750.0,777.0,0.0,0.0
+Hydrological,Flood,Flood (General),Belarus,Eastern Europe,Europe,"Vitebsk, Gomel, Minsk; Grodno and Mogilev regions",Heavy rainfall and snowmelt,0.0,Km2,2023,2023,0.0,0.0,420.0,420.0,0.0,0.0
+Hydrological,Flood,Flood (General),Latvia,Northern Europe,Europe,Upper Daugava and Augdaugava regions,Heavy rainfall and snowmelt,0.0,Km2,2023,2023,0.0,0.0,200.0,200.0,0.0,0.0
+Meteorological,Storm,Tornado,New Zealand,Australia and New Zealand,Oceania,"Mapua Town, Nelson City (Tasman District); Auckland City",0,0.0,Kph,2023,2023,0.0,0.0,303.0,303.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Republic of Korea,Eastern Asia,Asia,Gangneung (Gangwon-do Province),0,0.0,Km2,2023,2023,1.0,0.0,500.0,500.0,0.0,0.0
+Hydrological,Flood,Flood (General),Peru,Latin America and the Caribbean,Americas,"Piura, Lambayeque, Huancavelica, Lima, La Libertad DepartmentS",Heavy rains,0.0,Km2,2023,2023,25.0,0.0,124326.0,124326.0,305000.0,305000.0
+Hydrological,Flood,Flood (General),Burundi,Sub-Saharan Africa,Africa,"Bujumbura, Bujumbura Marie, Cibitoke and Muyinga Provinces",Heavy rains,0.0,Km2,2023,2023,14.0,13.0,226.0,239.0,0.0,0.0
+Hydrological,Flood,Flash flood,United States of America,Northern America,Americas,"Pembroke Pines, Dania Beach and Fort Lauderdale (Broward County, Hollywood, Florida)",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,2000.0,2000.0,1100000.0,1100000.0
+Hydrological,Flood,Flood (General),United Republic of Tanzania,Sub-Saharan Africa,Africa,Sumbawanga District (eastern Rukwa Region); Mara and Mtwara regions,Heavy rains,0.0,Km2,2023,2023,13.0,0.0,0.0,24.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,"Parigi Moutong Regency (Central Sulawesi); Purwakarta Regency, Western Jawa",Heavy rains,0.0,0,2023,2023,5.0,0.0,130.0,130.0,0.0,0.0
+Meteorological,Storm,Sand/Dust storm,Iran (Islamic Republic of),Southern Asia,Asia,"Bukan (West Azerbaijan Province); Mehran (Ilam Province); Alamut (Qazvin Province); Kermanshah, Ilam, Qazvin and Lorestan",0,0.0,Kph,2023,2023,3.0,0.0,400.0,400.0,0.0,0.0
+Meteorological,Storm,Sand/Dust storm,Iraq,Western Asia,Asia,"Babil, Kirkuk, Sulaymaniyah and Erbil",0,0.0,Kph,2023,2023,3.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Severe weather,Brazil,Latin America and the Caribbean,Americas,"Guaíba, Serrinha, Porto Alegre, Lagoa dos Patos, Barra do Ribeiro cities (Rio Grande do Sul State)",Heavy rains,0.0,Kph,2023,2023,0.0,0.0,750.0,1050.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,India,Southern Asia,Asia,Maharashtra state,0,38.0,°C,2023,2023,11.0,330.0,0.0,330.0,0.0,0.0
+Hydrological,Flood,Flood (General),United Republic of Tanzania,Sub-Saharan Africa,Africa,"Tangazo, Mahurunga regions (Mtwara district)",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,1976.0,1976.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Tajikistan,Central Asia,Asia,Sughd province,0,4.8,Moment Magnitude,2023,2023,0.0,3.0,2202.0,2205.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Peru,Latin America and the Caribbean,Americas,0,0,0.0,Kph,2023,2023,8.0,0.0,45000.0,45000.0,705000.0,705000.0
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,"Arkansas, Florida, Illinois, Kansas, Louisiana, Missouri, Nebraska,Texas, Oklahoma, Iowa",0,0.0,Kph,2023,2023,1.0,12.0,0.0,12.0,2950000.0,2950000.0
+Meteorological,Storm,Lightning/Thunderstorms,Cambodia,South-eastern Asia,Asia,0,0,0.0,Kph,2023,2023,0.0,0.0,14100.0,14100.0,0.0,0.0
+Hydrological,Flood,Flood (General),Ukraine,Eastern Europe,Europe,"Volyn, Dnipropetrovsk, Kyiv, Rivne, Poltava, Cherkasy, Chernihiv, Zhytomyr, Petrishevka ",0,0.0,Km2,2023,2023,0.0,0.0,2850.0,2850.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,"Calabarzon, Mimaropa, Bicol, Davao and Zamboanga Peninsula",0,0.0,Kph,2023,2023,0.0,0.0,136149.0,136149.0,222.0,222.0
+Hydrological,Flood,Flood (General),Angola,Sub-Saharan Africa,Africa,"Luanda, Namibe, Lunda Norte, Lunda Sul, Malanje, Cuanza Norte and Moxico",Heavy rains,0.0,Km2,2023,2023,54.0,450.0,44000.0,44450.0,0.0,0.0
+Meteorological,Storm,Tornado,Myanmar,South-eastern Asia,Asia,Aung Myin Kone and Tadau villages (Naypyitaw capital city greater area),0,0.0,Kph,2023,2023,8.0,130.0,0.0,1280.0,0.0,0.0
+Meteorological,Storm,Tornado,Türkiye,Western Asia,Asia,Pazarcik City (southern Kahramanmaras Province),0,0.0,Kph,2023,2023,1.0,50.0,504.0,554.0,0.0,0.0
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,"Dickens, Comanche, McLennan, Nolan, Swisher, Taylor, Floyd (Texas); St. Lucie, Nassau, Brevard, Hillsborough, Sumter, Broward, and Indian River (Florida); Effingham, Bryan, Wayne, Terrell, Chatham (Georgia); Oklahoma",0,0.0,Kph,2023,2023,0.0,0.0,0.0,0.0,1300000.0,1300000.0
+Meteorological,Storm,Storm (General),Bangladesh,Southern Asia,Asia,"Netrokona, Sylhet, Sunamganj and Maulbi Bazar",0,0.0,Kph,2023,2023,10.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Lightning/Thunderstorms,Thailand,South-eastern Asia,Asia,"Chiang Mai, Kamphaeng Phet, Lampang, Lamphun, Nakhon Nayok, Nakhon Si Thammarat, Phayao, Phetchabun, Tak, Ubon Ratchathani, and Nong Khai,",0,0.0,Kph,2023,2023,0.0,0.0,22200.0,22200.0,0.0,0.0
+Meteorological,Storm,Lightning/Thunderstorms,Sri Lanka,Southern Asia,Asia,0,0,0.0,Kph,2023,2023,0.0,0.0,910.0,910.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Santa Cruz Cabrália, Ilhéus, Belmonte, Porto Seguro and Itapebi (Bahia state)",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,9348.0,9348.0,0.0,0.0
+Hydrological,Flood,Flash flood,Kenya,Sub-Saharan Africa,Africa,"Kisumu, Mandera County",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,22500.0,22500.0,0.0,0.0
+Hydrological,Flood,Flood (General),Uganda,Sub-Saharan Africa,Africa,"Kasese, Rukungiri, Mbale, Kigez, Ntokoro, Kigezi Districts",Heavy rains,0.0,Km2,2023,2023,23.0,16.0,1000.0,1016.0,0.0,0.0
+Hydrological,Flood,Flood (General),Viet Nam,South-eastern Asia,Asia,"Cao Bang, Lao Cai, Yen Bai, Phu Tho, Dien Bien, Tuyen Quang, and Thai Nguyen provinces",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,6540.0,6540.0,0.0,0.0
+Hydrological,Flood,Flash flood,Pakistan,Southern Asia,Asia,"Khuzdar City/Qusdar (Khuzdar District, central Balochistan), Kech District (southern Balochistan), Lasbela District (southern Balochistan) Mach Town (Kachhi District, central Balochistan); Khyber Pakhtunkhwa Province",Heavy rains,0.0,Km2,2023,2023,12.0,3.0,0.0,3.0,0.0,0.0
+Hydrological,Flood,Flood (General),Rwanda,Sub-Saharan Africa,Africa,"Northern, western and southern provinces",Heavy rains,0.0,Km2,2023,2023,131.0,77.0,51905.0,51982.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,China,Eastern Asia,Asia,Yunnan Province,0,5.3,Moment Magnitude,2023,2023,0.0,10.0,8400.0,8410.0,30000.0,30000.0
+Hydrological,Flood,Flood (General),Italy,Southern Europe,Europe,Fontanelice Municipality (Bologna Province); Castel Bolognese Municipality (Ravenna Province); Forlì-Cesena provinces,Heavy rains,0.0,Km2,2023,2023,2.0,0.0,500.0,500.0,0.0,0.0
+Hydrological,Flood,Flood (General),Canada,Northern America,Americas,"Baie-Saint-Paul (Charlevoix Region), Saint-Côme and Sainte-Émélie-de-l'Énergie (Lanaudière Region, south-western Quebec).",Heavy rains,0.0,Km2,2023,2023,2.0,0.0,1000.0,1000.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,Asia,Ishikawa,0,6.2,Moment Magnitude,2023,2023,1.0,43.0,2157.0,2254.0,0.0,0.0
+Climatological,Wildfire,Forest fire,Canada,Northern America,Americas,"Alberta, British Columbia, Nova Scotia, Ontario, Québec, Saskatchewan",Dry conditions and high winds,0.0,Km2,2023,2023,2.0,0.0,30000.0,30000.0,200000.0,200000.0
+Hydrological,Flood,Flash flood,Democratic Republic of the Congo,Sub-Saharan Africa,Africa,"Bushushu, Nyamukubi (South Kivu)",Heavy rains,0.0,Km2,2023,2023,2830.0,220.0,50000.0,50220.0,10000.0,10000.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,Jiangxi Province,Heavy rains,0.0,Km2,2023,2023,0.0,0.0,530000.0,530000.0,95000.0,95000.0
+Geophysical,Volcanic activity,Ash fall,Guatemala,Latin America and the Caribbean,Americas,"San Pedro Yepocapa, Chimaltenango, Panimaché I and II villages, El Porvenir and Morelia muncipalities",0,0.0,0,2023,2023,0.0,0.0,1054.0,1054.0,0.0,0.0
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,"Texas, Nebraska, Missouri, Kansas, Colorado, Illinois, Iowa, Indiana, Kentucky, Tennessee, South Carolina ",0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,2200000.0,2200000.0
+Climatological,Wildfire,Forest fire,Russian Federation,Eastern Europe,Europe,"Tyumen, Kurgan, Omsk",0,0.0,Km2,2023,2023,21.0,0.0,15000.0,15000.0,50000.0,50000.0
+Meteorological,Storm,Storm (General),Sierra Leone,Sub-Saharan Africa,Africa,"Dalakuru Village, Diang Chiefdom and Konadugu; Freetown City area",0,0.0,Kph,2023,2023,15.0,17.0,0.0,17.0,0.0,0.0
+Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,Asia,Nangarhar Province,Heavy rains,0.0,Km2,2023,2023,4.0,25.0,1500.0,1525.0,0.0,0.0
+Hydrological,Flood,Flood (General),Czechia,Eastern Europe,Europe,0,0,0.0,Km2,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Italy,Southern Europe,Europe,"Bologna, Ferrara, Forlì-Cesena, Modena, Parma, Ravenna, Reggio Emilia, Rimini;",Storm Minerva,0.0,Km2,2023,2023,15.0,0.0,46000.0,46000.0,9750000.0,9750000.0
+Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,Asia,"Coxs Bazar, Chattogram, Feni, and Noakhali districts, St Martin Island",0,220.0,Kph,2023,2023,3.0,12.0,750000.0,750012.0,1000.0,1000.0
+Meteorological,Storm,Tropical cyclone,India,Southern Asia,Asia,"Mizoram, Tripura, and Manipur states",0,0.0,Kph,2023,2023,0.0,0.0,1000.0,1000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Myanmar,South-eastern Asia,Asia,"Sittwe, Mrauk-U, Kyauktaw, or Minbya (Rakhine state); Chin, Magway, Sagaing, Ayeyarwady, Mandalay states",0,300.0,Kph,2023,2023,148.0,132.0,1200000.0,1200132.0,2240000.0,2240000.0
+Hydrological,Flood,Flash flood,Somalia,Sub-Saharan Africa,Africa,Belet Weyne District (Hirshabelle State) Baardheere District (Jubaland State),Heavy rains,0.0,Km2,2023,2023,22.0,0.0,468000.0,468000.0,0.0,0.0
+Meteorological,Extreme temperature,Cold wave,Mongolia,Eastern Asia,Asia,"Dornod, Dornogovi, Dundgovi, Govi-Altai, Khentii, Ömnögovi, Sükhbaatar",0,0.0,°C,2023,2023,2.0,0.0,5100.0,5100.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Guam,Micronesia,Oceania,0,0,295.0,Kph,2023,2023,2.0,0.0,100000.0,100000.0,4300000.0,4300000.0
+Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,Asia,Okinawa,0,215.0,Kph,2023,2023,3.0,35.0,0.0,35.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,"Ilocos Region, Cagayan Valley, Central Luzon, Western Visayas, CAR and MIMAROPA.",0,0.0,Kph,2023,2023,1.0,1.0,30500.0,30501.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,Asia,0,0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Mass movement (wet),Avalanche (wet),Pakistan,Southern Asia,Asia,Shounter,0,0.0,0,2023,2023,11.0,25.0,0.0,25.0,0.0,0.0
+Hydrological,Flood,Flood (General),Croatia,Southern Europe,Europe,"Gracac Municipality (Zadar County), Karlovac, Hrvatska Kostajnica",Heavy raons,0.0,Km2,2023,2023,0.0,0.0,177.0,177.0,0.0,0.0
+Hydrological,Flood,Flood (General),Bosnia and Herzegovina,Southern Europe,Europe,"Novi Grad, Prijedor, Kostajnica, Bihac, Buim, Sanski Most, Cazin, Velika Kladua, Kljuc, Bosanska Krupa, Kozarska Dubica and Srbac.",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,10000.0,10000.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,France,Western Europe,Europe,"La Laigne, Benon, Mauzé-sur-le-Mignon, Saint Hilaire-la-Palud and Cram-Chaban (Nouvelle-Aquitaine Region); Charente-Maritime",0,4.8,Moment Magnitude,2023,2023,0.0,2.0,750.0,752.0,445000.0,445000.0
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,"Texas, Oklahoma, Kansas, Louisiana, Michigan, Ohio, Mississippi, Nebraska, Wyoming, Colorado and Arkansas",0,0.0,Kph,2023,2023,5.0,135.0,60.0,195.0,3800000.0,3800000.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,Rio Grande do Sul,0,0.0,Km2,2023,2023,17.0,0.0,11100.0,11100.0,205000.0,205000.0
+Hydrological,Flood,Flood (General),Nepal,Southern Asia,Asia,"Nuwakot, Okhaldhunga, Panchthar, Shankhuwasabha, Taplejung, Dhankuta and Ilam (Koshi province)",Heavy rains,0.0,Km2,2023,2023,36.0,6.0,1500.0,1506.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,India,Southern Asia,Asia,"Uttar Pradesh, Bihar, Tripura, Odisha ",0,45.0,°C,2023,2023,179.0,460.0,0.0,460.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Pakistan,Southern Asia,Asia,0,0,49.0,°C,2023,2023,22.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia,"Nalbari, Baksa, Lakhimpur, Bajali, Barpet distrcits (Assam);Sikkim",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,500000.0,500000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,India,Southern Asia,Asia,"Barmer, Jalore, Sirohi, Pali, and Rajmasand (Rajasthan); Gujarat ",0,125.0,Kph,2023,2023,7.0,0.0,10000.0,10000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Pakistan,Southern Asia,Asia,0,0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,"Dallas, Tarrant, Denton, Ochiltree counties (Texas); Louisiana, Mississippi, Alabama, Georgia, Tennessee, Arkansas, South Carolina and Florida ",0,0.0,Kph,2023,2023,3.0,12.0,600.0,612.0,4100000.0,4100000.0
+Climatological,Wildfire,Wildfire (General),Kazakhstan,Central Asia,Asia,"Semei Ormany, Abai region",0,0.0,Km2,2023,2023,14.0,0.0,300.0,300.0,0.0,0.0
+Hydrological,Flood,Flood (General),Cuba,Latin America and the Caribbean,Americas,"Granma, Las Tunas, Santiago de Cuba, and Camagüey ",Heavy rains,0.0,Km2,2023,2023,6.0,0.0,18500.0,18500.0,0.0,0.0
+Hydrological,Flood,Flood (General),Haiti,Latin America and the Caribbean,Americas,"Ouest, Sud-Est, Nippes, Grand'Anse, Nord-Ouest, Centre, Sud",Tropical storm ARLENE,0.0,Km2,2023,2023,78.0,143.0,225000.0,225143.0,420000.0,420000.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,Leshan City (Sichuan province); Yiliang County (Yunnan province) ,Heavy rains,0.0,Km2,2023,2023,25.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Ecuador,Latin America and the Caribbean,Americas,"Atacames, Esmeraldas, Quinindé and Muisne",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,14186.0,14186.0,0.0,0.0
+Meteorological,Storm,Severe weather,South Africa,Sub-Saharan Africa,Africa,"Phoenix, Inanda, Ntuzuma, KwaMashu, Pinetown, Folweni, and the north of Durban (KwaZulu-Natal Province)",0,0.0,Kph,2023,2023,5.0,0.0,0.0,150.0,0.0,0.0
+Meteorological,Storm,Sand/Dust storm,Iran (Islamic Republic of),Southern Asia,Asia,"Zabol, Zahak, Hamoun, Hirmand and Nimrouz (Sistan and Baluchistan province)",0,0.0,Kph,2023,2023,0.0,1050.0,0.0,1050.0,0.0,0.0
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,"Balochistan, Khyber Pakhtunkhwa, and Punjab",Pre-monsoon rain,0.0,Km2,2023,2023,33.0,48.0,150.0,198.0,0.0,0.0
+Geophysical,Volcanic activity,Lava flow,Philippines,South-eastern Asia,Asia,"Bacacay, Camalig, Daraga, Guinobatan, Ligao, Malilipot, Santo Domingo, Tabaco (Albay Province, Bicol Region)",0,0.0,0,2023,2023,0.0,628.0,38396.0,39024.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),China,Eastern Asia,Asia,"Wenchuan County, Miansi Municipality and the Weizhou Municipality ((Sichuan Province)",Heavy rains,0.0,0,2023,2023,7.0,0.0,900.0,900.0,0.0,0.0
+Hydrological,Flood,Flash flood,India,Southern Asia,Asia,"Mandi, Solan and Hamirpur districts (Himachal Pradesh); Uttarakhand, Punjab, NewDelhi, Haryana",Monsoon rains,0.0,Km2,2023,2023,62.0,0.0,5.0,5.0,3000.0,3000.0
+Meteorological,Storm,Tropical cyclone,Barbados,Latin America and the Caribbean,Americas,0,0,0.0,Kph,2023,2023,0.0,0.0,179.0,179.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Saint Vincent and the Grenadines,Latin America and the Caribbean,Americas,0,0,0.0,Kph,2023,2023,0.0,0.0,150.0,150.0,0.0,0.0
+Hydrological,Flood,Flood (General),Chile,Latin America and the Caribbean,Americas,"Libertador, Maule, Metropolitana; Valparaíso; Nuble",Heavy rains,0.0,Km2,2023,2023,4.0,0.0,21673.0,21673.0,765000.0,765000.0
+Meteorological,Extreme temperature,Heat wave,United States of America,Northern America,Americas,"Texas, Louisiana, Florida, Arizona, New Mexico, Kansas, Oklahoma, and southern California",0,56.7,°C,2023,2023,14.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Guatemala,Latin America and the Caribbean,Americas,"Alta Verapaz, Escuintla, Baja Verapaz, Guatemala, Suchitepéques, Zacapa and Totonicapán Departments",Heavy rains,0.0,Km2,2023,2023,78.0,5.0,4400000.0,4400005.0,0.0,0.0
+Meteorological,Storm,Severe weather,Indonesia,South-eastern Asia,Asia,Batam City (Riau Islands),0,0.0,Kph,2023,2023,0.0,7.0,330.0,337.0,0.0,0.0
+Hydrological,Flood,Flood (General),Ghana,Sub-Saharan Africa,Africa,"Western, Ashanti and Greater Accra Regions",Heavy rains,0.0,Km2,2023,2023,8.0,0.0,250.0,250.0,0.0,0.0
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,"Montana, Wyoming, South Dakota, Nebraska, Minnesota, Ohio, Tennessee, Oklahoma, Wyoming, Colorado, Indiana, Kentucky, Arkansas",0,0.0,Kph,2023,2023,8.0,100.0,0.0,100.0,5300000.0,5300000.0
+Geophysical,Earthquake,Ground movement,Indonesia,South-eastern Asia,Asia,"Special Region of Yogyakarta, East and Central Java (Java province) ",0,5.8,Moment Magnitude,2023,2023,1.0,10.0,1110.0,1120.0,0.0,0.0
+Hydrological,Flood,Flood (General),Yemen,Western Asia,Asia,"Hajjah, Marib, Hodeidah, Al Bayda, Al Jawf, Sana'a, Amran, Saada, Ibb, Taiz, Dhamar, Shabwa and Al Mahwit governorates ",Heavy rains,0.0,Km2,2023,2023,248.0,183.0,308000.0,308183.0,0.0,0.0
+Biological,Epidemic,Viral disease,Peru,Latin America and the Caribbean,Americas,"Piura, Lambayeque",0,0.0,Vaccinated,2023,2023,176.0,110000.0,0.0,110000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Dominican Republic,Latin America and the Caribbean,Americas,"Azua, Barahona, Bahoruco, Dajabón, Elías Piña, Espaillat, Independencia, La Vega, Pedernales, Santiago, and Santiago Rodríguez",0,0.0,Km2,2023,2023,1.0,0.0,289083.0,289083.0,0.0,0.0
+Hydrological,Flood,Flood (General),Venezuela (Bolivarian Republic of),Latin America and the Caribbean,Americas,El Callao City (Bolivar State),0,0.0,Km2,2023,2023,12.0,0.0,112.0,112.0,0.0,0.0
+Hydrological,Flood,Flood (General),Serbia,Southern Europe,Europe,"Borski, Branicevski, Grad Beograd, Jablanicki, Kolubarski, Macvanski, Moravicki, Nisavski, Pcinjski, Pirotski, Pomoravski, Rasinski, Raski, Sumadijski, Toplicki, Zajecarski, Zlatiborski, Ivanjica, Svilajnac, Para?in, ?uprija, Ku?evo, Lazarevac, Novi Pazar, Despotovac, Lebane, Koceljeva, Varvarin, Zitoradja, ?i?evac, Jagodina, Kragujevac, Vucitrn, Lucani, Krusevac, Mladenovac, Rekovac, Vladimirci, Blace, Poega, Kraljevo, Priboj, Doljevac, Medvedja, Arilje, Vladicin Han, Kosjeric, Arandjelovac, Sokobanja, Sjenica, Boljevac, Prokuplje, and Trstenik",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,15432.0,15432.0,0.0,0.0
+Meteorological,Storm,Hail,Armenia,Western Asia,Asia,"Lori, Tavush, Syunik, Shirak",0,0.0,Kph,2023,2023,0.0,0.0,18000.0,18000.0,0.0,0.0
+Hydrological,Flood,Flash flood,Georgia,Western Asia,Asia,"Batumi city/municipality (Adjara Autonomous Republic (A/R); Chokhatauri and Lanchkhuti municipalities (Guria Region); Lentekhi municipality (Racha-Lechkhumi); Kvemo Svaneti Region; Gurjaani Municipality (Kakheti Region); Kutaisi, Samtredia and Khoni Municipalities (Imereti Region); Abasha, Zugdidi, Martvili, Senaki, Chkhorotsku and Khobi municipalities (Samegrelo-Zemo Svaneti region); Lentekhi and Gurjaani municipalities",0,0.0,Km2,2023,2023,0.0,0.0,350000.0,350000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Argentina,Latin America and the Caribbean,Americas,"Quilmes (Buenos Aires); Santa Fe, Córdoba, Entre Ríos, Neuquen",0,0.0,Km2,2023,2023,0.0,0.0,38000.0,38000.0,0.0,0.0
+Meteorological,Storm,Storm (General),Gabon,Sub-Saharan Africa,Africa,Haut Ogoue,0,0.0,Kph,2023,2023,0.0,0.0,3000.0,3000.0,0.0,0.0
+Hydrological,Flood,Flash flood,Japan,Eastern Asia,Asia,"Yamaguchi Prefecture (Honshu); Oita Prefecture (Kyushu islands); Kumamoto City (Kumamoto Prefecture); Hiroshima, Yamaguchi, Fukuoka Saga, Oita",Heavy rains,0.0,Km2,2023,2023,6.0,18.0,4200.0,4218.0,0.0,0.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,"Sichuan, Henan, Hunan, Guizhou, Shaanxi and Yunan and the Inner Mongolia Autonomous Region",0,0.0,Km2,2023,2023,21.0,0.0,95000.0,109000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Thailand,South-eastern Asia,Asia,"Nan, Chanthaburi, Rayong, Krabi, Phang Nga, Trang, Satun and Nakhon Si Thammarat",Monsoonal rains,0.0,Km2,2023,2023,0.0,0.0,7650.0,7650.0,0.0,0.0
+Biological,Epidemic,Viral disease,Nepal,Southern Asia,Asia,"Bagmati, Lumbini",0,0.0,Vaccinated,2023,2023,0.0,600.0,0.0,600.0,0.0,0.0
+Hydrological,Flood,Flood (General),United States of America,Northern America,Americas,"Vermont, New York, Connecticut, Pennsylvania, Massachusetts, New Jersey, New Hampshire, Missouri, Illinois, Kentucky,Tennessee",Severe storms ,0.0,Km2,2023,2023,10.0,0.0,0.0,0.0,2200000.0,2200000.0
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia,"Himachal Pradesh, Uttarakhand, Delhi, Bihar, Madyah Pradesh, Maharashtra, Chhattisgarh, Gujarat, Punjab, Karnataka, Assam",Monsoon rains,0.0,Km2,2023,2023,1529.0,0.0,10250000.0,10250000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,"Punjab, Khyber Pakhtunkhwa, Balochistan, Sindh Azad Jammu and Kashmir",Monsoon rain,0.0,Km2,2023,2023,217.0,320.0,28855.0,29175.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Matriz de Camaragibe, Marechal Deodoro, São Miguel dos Milagres, União dos Palmares, Rio Largo, Atalaia, Cajueiro, Murici, and Jacuípe (Alagoas); Pernambuco",Heavy rains,0.0,Km2,2023,2023,14.0,0.0,20000.0,20000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Mongolia,Eastern Asia,Asia,"Ulaanbaatar, Selenge, Töv",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,288738.0,288738.0,0.0,0.0
+Meteorological,Storm,Storm (General),Sri Lanka,Southern Asia,Asia,0,0,0.0,Kph,2023,2023,0.0,0.0,6631.0,6631.0,0.0,0.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,Karangasem and Bangli (Bali Province); Lumajang (East Java Province),Heavy rains,0.0,Km2,2023,2023,6.0,7.0,510.0,517.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Albania,Southern Europe,Europe,0,0,0.0,°C,2023,2023,363.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Austria,Western Europe,Europe,0,0,0.0,°C,2023,2023,486.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Belgium,Western Europe,Europe,0,0,0.0,°C,2023,2023,324.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Bulgaria,Eastern Europe,Europe,0,0,0.0,°C,2023,2023,1670.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Switzerland,Western Europe,Europe,0,0,0.0,°C,2023,2023,294.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Cyprus,Western Asia,Asia,0,0,0.0,°C,2023,2023,151.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Czechia,Eastern Europe,Europe,0,0,0.0,°C,2023,2023,361.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Germany,Western Europe,Europe,0,0,0.0,°C,2023,2023,6376.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Denmark,Northern Europe,Europe,0,0,0.0,°C,2023,2023,189.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Spain,Southern Europe,Europe,"Figueres, Catalunya",0,45.4,°C,2023,2023,8352.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Estonia,Northern Europe,Europe,0,0,0.0,°C,2023,2023,103.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Finland,Northern Europe,Europe,0,0,0.0,°C,2023,2023,138.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,France,Western Europe,Europe,0,0,42.8,°C,2023,2023,2734.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,0,0,0.0,°C,2023,2023,1851.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Greece,Southern Europe,Europe,Crete,0,44.2,°C,2023,2023,4339.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Croatia,Southern Europe,Europe,0,0,0.0,°C,2023,2023,561.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Hungary,Eastern Europe,Europe,0,0,0.0,°C,2023,2023,294.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Ireland,Northern Europe,Europe,0,0,0.0,°C,2023,2023,60.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Iceland,Northern Europe,Europe,0,0,0.0,°C,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Italy,Southern Europe,Europe,"Sardaigne, Sicile, Roe, Bologne, Pascara, Naples",0,48.8,°C,2023,2023,12743.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Liechtenstein,Western Europe,Europe,0,0,0.0,°C,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Lithuania,Northern Europe,Europe,0,0,0.0,°C,2023,2023,247.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Luxembourg,Western Europe,Europe,0,0,0.0,°C,2023,2023,33.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Latvia,Northern Europe,Europe,0,0,0.0,°C,2023,2023,58.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Malta,Southern Europe,Europe,0,0,0.0,°C,2023,2023,70.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Montenegro,Southern Europe,Europe,0,0,0.0,°C,2023,2023,41.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Netherlands (Kingdom of the),Western Europe,Europe,0,0,0.0,°C,2023,2023,368.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Norway,Northern Europe,Europe,0,0,0.0,°C,2023,2023,29.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Poland,Eastern Europe,Europe,0,0,0.0,°C,2023,2023,616.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Portugal,Southern Europe,Europe,0,0,0.0,°C,2023,2023,1432.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Romania,Eastern Europe,Europe,0,0,0.0,°C,2023,2023,2585.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Serbia,Southern Europe,Europe,0,0,0.0,°C,2023,2023,464.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Slovakia,Eastern Europe,Europe,0,0,0.0,°C,2023,2023,247.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Slovenia,Southern Europe,Europe,0,0,0.0,°C,2023,2023,95.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Sweden,Northern Europe,Europe,0,0,0.0,°C,2023,2023,13.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Republic of Korea,Eastern Asia,Asia,"North Gyeongsang, South Chungcheong Provinces",Monsoon rain,0.0,Km2,2023,2023,58.0,34.0,10500.0,10534.0,0.0,0.0
+Climatological,Wildfire,Forest fire,Greece,Southern Europe,Europe,"Athenes; Neo Kouvaras village, Loutraki municipality, Rhodes ( north-eastern Peloponnese; Saronikou and Mandra muncipalities (Attica region); gia Sotira, Palaiokoundoura, Panorama and Palaiochori, Oinoi, and Erythrae (Western Attica); Attica, Boeotia, Evia, Corinthia, Argolis, Rhodes, Samos, Ikaria, Corfu",0,0.0,Km2,2023,2023,3.0,11.0,19000.0,19011.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,Northern Luzon,0,0.0,Kph,2023,2023,2.0,0.0,450.0,450.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Viet Nam,South-eastern Asia,Asia,Kien Giang Province,0,0.0,Kph,2023,2023,1.0,3.0,0.0,3.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Colombia,Latin America and the Caribbean,Americas,Quetame Municipality (Cundinamarca Department),Heavy rains,0.0,0,2023,2023,29.0,6.0,0.0,106.0,0.0,0.0
+Hydrological,Flood,Flood (General),Niger,Sub-Saharan Africa,Africa,"Maradi, Tahoua , Agadez, Dosso, Niamey, Zinder and Tillabéri Regions",Heavy rains,0.0,Km2,2023,2023,41.0,53.0,169598.0,169651.0,0.0,0.0
+Meteorological,Storm,Hail,Italy,Southern Europe,Europe,"Padoue, Vicence et Trévise regions (Venise)",0,0.0,Kph,2023,2023,0.0,110.0,0.0,110.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),India,Southern Asia,Asia,"Irshalwadi Village (Raigad District, western Maharashtra State)",Heavy rains,0.0,0,2023,2023,28.0,0.0,0.0,200.0,0.0,0.0
+Meteorological,Storm,Storm (General),Bosnia and Herzegovina,Southern Europe,Europe,Brcko District,0,0.0,Kph,2023,2023,1.0,20.0,0.0,20.0,0.0,0.0
+Meteorological,Storm,Storm (General),Croatia,Southern Europe,Europe,Brod-Posavina and Vukovar-Srijem Counties; Vinkovci,0,0.0,Kph,2023,2023,1.0,100.0,6000.0,6100.0,0.0,0.0
+Meteorological,Storm,Storm (General),Serbia,Southern Europe,Europe,0,0,0.0,Kph,2023,2023,0.0,0.0,20.0,20.0,0.0,0.0
+Meteorological,Storm,Storm (General),Slovakia,Eastern Europe,Europe,Michalovce and Sobrance regions,0,0.0,Kph,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Storm (General),Slovenia,Southern Europe,Europe,"Bled Town, ?rnomelj, Savinja region",0,0.0,Kph,2023,2023,1.0,3.0,3000.0,3003.0,0.0,0.0
+Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,Asia,"Jalrez, Saydabad, Chaki Wardak and Maidan Shahr Districts (Maidan Wardak Province); Khost Province and Kabul area; Badakhshan, Daikundi, Ghazni, Helmand, Kandahar, Kapisa, Kunar, Kunduz, Logar, Nangarhar, Nuristan, Paktia, Parwan, Uruzgan, and Zabul",Heavy rains,0.0,Km2,2023,2023,67.0,24.0,126000.0,126024.0,0.0,0.0
+Hydrological,Flood,Flash flood,Pakistan,Southern Asia,Asia,0,Monsoonal rain,0.0,Km2,2023,2023,13.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,China,Eastern Asia,Asia,"Fujian Province; Shijiazhuang, Hebei Province; Shanxi province",0,185.0,Kph,2023,2023,56.0,39.0,880000.0,880039.0,25000000.0,25000000.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,"Luzon Isl., Region 3, 1 (Ilocos), 6, 2 (Cagayan), 12, 5, 11 and 10, CAR, Mimaropa, NCR, Calabarzon, BARMM",0,240.0,Kph,2023,2023,39.0,171.0,5385066.0,5385237.0,284256.0,284256.0
+Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,Asia,0,0,0.0,Kph,2023,2023,1.0,68.0,0.0,68.0,10000.0,10000.0
+Hydrological,Flood,Flood (General),Canada,Northern America,Americas,"East and West Hants Regional Municipality, Halifax Regional Municipality, Lunenburg and Queens counties in southern Nova Scotia",Heavy rains,0.0,Km2,2023,2023,4.0,0.0,450.0,450.0,0.0,0.0
+Meteorological,Storm,Severe weather,Switzerland,Western Europe,Europe,La Chaux-de-Fonds (Neuchatel),0,0.0,Kph,2023,2023,2.0,40.0,15000.0,15040.0,0.0,0.0
+Meteorological,Storm,Severe weather,Germany,Western Europe,Europe,0,0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Severe weather,Italy,Southern Europe,Europe,"Brescia, Lissone, Milan, Varese, Monza-Brianza, Bergamo",0,110.0,Kph,2023,2023,2.0,0.0,0.0,0.0,100000.0,100000.0
+Meteorological,Storm,Severe weather,Romania,Eastern Europe,Europe,Oradea and Bihor regions,0,144.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Severe weather,Serbia,Southern Europe,Europe,0,0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Algeria,Northern Africa,Africa,"Béjaïa, Bouira, Boumerdes, Tizi Ouzou, Jijel et Skikda",0,0.0,Km2,2023,2023,34.0,26.0,30000.0,30026.0,0.0,0.0
+Biological,Epidemic,Viral disease,Bangladesh,Southern Asia,Asia,"Barisal, Chittagong, Dhaka",0,0.0,Vaccinated,2023,2023,127.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Cameroon,Sub-Saharan Africa,Africa,"Limbe, Fako Division",Heavy rains,0.0,Km2,2023,2023,2.0,5.0,93255.0,93260.0,0.0,0.0
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia,Mulugu District (western Telangana),Monsoonal rains,0.0,Km2,2023,2023,23.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Storm (General),Russian Federation,Eastern Europe,Europe,Lake Yalchik (Mari-El Region),0,0.0,Kph,2023,2023,10.0,76.0,0.0,76.0,0.0,0.0
+Hydrological,Flood,Flood (General),Viet Nam,South-eastern Asia,Asia,"Lam Dong Province (central Vietnam), Binh Thuan Province (south-eastern Vietnam) and Bac Lieu Province (southern Vietnam)",0,0.0,Km2,2023,2023,7.0,0.0,1730.0,2175.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,Asia,"Okinawa, Kagoshima prefectures",0,220.0,Kph,2023,2023,2.0,41.0,0.0,41.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Republic of Korea,Eastern Asia,Asia,0,0,0.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Russian Federation,Eastern Europe,Europe,Ussuriysk and Spassk-Dalny (Primorsky Region),0,0.0,Kph,2023,2023,3.0,0.0,13200.0,13200.0,0.0,0.0
+Hydrological,Flood,Flood (General),Lao People's Democratic Republic,South-eastern Asia,Asia,"Atsaphon district (Savannnakhet); Khammuan, Bokeo, Houaphan, Luang Prabang, Xaignabouli, Xiangkhouang,Vientiane, Bolikhamxai, Champasak and Xaixomboun provinces",Heavy rains,0.0,Km2,2023,2023,7.0,0.0,110129.0,110129.0,7719.0,7719.0
+Hydrological,Flood,Flood (General),Slovenia,Southern Europe,Europe,"Gorenjska, Goriska, Jugovzodna Slovenija, Koroska, Osrednjeslovenska, Podravska, Pomurska, Savinjska, Spodnjeposavska, Zasavska",0,0.0,Km2,2023,2023,0.0,0.0,1500120.0,1500120.0,0.0,0.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,"Beijing city, esatern China",Heavy rains,0.0,Km2,2023,2023,51.0,0.0,600000.0,600000.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Portugal,Southern Europe,Europe,Odemira Municipality,0,0.0,Km2,2023,2023,0.0,35.0,1400.0,1435.0,0.0,0.0
+Hydrological,Flood,Flash flood,Mongolia,Eastern Asia,Asia,Ulaanbaatar,Torrental rains,0.0,Km2,2023,2023,4.0,0.0,1230.0,1230.0,0.0,0.0
+Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,Asia,"Chattogram, Coxs Bazar, Bandarban, Rangamati, and Feni (Chattogram Division); Chittagong, Bandarban, Rangamati,",Heavy rain,0.0,Km2,2023,2023,4.0,6.0,1000000.0,1000006.0,0.0,0.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,Shulan City (Jilin Province),Heavy rains,0.0,Km2,2023,2023,14.0,0.0,134000.0,134000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Myanmar,South-eastern Asia,Asia,"Belin town, Thaton town (Mon State); Hpa-an town, Myawaddy town (Kayin State); Kayin, Rakhine, Mon and Bago",Heavy rains,0.0,Km2,2023,2023,5.0,0.0,48000.0,48000.0,0.0,0.0
+Hydrological,Flood,Flash flood,Viet Nam,South-eastern Asia,Asia,"Lai Chau, Yen Bai, Son La, Lao Cai, Dien Bien, Thai Nguyen, Gia Lai, Dak Lak, Dak Nong, and Lam Dong provinces",Heavy rains,0.0,Km2,2023,2023,15.0,8.0,214527.0,214535.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Georgia,Western Asia,Asia,"Oni Municipality, Racha-Lechkhumi and Kvemo Svaneti Region",Heavy rains,0.0,0,2023,2023,18.0,0.0,0.0,0.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,China,Eastern Asia,Asia,Dezhou and Liaocheng,0,5.4,Moment Magnitude,2023,2023,0.0,21.0,0.0,399.0,35000.0,35000.0
+Climatological,Wildfire,Wildfire (General),United States of America,Northern America,Americas,Maui and Kula City (Hawai),0,0.0,Km2,2023,2023,128.0,0.0,7695.0,7695.0,5500000.0,5500000.0
+Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,Asia,Hyogo and Osaka,0,0.0,Kph,2023,2023,0.0,66.0,600.0,666.0,0.0,0.0
+Meteorological,Storm,Storm (General),China,Eastern Asia,Asia,"Yancheng (Jiangsu Province), Hunan Province",0,0.0,Kph,2023,2023,5.0,18.0,849.0,867.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),France,Western Europe,Europe,Saint-André and Argelès-sur-Mer (Pyrénées-Orientales department),0,0.0,Km2,2023,2023,0.0,51.0,90.0,141.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Myanmar,South-eastern Asia,Asia,Hpakant,Heavy rains,0.0,0,2023,2023,39.0,0.0,0.0,0.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),United States of America,Northern America,Americas,Spokane County (eastern Washington State),0,0.0,Km2,2023,2023,2.0,1.0,720.0,802.0,0.0,0.0
+Climatological,Wildfire,Forest fire,Greece,Southern Europe,Europe,"Alexandroupolis-Feres and Rodopi in East Macedonia, in Viotia (Central Greece), Parrnitha (Attica), Evia Island, and Kythnos Island",0,0.0,Km2,2023,2023,20.0,0.0,0.0,0.0,200000.0,200000.0
+Hydrological,Flood,Flood (General),Chile,Latin America and the Caribbean,Americas,"Valparaíso, Santiago Metropolitan, OHiggins, Maule, Ñuble, Biobío Regions",Heavy rains,0.0,Km2,2023,2023,3.0,0.0,32000.0,32000.0,1100000.0,1100000.0
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,Punjab Province,Monsoon rains,0.0,Km2,2023,2023,16.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),India,Southern Asia,Asia,Himachal Pradesh and Uttarakhand states,0,0.0,0,2023,2023,10.0,0.0,605.0,605.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),India,Southern Asia,Asia,Mizoram State,0,0.0,0,2023,2023,26.0,2.0,0.0,2.0,0.0,0.0
+Hydrological,Flood,Flash flood,China,Eastern Asia,Asia,"Weiziping, Xi'an City, southern Shaanxi Province",Heavy rains,0.0,Km2,2023,2023,27.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Dominican Republic,Latin America and the Caribbean,Americas,"Barahona,Azua, Bahoruco, Elias Pina, Independencia",0,80.0,Kph,2023,2023,3.0,0.0,289083.0,289083.0,0.0,0.0
+Biological,Epidemic,Bacterial disease,Congo,Sub-Saharan Africa,Africa,"Bouenza, Kouilou, Niari, Pointe-Noire, Dolisie, Bazzaville",0,0.0,0,2023,2023,52.0,1752.0,84240.0,85992.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Cuba,Latin America and the Caribbean,Americas,"Pinar del Rio, Artemisa, and Havana provinces",0,0.0,Kph,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,United States of America,Northern America,Americas,"Tampa, St. Petersburg, Sarasota, Tarpon Springs, Fort Myers Naples (Florida); Brooks and Lowndes Counties (Georgia); Mt. Pleasant, Edisto Beach, and Folly Beach (South Carolina); Whiteville, Wilmington, Outer Banks (North Carolina)",0,150.0,Kph,2023,2023,5.0,0.0,0.0,0.0,3500000.0,3500000.0
+Meteorological,Storm,Tropical cyclone,China,Eastern Asia,Asia,Shenzhen City (Guangdong Province),0,0.0,Kph,2023,2023,1.0,2.0,0.0,2.0,690000.0,690000.0
+Meteorological,Storm,Tropical cyclone,"China, Hong Kong Special Administrative Region",Eastern Asia,Asia,0,0,0.0,Kph,2023,2023,0.0,86.0,0.0,86.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,0,0,0.0,Kph,2023,2023,4.0,3.0,900000.0,900003.0,33000.0,33000.0
+Hydrological,Flood,Flood (General),Tajikistan,Central Asia,Asia,"Vakhdat, Varzob Roudaki districts (Douchanbe)",Heavy rains,0.0,Km2,2023,2023,21.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,"Punjab, Sindh, and Balochistan",Heavy rains,0.0,Km2,2023,2023,6.0,101.0,89500.0,89601.0,0.0,0.0
+Biological,Epidemic,Viral disease,Kyrgyzstan,Central Asia,Asia,"Bishkek City, Chuy, Osh, Osh City, Jala-Abad, Batken, Talas, Issyk-Kul, Naryn",0,0.0,Vaccinated,2023,2023,0.0,3618.0,0.0,3618.0,0.0,0.0
+Hydrological,Flood,Flood (General),Guinea,Sub-Saharan Africa,Africa,"Kindia, Coyah, Conakry and Siguiri,",Torrential rains,0.0,Km2,2023,2023,8.0,937.0,24135.0,25072.0,0.0,0.0
+Hydrological,Flood,Flood (General),Mauritania,Sub-Saharan Africa,Africa,Brakna,Heavy rains,0.0,Km2,2023,2023,1.0,0.0,7200.0,7200.0,0.0,0.0
+Hydrological,Flood,Flood (General),Algeria,Northern Africa,Africa,Bab Al-Assa Municipality (Tlemcen); El Haoudh Village (El Bayadh Province),Heavy Rains,0.0,Km2,2023,2023,8.0,218.0,1450.0,1668.0,0.0,0.0
+Hydrological,Flood,Flood (General),Spain,Southern Europe,Europe,"Catalonia, Valencia, Andalusia, Aragón, Madrid Community and Castilla-La Mancha Regions",Heavy rains,0.0,Km2,2023,2023,3.0,0.0,6000.0,6000.0,370000.0,370000.0
+Hydrological,Flood,Flood (General),Bulgaria,Eastern Europe,Europe,Tsarevo Municipality (Burgas Province),0,0.0,Km2,2023,2023,4.0,0.0,4000.0,4000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Greece,Southern Europe,Europe,"Volos City, Pelion, Karditsa, Astritsa and Domokos-near Lamia,Thessaly; Central Greece, Central Macedonia, Peloponnese and Attica Regions",Storm 'Daniel',0.0,Km2,2023,2023,17.0,0.0,5260.0,5260.0,0.0,0.0
+Hydrological,Flood,Flood (General),Türkiye,Western Asia,Asia,"Istanbul City, Kirklareli Province",Storm 'Daniel',0.0,Km2,2023,2023,8.0,31.0,0.0,31.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Morocco,Northern Africa,Africa,"Al Haouz and Taroudant Provinces; Marrakech; Ouarzazate, Azilal, Chichaoua",0,6.8,Moment Magnitude,2023,2023,2946.0,5674.0,840000.0,845674.0,7000000.0,7000000.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,"Asahan Regency (North Sumatra Province); Teluk Dalam, Simpang Empat and Meranti Districts.",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,14500.0,14500.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Argentina,Latin America and the Caribbean,Americas,Gobernador Virasoro and Ituzaingo (Posadas municipality),0,0.0,Kph,2023,2023,0.0,0.0,6000.0,6000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Brazil,Latin America and the Caribbean,Americas,"Muçum, Roca Sales and Cruzeiro do Sul Municipalities (Rio Grande do Sul State)",0,0.0,Kph,2023,2023,46.0,924.0,341000.0,341924.0,705000.0,705000.0
+Meteorological,Storm,Lightning/Thunderstorms,India,Southern Asia,Asia,"Khurda, Balangir, Angul, Boudh, Dhenkanal, Gajapati, Jagatsinghpur, and Puri (Odisha State)",0,0.0,Kph,2023,2023,12.0,14.0,1060.0,1074.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,Asia,"Central Honshu Island, west of the Greater Tokyo area; Ibaraki, Chiba and Fukushima Prefectures",0,0.0,Kph,2023,2023,3.0,0.0,3600.0,3600.0,0.0,0.0
+Meteorological,Storm,Storm (General),Libya,Northern Africa,Africa,"Benghazi, Tobruk, Toukra, Talmeitha, Almarj, Taknes (Al Jabal Al Akhdar), Al Owailia, Bayada, Albayda, Shahhat, Sousa and Derna",0,0.0,Kph,2023,2023,12352.0,0.0,1600000.0,1600000.0,6200000.0,6200000.0
+Hydrological,Flood,Flash flood,China,Eastern Asia,Asia,Shenzhen,Heavy rains,0.0,Km2,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flash flood,"China, Hong Kong Special Administrative Region",Eastern Asia,Asia,0,0,0.0,Km2,2023,2023,0.0,119.0,0.0,119.0,0.0,0.0
+Hydrological,Flood,Flood (General),South Africa,Sub-Saharan Africa,Africa,Western Cape province,Heavy rains,0.0,Km2,2023,2023,11.0,0.0,5000.0,5000.0,0.0,0.0
+Meteorological,Storm,Storm (General),Greece,Southern Europe,Europe,"Volos (Magnésie, Eubée Isl.); Fthiotida department; Thessaly and Sterea; Epirus and Kastoria",0,0.0,Kph,2023,2023,0.0,0.0,250.0,250.0,0.0,0.0
+Climatological,Glacial lake outburst flood,Glacial lake outburst flood,India,Southern Asia,Asia,"Sikkim state Gangtok, Mangan and Pakyong (Bengal state)",0,0.0,0,2023,2023,178.0,0.0,88400.0,88400.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,China,Eastern Asia,Asia,"Guangdong, Fujian Provinces",0,0.0,Kph,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,"China, Hong Kong Special Administrative Region",Eastern Asia,Asia,0,0,0.0,Kph,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,"Luzon, Batanes and the Babuyan Islands",0,0.0,Kph,2023,2023,0.0,0.0,275.0,275.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,Asia,"Taichung, Tainan and Kaohsiung",0,191.0,Kph,2023,2023,1.0,190.0,0.0,190.0,0.0,0.0
+Hydrological,Flood,Flood (General),Myanmar,South-eastern Asia,Asia,"Pegou region; Bago and Yangon, and Mon State.",Heavy rains,0.0,Km2,2023,2023,5.0,35.0,27300.0,27335.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Cameroon,Sub-Saharan Africa,Africa,Mbankolo area (Yaoundé),Heavy rains,0.0,0,2023,2023,27.0,0.0,2000.0,2000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Viet Nam,South-eastern Asia,Asia,"Yen Bai, Thai Nguyen et Tuyen Quang provinces",Heavy rains,0.0,Km2,2023,2023,2.0,0.0,1900.0,1900.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,Herat region,0,5.4,Moment Magnitude,2023,2023,2445.0,9240.0,560000.0,569240.0,0.0,0.0
+Hydrological,Flood,Flash flood,Mexico,Latin America and the Caribbean,Americas,Autlan (Jalisco state),Heavy rains,0.0,Km2,2023,2023,11.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),United States of America,Northern America,Americas,"New York city; New Jersey, Connecticut, Texas, Oklahoma, and Arkansas",Heavy rains and storms,0.0,Km2,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Nepal,Southern Asia,Asia,"Achham, Baitadi, Bajhang and Bajura districts ",0,5.7,Moment Magnitude,2023,2023,1.0,23.0,36250.0,36273.0,0.0,0.0
+Hydrological,Flood,Flood (General),Sri Lanka,Southern Asia,Asia,"Western, Southern, Northern, Central, North Western, and Sabaragamuwa Provinces; Kandy and Nuwara-Eliya Districts.",Heavy rians,0.0,Km2,2023,2023,0.0,0.0,244504.0,244504.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"Nebraska, Texas, Oklahoma, Missouri, and Kentucky",0,0.0,Kph,2023,2023,2.0,0.0,0.0,0.0,1600000.0,1600000.0
+Meteorological,Storm,Sand/Dust storm,Iran (Islamic Republic of),Southern Asia,Asia,Sistan and Baluchestan Provinces,0,0.0,Kph,2023,2023,3.0,2017.0,0.0,2017.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,"Gulran, Injil and Kush districts (Herat province)",0,6.3,Moment Magnitude,2023,2023,1.0,140.0,0.0,140.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Argentina,Latin America and the Caribbean,Americas,"Catamarca, Jujuy Provinces, Córdoba, Tucumán and San Luis Provinces",0,0.0,Km2,2023,2023,0.0,0.0,800.0,800.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Rio do Sul, Tubarão, Blumenau, and Lontras municipalities (Santa Catarina state)",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,26509.0,26509.0,1200.0,1200.0
+Hydrological,Mass movement (wet),Landslide (wet),Democratic Republic of the Congo,Sub-Saharan Africa,Africa,Lisal City (Mongala Province),Heavy rains,0.0,0,2023,2023,17.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Nigeria,Sub-Saharan Africa,Africa,Emirates of Dukku and Nafada in Gombe State,Torrential rains,0.0,Km2,2023,2023,0.0,0.0,1336.0,1336.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Mexico,Latin America and the Caribbean,Americas,Acapulco (central Guerrero State),0,270.0,Kph,2023,2023,104.0,0.0,988000.0,988000.0,12000000.0,12000000.0
+Meteorological,Storm,Tropical cyclone,Solomon Islands,Melanesia,Oceania,0,0,0.0,Kph,2023,2023,0.0,0.0,22319.0,22319.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Vanuatu,Melanesia,Oceania,"Penama, Malampa, Sanma, Shefa and Torba Provinces; Pentecost Island (Penama Province)",0,205.0,Kph,2023,2023,0.0,0.0,91000.0,91000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Somalia,Sub-Saharan Africa,Africa,"Baidoa, Jowhar, and Luuq","Heavy rains, El Nino",0.0,Km2,2023,2023,4.0,0.0,278000.0,278000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Yemen,Western Asia,Asia,"Hadramout, Shabwa, Al-Mahara, Al Mahrah, Socotra Governorates",0,0.0,Kph,2023,2023,7.0,150.0,90000.0,90150.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,Asia,Cox's Bazar district,0,110.0,Kph,2023,2023,3.0,0.0,1500000.0,1500000.0,250000.0,250000.0
+Hydrological,Flood,Flood (General),Ghana,Sub-Saharan Africa,Africa,"South, Central, and North Tongu Districts (Volta region)",0,0.0,Km2,2023,2023,0.0,7.0,40857.0,40864.0,0.0,0.0
+Hydrological,Flood,Flood (General),Nigeria,Sub-Saharan Africa,Africa," Fufore, Demsa, Shelleng (Adamawa State)",Heavy rains,0.0,Km2,2023,2023,275.0,0.0,30000.0,30000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Honduras,Latin America and the Caribbean,Americas,0,0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,El Salvador,Latin America and the Caribbean,Americas,0,0,0.0,Kph,2023,2023,3.0,0.0,500.0,500.0,0.0,0.0
+Biological,Epidemic,Bacterial disease,Zimbabwe,Sub-Saharan Africa,Africa,"Buhera, Chegutu, Chikomba, Chimanimani, Chipinge, Chitungwiza, Chiredzi, Harare, Gokwe North, Marondera, Mazowe, Shamva, Mutare, Murehwa, Mwenezi, Seke and Wedza; Manicaland, Matabeleland South; Masvingo",0,0.0,0,2023,2024,719.0,4217.0,0.0,4217.0,0.0,0.0
+Biological,Epidemic,Viral disease,Costa Rica,Latin America and the Caribbean,Americas,"Alajuela, Heredia, Limon, Puntarenas",0,0.0,Vaccinated,2023,2023,0.0,14403.0,0.0,14403.0,0.0,0.0
+Hydrological,Flood,Flood (General),Kenya,Sub-Saharan Africa,Africa,"Tana River, Garissa, Wajir, Mandera, Marsabit, Isiolo, Meru, Samburu","Heavy rains, El Nino",0.0,Km2,2023,2024,406.0,242.0,695255.0,695497.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Nepal,Southern Asia,Asia,Jajarkot and Rukum Districts of Karnali Province,0,5.7,Moment Magnitude,2023,2023,154.0,366.0,300000.0,300366.0,100000.0,100000.0
+Meteorological,Storm,Extra-tropical storm,Belgium,Western Europe,Europe,0,0,0.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Germany,Western Europe,Europe,0,0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Spain,Southern Europe,Europe,0,0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,France,Western Europe,Europe,"Finistère, Côtes-d'Armor, Manche, Morbihan",0,207.0,Kph,2023,2023,2.0,16.0,0.0,16.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,0,0,150.0,Kph,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Italy,Southern Europe,Europe,"Prato, Fucecchio, Pontedera, Quarrata, Montemurlo, and Orentano (Tuscany); Veneto, Liguria and Emilia-Romagna Regions",0,0.0,Kph,2023,2023,8.0,0.0,1200.0,1200.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Netherlands (Kingdom of the),Western Europe,Europe,0,0,0.0,Kph,2023,2023,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Spain,Southern Europe,Europe,Valdezcaray (La Rioja); Estaca de Bares (A Coruña); Cabo Busto (Asturias),0,203.0,Kph,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,France,Western Europe,Europe,"Deux-Sèvres, Charente-Maritime, Charentes Departments ( Nouvelle-Aquitain Region); Isère Department (Auvergne-Rhône-Alpes Region); Pas de Calais",0,151.0,Kph,2023,2023,0.0,50.0,0.0,517050.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Spain,Southern Europe,Europe,Montitxelvo municipality (Valencia),0,0.0,Km2,2023,2023,0.0,0.0,800.0,800.0,0.0,0.0
+Hydrological,Flood,Flash flood,Ethiopia,Sub-Saharan Africa,Africa," Somali Region, Afar, Oromia, SNNP, Gambela","Heavy rains, El Nino",0.0,Km2,2023,2023,60.0,0.0,1500000.0,1500000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Malaysia,South-eastern Asia,Asia,"Selangor, Perak, and Pahang states",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,881.0,881.0,0.0,0.0
+Meteorological,Storm,Severe weather,Honduras,Latin America and the Caribbean,Americas,"Atlántida, Colón, Cortés, Gracias a Dios, Islas de la Bahía, Santa Bárbara, Yoro, Olancho and Alianza Municipality in Valle Department",0,0.0,Kph,2023,2023,4.0,0.0,46658.0,46658.0,0.0,0.0
+Meteorological,Storm,Severe weather,Sri Lanka,Southern Asia,Asia,"Kurunegala, Kandy, Anuradhapura, Puttalam, Ratnapura Districts",0,0.0,Kph,2023,2023,8.0,0.0,34800.0,34800.0,0.0,0.0
+Hydrological,Flood,Flood (General),Belgium,Western Europe,Europe,"Westhoerk, Kachtem, and Wevelgem (West Flanders)",Heavy rains,50.0,Km2,2023,2023,0.0,0.0,3000.0,3000.0,0.0,0.0
+Hydrological,Flood,Flood (General),France,Western Europe,Europe,"Pas-de-Calais Department, Hauts-de-France Region",Heavy rains,30.0,Km2,2023,2023,0.0,0.0,3500.0,3500.0,1650000.0,1650000.0
+Geophysical,Earthquake,Ground movement,Philippines,South-eastern Asia,Asia,"Luzon Strait (near Calayan Island, southern Babuyan Islands)",0,6.2,Moment Magnitude,2023,2023,0.0,5.0,175.0,180.0,0.0,0.0
+Hydrological,Flood,Flood (General),Somalia,Sub-Saharan Africa,Africa,"Bay, Ged, Bakool, South West, Hirshabelle, Jubaland, Galmudug, Belet Weyne, Balcad, Awdal, Bari, Mudug, Nugaal, Togdheer, Woqooyi Galbeed ",El Nino; Deyr Rainy Season,0.0,Km2,2023,2023,118.0,0.0,2480000.0,2480000.0,0.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,Mongolia,Eastern Asia,Asia,"Arhangai, Bayanhongor, Bayan-Ölgii, Bulgan, Dornod, Dornogovi, Dundgovi, Govi-Altai, Khentii, Khovd, Khövsgöl, Ömnögovi, Orkhon, Övörkhangai, Selenge, Sükhbaatar, Töv, Ulaanbaatar, Uvs, Zavkhan",0,0.0,Kph,2023,2024,8.0,0.0,669367.0,669367.0,0.0,0.0
+Meteorological,Storm,Severe weather,Brazil,Latin America and the Caribbean,Americas,"Porto Alegre (Rio Grande do Sul); Balneário Camboriú, Camboriú, and Blumenau (Santa Catarina State)",0,0.0,Kph,2023,2023,1.0,0.0,300.0,300.0,235000.0,235000.0
+Geophysical,Earthquake,Ground movement,Iceland,Northern Europe,Europe,Grindavik (Reykjanes peninsula),0,0.0,Moment Magnitude,2023,2023,0.0,0.0,3665.0,3665.0,75000.0,75000.0
+Hydrological,Flood,Flood (General),Paraguay,Latin America and the Caribbean,Americas,"Alto Paranà, Itapua, Misiones, Neembucu",Heavy rains,0.0,Km2,2023,2023,6.0,19.0,7656.0,7675.0,0.0,0.0
+Meteorological,Storm,Severe weather,Viet Nam,South-eastern Asia,Asia,"Quang Tri, Thua Thien Hue and Ha Tinh Provinces ",0,0.0,Kph,2023,2023,5.0,0.0,80000.0,80000.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,"Beni, La Paz, Santa Cruz, Suárez, Carmen Rivero Torrez, San José de Chiquitos, Urubicha departments",0,0.0,Km2,2023,2023,12.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Bulgaria,Eastern Europe,Europe,0,0,0.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,France,Western Europe,Europe,"Clermont-Ferrand, Lorient, Tusson, Noirmoutier, Saint-Nazaire, Montlucon, Chassiron, Châteauroux",0,126.0,Kph,2023,2023,0.0,0.0,0.0,0.0,40000.0,40000.0
+Meteorological,Storm,Extra-tropical storm,Türkiye,Western Asia,Asia,"Diyarbakir; Batman; Eregli City (Zonguldak) Türkiye's Black Sea, Sakarya provinces",0,0.0,Kph,2023,2023,20.0,0.0,0.0,0.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Philippines,South-eastern Asia,Asia,"Glan, Kiamba, Polompok, and General Santos City (Davao Occidental in Region XI, southern Mindanao)",0,6.7,Moment Magnitude,2023,2023,11.0,37.0,99541.0,99578.0,25393.0,25393.0
+Hydrological,Flood,Flood (General),Dominican Republic,Latin America and the Caribbean,Americas,"Azua, Barahona, Distrito Nacional, Duarte, Monte Plata, San Cristobal, San Pedro de Macoris, Santo Domingo, San José de Ocoa, Bahoruco, San Juan de la Maguana, Sánchez Ramírez, Peravia ",Extreme rainfall from a tropical disturbance,0.0,Km2,2023,2023,34.0,0.0,22236.0,22236.0,17500.0,17500.0
+Hydrological,Flood,Flood (General),Haiti,Latin America and the Caribbean,Americas,Grand'Anse Department,Extreme rainfall from a tropical disturbance,0.0,Km2,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Guatemala,Latin America and the Caribbean,Americas,Las Calaveras,Heavy rains,0.0,0,2023,2023,86.0,0.0,123325.0,123325.0,0.0,0.0
+Hydrological,Flood,Flood (General),Democratic Republic of the Congo,Sub-Saharan Africa,Africa," Baraka City, Fizi territory (South-Kivu Province); Dungu Town area (Haut-Uele Province)",Heavy rains,0.0,Km2,2023,2023,4.0,20.0,3600.0,3620.0,0.0,0.0
+Hydrological,Flood,Flood (General),Uruguay,Latin America and the Caribbean,Americas,"Artigas, Paysandú, and Salto Departments",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,3472.0,3472.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Arroio do Meio, Colinas, Cruzeiro do Sul, Encantado, Estrela, Lajeado, Muçum, Roca Sales, Santa Tereza and Taquari (Rio Grande do Sul)",Heavy rains,0.0,Km2,2023,2023,4.0,63.0,194000.0,194063.0,0.0,0.0
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,"Potosí, La Paz and Chuquisaca Departments",Heavy rains,0.0,Km2,2023,2023,14.0,0.0,8900.0,8900.0,0.0,0.0
+Meteorological,Storm,Severe weather,Sri Lanka,Southern Asia,Asia,"Kurunegala, Kilinochchi Districts",0,0.0,Kph,2023,2023,1.0,3.0,2000.0,2003.0,0.0,0.0
+Hydrological,Flood,Flood (General),United States of America,Northern America,Americas,Portland City area (Oregon State); Snohomish and Wahkiakum Counties (Washington State),Heavy rains and snow,0.0,Km2,2023,2023,3.0,0.0,126.0,126.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Philippines,South-eastern Asia,Asia,"Hinatuan Municipality( Surigao Del Sur Province, Caraga Region, Mindanao)",0,7.6,Moment Magnitude,2023,2023,3.0,79.0,720997.0,721076.0,22712.0,22712.0
+Meteorological,Storm,Tropical cyclone,India,Southern Asia,Asia," Andra Pradesh, Telangana, Tamil Nadu States ",0,110.0,Kph,2023,2023,20.0,0.0,4390000.0,4390000.0,125000.0,125000.0
+Hydrological,Mass movement (wet),Landslide (wet),United Republic of Tanzania,Sub-Saharan Africa,Africa,"Katesh, Hanang District, western Manyara Region (North); Morogoro",Heavy rains,0.0,0,2023,2023,89.0,139.0,6202.0,6341.0,0.0,0.0
+Hydrological,Flood,Flood (General),Philippines,South-eastern Asia,Asia,"Eastern Visayas, Western Visayas and Bicol Regions",Low-Pressure Area (LPA) in combination with the Shear Line,0.0,Km2,2023,2023,2.0,1.0,1157487.0,1157488.0,2160.0,2160.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,Sumedang Regency (Java Island); Ketapang Regency (Kalimantan),0,0.0,Km2,2023,2023,0.0,0.0,17750.0,17750.0,0.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,Bulgaria,Eastern Europe,Europe,Northeastern,0,0.0,Kph,2023,2023,2.0,36.0,0.0,36.0,0.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,Germany,Western Europe,Europe,"Schwabisch Hall (Bade Wurtemberg); Denzeheide (Rhénanie-Palatinat); Hessen, Saxony-Anhalt and Brandenburg, Bavaria, Thuringia and Saxony-Anhalt States, Berlin",0,0.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,Republic of Moldova,Eastern Europe,Europe,"Coscalia, Cruglic, Grigoriopol",0,0.0,Kph,2023,2023,4.0,10.0,0.0,10.0,0.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,Romania,Eastern Europe,Europe,"Constanta, Tulcea, Galati, and Braila ",0,0.0,Kph,2023,2023,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,Russian Federation,Eastern Europe,Europe,Crimée; Krasnodar,0,86.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,Türkiye,Western Asia,Asia,0,0,0.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,Ukraine,Eastern Europe,Europe,"Odessa, Mykolaïv, Kharkiv, Kiev, Donetsk, Lougansk, Zaporijjia, Kherson, Cherkasy, Kirovograd and Capital Kyiv area",0,0.0,Kph,2023,2023,12.0,23.0,0.0,23.0,0.0,0.0
+Hydrological,Flood,Flood (General),United Republic of Tanzania,Sub-Saharan Africa,Africa,"Dar Es Salaam, Kigoma, Kagera, Geita, Unguja, Arusha,Pwani",Heavy rains,0.0,Km2,2023,2023,38.0,0.0,2896500.0,2896500.0,0.0,0.0
+Hydrological,Flood,Flood (General),Burundi,Sub-Saharan Africa,Africa,"Buganda, Murwi and Rugombo (Cibitoke)",Intense rain,0.0,Km2,2023,2023,7.0,0.0,9312.0,9312.0,0.0,0.0
+Hydrological,Flood,Flood (General),Colombia,Latin America and the Caribbean,Americas,"Atlantico, Bolivar, Magdalena, La Guajira",0,0.0,Km2,2023,2023,0.0,0.0,41088.0,41088.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Fiji,Melanesia,Oceania,"Central, Eastern, Northern, Western, Rotuma",0,0.0,Kph,2023,2023,0.0,0.0,230000.0,230000.0,0.0,0.0
+Meteorological,Storm,Severe weather,India,Southern Asia,Asia,Gujarat state,0,0.0,Kph,2023,2023,24.0,25.0,0.0,25.0,0.0,0.0
+Hydrological,Flood,Flood (General),Peru,Latin America and the Caribbean,Americas,"Chilca District, Huancan District and Huancayo District (Huancayo Province, Junìn Department) ",0,0.0,Km2,2023,2023,0.0,0.0,168.0,168.0,0.0,0.0
+Hydrological,Flood,Flood (General),Australia,Australia and New Zealand,Oceania,"New South Wales, Victoria, South Australia and south-eastern Queensland States ",Heavy rains,0.0,Km2,2023,2023,0.0,0.0,390.0,390.0,0.0,0.0
+Geophysical,Volcanic activity,Ash fall,Indonesia,South-eastern Asia,Asia,Sumatra Isl.,0,0.0,0,2023,2023,23.0,12.0,75.0,87.0,0.0,0.0
+Meteorological,Extreme temperature,Cold wave,Jordan,Western Asia,Asia,"Ajloun, Karak, Mafraq, Amman, Taleh, Irbid, Maan",0,10.0,°C,2023,2023,0.0,0.0,2000.0,2000.0,0.0,0.0
+Meteorological,Storm,Storm (General),Central African Republic,Sub-Saharan Africa,Africa,"Borno, Amameu, Yadouma, Yafara, Boy-gbaya, Moussa-Gbadou 1, 2 and 3 (Bria, Haute Kotto Prefecture)",0,0.0,Kph,2023,2023,0.0,0.0,6066.0,6066.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"Nashville City, Davidson County; Clarksville City, Montgomery County in (Tennesee state); Louisiana; Connecticut",0,0.0,Kph,2023,2023,6.0,91.0,1950.0,2041.0,100000.0,100000.0
+Hydrological,Mass movement (wet),Landslide (wet),Democratic Republic of the Congo,Sub-Saharan Africa,Africa,Bukavu,Heavy rains,0.0,0,2023,2023,14.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Australia,Australia and New Zealand,Oceania,"Cairns, Port Douglas, Daintree, Cooktown, Wujal Wujal and Hope Vale (Queensland)",0,220.0,Kph,2023,2023,0.0,0.0,300.0,300.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Chile,Latin America and the Caribbean,Americas,"Valparaiso, O'Higgins and Santiago Metropolitan Regions",0,0.0,Km2,2023,2023,0.0,7.0,375.0,382.0,0.0,0.0
+Meteorological,Storm,Severe weather,Argentina,Latin America and the Caribbean,Americas,Bahía Blanca and Moreno Cities (Buenos Aires Province),0,150.0,Kph,2023,2023,15.0,14.0,300.0,314.0,125000.0,125000.0
+Meteorological,Storm,Severe weather,Uruguay,Latin America and the Caribbean,Americas,Colonia Department,0,167.0,Kph,2023,2023,2.0,0.0,0.0,0.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,China,Eastern Asia,Asia,Gansu province; Haidong (Qinghai province),0,5.9,Moment Magnitude,2023,2023,151.0,980.0,600000.0,600980.0,1000000.0,1000000.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,"Davao, Northern Mindanao, Caraga, Mimaropa, Western Visayas and Eastern Visayas)",0,0.0,Kph,2023,2023,1.0,1.0,425866.0,425867.0,42.0,42.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"Massachusetts, Maine, New Jersey, New York, Pennsylvania and South Carolina",0,0.0,Kph,2023,2023,7.0,12.0,57.0,69.0,1300000.0,1300000.0
+Hydrological,Flood,Flood (General),Angola,Sub-Saharan Africa,Africa,"Luanda, Huambo, Bie, Malanje and Kwanza Norte provinces",Heavy rains,0.0,Km2,2023,2023,30.0,0.0,26460.0,26460.0,0.0,0.0
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia,"Thoothukudi, Tirunelveli, Kanniyakumari and Tenkasi Districts (Tamil Nadu state)",Heavy rains,0.0,Km2,2023,2023,10.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Severe weather,South Africa,Sub-Saharan Africa,Africa,Dundee City area (KwaZulu-Natal Province),0,0.0,Kph,2023,2023,1.0,6.0,1211.0,1217.0,0.0,0.0
+Geophysical,Volcanic activity,Ash fall,Indonesia,South-eastern Asia,Asia,"Nusa Tengarra, East Flores Regency (Flores Isl.)",0,0.0,0,2023,2024,0.0,0.0,2229.0,2229.0,0.0,0.0
+Hydrological,Flood,Flood (General),Malaysia,South-eastern Asia,Asia," Johor, Kelantan, Pahang, Sabah, and Terengganu states",Heavy rains,0.0,Km2,2023,2023,2.0,0.0,25676.0,25676.0,0.0,0.0
+Hydrological,Flood,Flood (General),Thailand,South-eastern Asia,Asia,"Satun, Songkhla, Pattani,, Yala, Narathiwat provinces",Heavy rains,0.0,Km2,2023,2023,6.0,0.0,241473.0,241473.0,0.0,0.0
+Hydrological,Flood,Flood (General),South Africa,Sub-Saharan Africa,Africa,"Ladysmith, Mandeni (KwaZulu-Natal province)",Heavy rains,0.0,Km2,2023,2023,34.0,0.0,1800.0,1800.0,0.0,0.0
+Meteorological,Storm,Storm (General),Australia,Australia and New Zealand,Oceania,"New South Wales, Queensland, Victoria provinces (Queensland)",0,0.0,Kph,2023,2023,10.0,0.0,2100.0,2100.0,0.0,0.0
+Hydrological,Flood,Flood (General),Democratic Republic of the Congo,Sub-Saharan Africa,Africa,"Bukavu, and Burhinyi (South Kivu)",Heavy rains,0.0,Km2,2023,2023,40.0,5.0,0.0,5.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Democratic Republic of the Congo,Sub-Saharan Africa,Africa,"Kananga (Kasai Central); Nord-Ubangi, Sud-Ubangi, Tshopo",Heavy rains,0.0,0,2023,2023,22.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),France,Western Europe,Europe,Nord and Pas-de-Calais departments,Heavy rains,0.0,Km2,2023,2024,1.0,2.0,6048.0,6050.0,0.0,0.0
+Hydrological,Flood,Flood (General),Congo,Sub-Saharan Africa,Africa,"Likouala, Sangha, Cuvette, Plateaux, Niari, Brazzaville and Pointe-Noire",Heavy rains,0.0,Km2,2023,2024,23.0,0.0,321000.0,321000.0,0.0,0.0
+Meteorological,Storm,Storm surge,Lesotho,Sub-Saharan Africa,Africa,"Berea, Leribe, Maseru, Mokhotlong, Quthing, Thaba Tseka",0,0.0,Kph,2023,2023,2.0,0.0,968.0,968.0,0.0,0.0
+Biological,Epidemic,Bacterial disease,Somalia,Sub-Saharan Africa,Africa,"Hirshabelle State; Awdal, Woqooyi Galbeed (Somaliland)",0,0.0,0,2023,2024,60.0,4956.0,0.0,4956.0,0.0,0.0
+Biological,Epidemic,Parasitic disease,Maldives,Southern Asia,Asia,"South Province, Upper South Province, South Central Province, Central Province, North Central Province, North Province, Upper North Province",0,0.0,Vaccinated,2023,2023,0.0,455.0,0.0,455.0,0.0,0.0
+Climatological,Drought,Drought,Honduras,Latin America and the Caribbean,Americas,"Choculeta, Sabanagrande, Tegulcipalga, Jacaleapa, Lepaguare, Catacamas, Yoro, Flores, La Lima, Sana Rosa de Copan, Ocotepeque, La Esperanza",El Nino,0.0,Km2,2023,2023,0.0,0.0,10300.0,10300.0,0.0,0.0
+Climatological,Drought,Drought,Spain,Southern Europe,Europe,"Catalognia, Andalusia, Asturias",0,0.0,Km2,2023,2024,0.0,0.0,26000.0,26000.0,2400000.0,2400000.0
+Climatological,Drought,Drought,Italy,Southern Europe,Europe,"Sicile, Sardaigne",0,0.0,Km2,2023,2024,0.0,0.0,0.0,0.0,0.0,0.0
+Climatological,Drought,Drought,Lesotho,Sub-Saharan Africa,Africa,"Maseru, Mohale's Hoek, Qacha's Nek, Quthing",El Nino,0.0,Km2,2023,2024,0.0,0.0,581730.0,581730.0,0.0,0.0
+Climatological,Drought,Drought,Indonesia,South-eastern Asia,Asia,"Nangroe Aceh Darussalam, Sumatera Utara, Sumatera Barat, Riau, Jambi, Sumatera Selatan, Bengkulu, Lampung, Bangka Belitung, Kepulauan-riau, Dki Jakarta, Jawa Barat, Jawa Tengah, Daerah Istimewa Yogyakarta, Jawa Timur, Banten, Bali, Nusatenggara Barat, Nusatenggara Timur, Kalimantan Barat, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Timur, Sulawesi Utara, Sulawesi Tengah, Sulawesi Selatan, Sulawesi Tenggara, Gorontalo, Sulawesi Barat, Maluku, Maluku Utara, Papua, Papua Barat",El Nino,0.0,Km2,2023,2023,0.0,0.0,18750000.0,18750000.0,0.0,0.0
+Climatological,Drought,Drought,Uruguay,Latin America and the Caribbean,Americas,"Cerro Largo, Florida, Lavalleja, San Jose, Tacuarembo","La nina, lack of rainfall since September 2022",3623.0,Km2,2023,2023,0.0,0.0,409115.0,409115.0,0.0,0.0
+Climatological,Drought,Drought,Brazil,Latin America and the Caribbean,Americas,Amazonas state,0,0.0,Km2,2023,2023,0.0,0.0,608000.0,608000.0,2500000.0,2500000.0
+Climatological,Drought,Drought,Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,"Cochabamba, Chuquisaca, La Paz, Oruro, Santa Cruz",El Nino,0.0,Km2,2023,2023,0.0,0.0,1948056.0,1948056.0,0.0,0.0
+Climatological,Drought,Drought,United States of America,Northern America,Americas,"Texas, Louisiana, Oklahoma, Kansas, Illinois, Missouri, Nebraska, Washington, Oregon, Montana",0,0.0,Km2,2023,2023,247.0,0.0,0.0,0.0,14500000.0,14500000.0
+Climatological,Drought,Drought,China,Eastern Asia,Asia,0,0,0.0,Km2,2023,2023,0.0,0.0,0.0,0.0,2700000.0,2700000.0
+Climatological,Drought,Drought,Micronesia (Federated States of),Micronesia,Oceania,"Chuuk, Kosrae, Pohnpei, Yap",El Nino,0.0,Km2,2023,2024,0.0,0.0,113000.0,113000.0,0.0,0.0
+Climatological,Drought,Drought,Mozambique,Sub-Saharan Africa,Africa,"Manica,Tete, Gaza, and Inhambane provinces",El Nino,0.0,Km2,2023,2024,0.0,0.0,3300000.0,3300000.0,0.0,0.0
+Climatological,Drought,Drought,Botswana,Sub-Saharan Africa,Africa,"Southern, North East",0,0.0,Km2,2023,2024,0.0,0.0,37000.0,37000.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,Asia,"Noto, Wajima, Suzu (Ishikawa department); Niigata, Toyama, Fukui, Gifu, Osaka and Hyogo Prefectures",0,7.5,Moment Magnitude,2024,2024,252.0,1182.0,166947.0,168129.0,10000000.0,0.0
+Meteorological,Storm,Tropical cyclone,Madagascar,Sub-Saharan Africa,Africa,"Haute Matsiatra, Atsimo-Andrefana, Menabe, Matsiatra, Ihorombe and Fitovinany.",0,0.0,Kph,2024,2024,10.0,0.0,25837.0,25837.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"New Mexico, Colorado, Kansas, Nebraska, South Dakota, and Iowa; Panama City and Jackson County (Florida), Cottonwood (Alabama), Bamberg (South Carolina), Catawba County (North Craolina). ",Two powerful storm systems,0.0,Kph,2024,2024,5.0,11.0,0.0,11.0,2850000.0,0.0
+Meteorological,Storm,Blizzard/Winter storm,United States of America,Northern America,Americas,"Pennsylvania, Massachusetts, New York, Oregon, Maine, Mississippi, Tennessee Arkansas, Illinois, Wisconsin, Washington, Kentucky, New Jersey, Louisiana states.",0,0.0,Kph,2024,2024,61.0,0.0,0.0,0.0,3800000.0,0.0
+Hydrological,Flood,Flood (General),Sri Lanka,Southern Asia,Asia,Ampara and Badulla districts,Heavy rains and strong winds,0.0,Km2,2024,2024,2.0,0.0,175000.0,175000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Mauritius,Sub-Saharan Africa,Africa,0,0,0.0,Kph,2024,2024,2.0,0.0,100000.0,100000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Réunion,Sub-Saharan Africa,Africa,0,0,0.0,Kph,2024,2024,4.0,0.0,700.0,700.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Colombia,Latin America and the Caribbean,Americas,Carmen de Atrato,0,0.0,0,2024,2024,34.0,19.0,0.0,19.0,0.0,0.0
+Hydrological,Flood,Flash flood,Brazil,Latin America and the Caribbean,Americas,"Belford Roxo, Duque de Caxias, Nova Iguaçu, Japeri, São João de Meriti, São Gonçalo, Mesquita, Nilópolis, Nova Iguaçu, and Queimados Municipalities (Rio de Janeiro); São Paulo, Santa Catarina, Paraná and Rio Grande do Sul ",Heavy rains,0.0,Km2,2024,2024,13.0,0.0,62000.0,62000.0,0.0,0.0
+Hydrological,Flood,Flash flood,South Africa,Sub-Saharan Africa,Africa,"eThekwini Metro, KwaDukuza, and Ndwedwe Local Municipality (KwaZulu-Natal); Durban",Heavy rains,0.0,Km2,2024,2024,41.0,6.0,750.0,756.0,0.0,0.0
+Hydrological,Flood,Flash flood,Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,Tipuani municipality (La Paz department),Heavy rains,0.0,Km2,2024,2024,2.0,6.0,2500.0,2506.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),United Republic of Tanzania,Sub-Saharan Africa,Africa,Bariadi District (Simiyu Region),Heavy rains,0.0,0,2024,2024,22.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Syrian Arab Republic,Western Asia,Asia,Idlib (Northwest region),Heavy rains,0.0,Km2,2024,2024,0.0,0.0,9700.0,9700.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),China,Eastern Asia,Asia,"Liangshui (Zhenxiong county, Yunnan province)",Unknown,0.0,0,2024,2024,44.0,0.0,500.0,500.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,China,Eastern Asia,Asia,Xinjiang Province,0,5.6,Moment Magnitude,2024,2024,6.0,5.0,12426.0,12572.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Kazakhstan,Central Asia,Asia,0,0,5.8,Moment Magnitude,2024,2024,0.0,67.0,0.0,67.0,0.0,0.0
+Meteorological,Storm,Severe weather,Brazil,Latin America and the Caribbean,Americas, Estancia de Socorro Brazil Sao Paulo State,0,0.0,Kph,2024,2024,4.0,0.0,600.0,600.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Philippines,South-eastern Asia,Asia,"Sitio Panlaisan village (Davao Oriental Province, Davao Region, eastern Mindanao Island)",Northeast Monsoon and a Low-Pressure Area (LPA),0.0,0,2024,2024,22.0,11.0,1567339.0,1567350.0,65110.0,0.0
+Climatological,Wildfire,Wildfire (General),South Africa,Sub-Saharan Africa,Africa,Overberg District; ape Winelands District Municipality (Greater Cape Town and Cape Peninsula (Western Cape Province),0,0.0,Km2,2024,2024,0.0,0.0,250.0,250.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Dário Meira, Cotegipe, Ilhéus, Medeiros Neto, Ibicuí, Anagé, Muquém de São Francisco, Iguaí, Quijingue, Wanderley, Jaguaquara, Ubaíra, Saubara and Milagres municipalities (Bahia state) ",Heavy rains,0.0,Km2,2024,2024,6.0,0.0,117000.0,117000.0,0.0,0.0
+Meteorological,Storm,Severe weather,Peru,Latin America and the Caribbean,Americas,"Velille District, Chumbivilcas Province, (Cusco department); Uchiza District, in Tocache Province (San Martìn Department)",0,0.0,Kph,2024,2024,0.0,0.0,149.0,149.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Chile,Latin America and the Caribbean,Americas,"Viña del Mar City, Quilpué City (Marga Marga Province; Valparaíso Region); O'Higgins, Maule, Ñuble, Los Ríos, Arucania, Aysén regions",0,0.0,Km2,2024,2024,383.0,1250.0,39528.0,40778.0,1000000.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Philippines,South-eastern Asia,Asia,"Massara, Maco Municipality (Davao de Oro Province, Mindanao Island)",Heavy rains,0.0,0,2024,2024,128.0,32.0,1400000.0,1400032.0,0.0,0.0
+Meteorological,Storm,Severe weather,Japan,Eastern Asia,Asia,"Kanagawa, Saitama Prefectures and Tokyo City",0,0.0,Kph,2024,2024,0.0,240.0,0.0,240.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"Los Angeles, Monterrey, Santa Barbara, Ventura, San Diego, Santa Clara, San Mateo, Santa Cruz, Sutter and Sacramento (California)",0,160.0,Kph,2024,2024,9.0,0.0,86.0,86.0,1100000.0,0.0
+Hydrological,Flood,Flood (General),Ecuador,Latin America and the Caribbean,Americas,"Muisne (Esmeraldas); Puerto López, Chone, and Tosagu (Manabí); Alfredo Baquerizo Moreno (Jujan); Balzar, Palestina, Santa Lucía, Playas, and Milagro (Guayas); Baba and Valenc (Los Rios); El Oro Province","Heavy rains, El Nino",0.0,Km2,2024,2024,6.0,7.0,117491.0,117498.0,100000.0,0.0
+Meteorological,Extreme temperature,Cold wave,Lebanon,Western Asia,Asia,"Bekaa, Mount Lebanon, North, South","Low depression accompanied by polar winds,",0.0,°C,2024,2024,0.0,0.0,2975000.0,2975000.0,0.0,0.0
+Meteorological,Storm,Storm surge,Marshall Islands,Micronesia,Oceania,"Ratak Chain, Ralik Chain",0,0.0,Kph,2024,2024,0.0,0.0,19532.0,19532.0,0.0,0.0
+Meteorological,Storm,Storm surge,South Africa,Sub-Saharan Africa,Africa,"uThukela (Ladysmith), uMzinyathi, Amajuba district Municipality (Kwazulu Natal); Free state; North West",0,0.0,Kph,2024,2024,46.0,0.0,7813.0,7813.0,0.0,0.0
+Hydrological,Flood,Flood (General),United Arab Emirates,Western Asia,Asia,"Dubai, Abu Dhabi, Kalba, Sharjah",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,346.0,346.0,0.0,0.0
+Hydrological,Flood,Flood (General),Oman,Western Asia,Asia,"Rustaq Town area (Al Batinah South Governorate); Al Batinah North Governorate; Ad Dhahirah Governorate; Yanqul, Buraimi, and Muscat",Heavy rains,0.0,Km2,2024,2024,7.0,1.0,190.0,191.0,0.0,0.0
+Hydrological,Flood,Flood (General),Cyprus,Western Asia,Asia,Limassol and Nicosia,0,0.0,Km2,2024,2024,0.0,1.0,468.0,469.0,0.0,0.0
+Hydrological,Flood,Flood (General),Greece,Southern Europe,Europe,Kallithea and Zephyros,0,0.0,Km2,2024,2024,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Türkiye,Western Asia,Asia,"Antalya City (Antalya Province); Iliç Town, (Erzincan Province)",Heavy rains,0.0,Km2,2024,2024,10.0,0.0,900.0,900.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"New Mexico, Colorado, Oklahoma, Lousiana, Texas, Pennsylvania, New Jersey, New York, Connecticut., Mississippi, Wisconsin, Massachusetts, New Hampshire",Two storms systems,0.0,Kph,2024,2024,1.0,0.0,0.0,0.0,1300000.0,0.0
+Hydrological,Mass movement (wet),Rockfall (wet),Afghanistan,Southern Asia,Asia,"Teten (Noorgram district, Nouristan province)",Heavy snow,0.0,0,2024,2024,25.0,8.0,150.0,158.0,0.0,0.0
+Hydrological,Flood,Flash flood,Brazil,Latin America and the Caribbean,Americas,"Barra do Piraí, Japeri, Nova Iguaçu Municipalities (Rio de Janeiro State); ",Heavy rains,0.0,Km2,2024,2024,9.0,0.0,550.0,550.0,0.0,0.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,"Bogor Town (West Java Province); Demak Regency (Central Java); Jambi, West Nusa Tenggara, South Sulawesi and East Java; Sumedang and Bandung regencies (West Java Provine)",Heavy rains,0.0,Km2,2024,2024,2.0,2.0,25500.0,25502.0,0.0,0.0
+Hydrological,Flood,Flood (General),Peru,Latin America and the Caribbean,Americas,Contralmirante Villar and Tumbes Provinces (Tumbes Region); Tahuamanu Province,Heavy rains,0.0,Km2,2024,2024,0.0,0.0,346.0,346.0,0.0,0.0
+Meteorological,Storm,Severe weather,Brazil,Latin America and the Caribbean,Americas,"Assis Brasil, Brasileia, Capixaba, Cruzeiro do Sul, Epitaciolândia, Feijó, Jordão, Mâncio Lima, Marechal Thaumaturgo, Plácido de Castro, Porto Walter, Rio Branco, Santa Rosa do Purus, Sena Madureira, Tarauacá, and Xapuri municipalities (Acre, Santa Catarina State)",0,0.0,Kph,2024,2024,0.0,0.0,28855.0,28855.0,0.0,0.0
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,"Catachila Alta, Laquina and Chinata Communities (Cochabamba Department)",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,0.0,150.0,0.0,0.0
+Meteorological,Storm,Severe weather,Thailand,South-eastern Asia,Asia,"Kamphaeng Phet, Nong Bua Lamphu and Nakhon Sawan Provinces",0,0.0,Kph,2024,2024,0.0,0.0,1400.0,1400.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,Macapá Municipality (Amapá State),Heavy rains,0.0,Km2,2024,2024,0.0,0.0,291.0,291.0,0.0,0.0
+Hydrological,Flood,Flood (General),Afghanistan,Southern Asia,Asia,"Kandahar, Helmand, Sar-e-Pol, Badakshan, Balkh, Jawzjan, Badghis, Faryab, Herat, Ghazni, Daykundi, and Ghor",Heavy rains,0.0,Km2,2024,2024,39.0,2.0,0.0,3152.0,0.0,0.0
+Hydrological,Flood,Flood (General),Iran (Islamic Republic of),Southern Asia,Asia,"Dashtiari, Qasrqand, Nikshahr, Chabahar , Khash, Sib-o Soran, Fanuj, Iranshahr, Mirjaveh, Dalgaan, Saravan, Zahedan, Nimroz, Sarbaz, and Mehrestan (Sistan and Baluchistan provinces)",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,258387.0,258387.0,0.0,0.0
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,"Bajaur, Khyber, Makaland, Mohmand, and Lower and Upper Dir districts (Khyber Pakhtunkhwa Province); Gwadar (Balochistan province) Province",Heavy rains,0.0,Km2,2024,2024,40.0,62.0,2770.0,3232.0,0.0,0.0
+Hydrological,Flood,Flood (General),Argentina,Latin America and the Caribbean,Americas,Corrientes,"Heavy rain, intense storm system",0.0,Km2,2024,2024,0.0,0.0,400000.0,400000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Malawi,Sub-Saharan Africa,Africa,"Karonga, Nkhotakota, Lilongwe, and Kasungu Districts",Heavy rains,0.0,Km2,2024,2024,6.0,4.0,14000.0,14004.0,0.0,0.0
+Meteorological,Storm,Storm (General),Burundi,Sub-Saharan Africa,Africa,Butihinda Municipality (Muyinga Province),0,0.0,Kph,2024,2024,0.0,5.0,650.0,655.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),United States of America,Northern America,Americas,"Texas, Oklahoma",Hot and windy conditions,0.0,Km2,2024,2024,2.0,0.0,300.0,339.0,700000.0,0.0
+Meteorological,Storm,Extra-tropical storm,Switzerland,Western Europe,Europe,"Valais, Val Ferret",0,0.0,Kph,2024,2024,6.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Spain,Southern Europe,Europe,Barcelona,0,0.0,Kph,2024,2024,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,France,Western Europe,Europe,"Hérault, Gard, Ardèche, Var",0,100.0,Kph,2024,2024,8.0,1.0,0.0,1.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Italy,Southern Europe,Europe,"Liguria, Piedmont Regions; Lazio region, Aosta Valley, Veneto Regions ",0,0.0,Kph,2024,2024,1.0,3.0,0.0,3.0,0.0,0.0
+Meteorological,Storm,Extra-tropical storm,Canary Islands,Northern Africa,Africa,Grand Canaria,0,0.0,Kph,2024,2024,2.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,"Pesisir Selatan, Padang Pariaman districts (Sumatra province); West and Central Kalimantan, Central Java, North Sulawesi, and East Nusa Tenggara.",Heavy rains,0.0,0,2024,2024,51.0,12.0,500000.0,500012.0,25000.0,0.0
+Hydrological,Flood,Flash flood,Uruguay,Latin America and the Caribbean,Americas,"Florida, San Jose; Rosario, Nueva Helvecia Cities (Colonia); Canelones, San Jose, Cero Largo, Paysandú, Rivera, Rocha, Durazno",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,100000.0,100000.0,0.0,0.0
+Hydrological,Flood,Flash flood,Iraq,Western Asia,Asia,"Baroshki, Nazarki, Atiti, Naoura, Mahalla Sheli, Hay Al-Jazma, Hay Al-Shurta, Al-Ulya, Kizabra, and Mahalla Kuli (Duhok province); Erbil Governorates (Kurdistan region.); Terawa, Badawa, Koyistan, and Dara Tow; Diyala and Maysan Governorates",Heavy rains,0.0,Km2,2024,2024,3.0,17.0,18000.0,18017.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Papua New Guinea,Melanesia,Oceania,Chimbu Province; Lese Kavora (Gulf Province),Heavy rains,0.0,0,2024,2024,23.0,0.0,0.0,0.0,60000.0,0.0
+Meteorological,Storm,Severe weather,Democratic Republic of the Congo,Sub-Saharan Africa,Africa,Maniema Province,"Heavy rainfall, strong winds and thunderstorms",0.0,Kph,2024,2024,2.0,27.0,500.0,527.0,0.0,0.0
+Meteorological,Storm,Lightning/Thunderstorms,Argentina,Latin America and the Caribbean,Americas,"Lanús and Avellaneda districts (La Plata area, Buenos Aires Province)",0,150.0,Kph,2024,2024,1.0,6.0,400000.0,400006.0,0.0,0.0
+Meteorological,Extreme temperature,Cold wave,Afghanistan,Southern Asia,Asia,"Badakhshan, Badghis, Balkh, Farah, Faryab, Ghor, Herat, Jawzjan, Kunduz, Nuristan, Sar-e-Pul, Uruzgan, and Zabul",0,0.0,°C,2024,2024,1197.0,2217.0,325205.0,327422.0,0.0,0.0
+Hydrological,Flood,Flood (General),Algeria,Northern Africa,Africa,Jijel,Heavy rains,0.0,Km2,2024,2024,0.0,0.0,1000.0,1000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,"Bajo Acre, Bajo Virtudes and Velmonte (Cobija Municipality, Pando)",0,0.0,Km2,2024,2024,0.0,0.0,3990.0,3990.0,0.0,0.0
+Meteorological,Storm,Severe weather,India,Southern Asia,Asia,"Unakoti, Sepahijala, Dhalai, South, West, Khowai and Gomati Districts (Tripura state); Una District (Himachal Pradesh State)",0,0.0,Kph,2024,2024,4.0,7.0,22810.0,22932.0,0.0,0.0
+Hydrological,Flood,Flash flood,Kenya,Sub-Saharan Africa,Africa,"Marsabit, Turkana, Tana River, Garissa, Kirinyaga, Muranga, Kiambu, Meru, Kisumu, Nairobi, Kitui, Kajiado, West Pokot",Heavy rains,0.0,Km2,2024,2024,282.0,164.0,205000.0,205164.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Mimoso do Sul, Apiacá Municipal, Vargem Alta Muniz Freire and Bom Jesus do Norte municipalities (Espirito Santo); Rio de Janeiro States)",Heavy rains,0.0,Km2,2024,2024,34.0,0.0,7708.0,7708.0,140000.0,0.0
+Geophysical,Earthquake,Ground movement,Papua New Guinea,Melanesia,Oceania,"Ambunti-Dreikikir, Angoram and Wosera-Gaui (East Sepik Province)",0,6.9,Moment Magnitude,2024,2024,5.0,2.0,0.0,5002.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Indonesia,South-eastern Asia,Asia,Gresik Regency (East Java province),0,6.4,Moment Magnitude,2024,2024,0.0,2.0,144520.0,144522.0,35000.0,0.0
+Meteorological,Storm,Severe weather,Cuba,Latin America and the Caribbean,Americas,"Artemisa, Ciudad de la Habana, Matanzas, Mayabeque",0,0.0,Kph,2024,2024,0.0,0.0,270000.0,270000.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),China,Eastern Asia,Asia, Yajiang County (Sichuan province); Lincang City Wenshan City (Yunnan Province),0,0.0,Km2,2024,2024,4.0,0.0,4900.0,4900.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Chile,Latin America and the Caribbean,Americas,"Valparaíso Municipality, Valparaíso region, in Cerro Cordillera, Curauma and La Caldera areas",0,0.0,Km2,2024,2024,0.0,6.0,120.0,126.0,0.0,0.0
+Hydrological,Flood,Flood (General),Peru,Latin America and the Caribbean,Americas,"Molinos District, Juja Province, Junín Department; San Juan District, Sihuas Province, Ancash Department",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,203.0,203.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Mozambique,Sub-Saharan Africa,Africa,"Vilankulo and Morrumbene Districts, (Inhambane Province); Gaza, Sofala and Nampula provinces",0,120.0,Kph,2024,2024,2.0,85.0,93240.0,93325.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Madagascar,Sub-Saharan Africa,Africa,"Sava, Diana Sofia, Analanjirofo, Alaotra Mangoro, Atsinanana, Mananara North, Maroantsetra, Toamasina, Vavatenina",0,210.0,Kph,2024,2024,22.0,4.0,89465.0,89469.0,50000.0,0.0
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,"Ohio, Indiana, Kentucky, Kansas, Oklahoma, Illinois and Arkansas",0,0.0,Kph,2024,2024,3.0,70.0,0.0,70.0,5900000.0,0.0
+Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,Asia,"Dawlat Abad, Bilcheragh, Gurziwan, Khwajasbzposh, Pashtunkot districts (Faryab province); Ashtarlay, Kejran, Miramoor, Nili, Pato, Sang takht, Shahristan districts (Daikundi province); Achin, Bati Kot, Deh Bala, Dur Baba, Jalalabad, Kama, Lal Por, Momandara, Nazyan, Shinwar district (Nangarhar Province)",Heavy rains,0.0,Km2,2024,2024,7.0,0.0,1920.0,1920.0,0.0,0.0
+Hydrological,Flood,Flood (General),France,Western Europe,Europe, Indre-et-Loire Department (Centre-Val de Loire); Haute-Vienne Department (Nouvelle-Aquitaine); Côte-d'Or Department (Bourgogne-Franche-Comté); Saône-et-Loire; Yonne,0,0.0,Km2,2024,2024,1.0,0.0,750.0,750.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,Asia,Hualien region,0,7.4,Moment Magnitude,2024,2024,20.0,1145.0,891.0,2369.0,2530.0,0.0
+Meteorological,Storm,Severe weather,Pakistan,Southern Asia,Asia,"Peshawar, Nowshera, Shangla, Bannu, Khyber, Charsadda and Bajaur (Khyber Pakhtunkhwa Province); Punjab; Balochistan; Sindh provinces",Heavy rains,0.0,Kph,2024,2024,99.0,94.0,17500.0,17594.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Formosa da Serra Negra, São Roberto, São João do Sóter, Tuntum, Monção, Pindaré-Mirim, Conceição do Lago Açu, Lago da Pedra, Lagoa Grande do Maranhão, Carutapera, Governador Nunes Freire, Boa Vista do Gurupi, and Trizidela do Vale (Maranhao state)",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,2323.0,2323.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"California, Maine, Great Lakes, New England, Oklahoma, Ohio, West Virginia, Kentucky, Tennessee, Georgia, Pennsylvania, New Hampshire, New York, New Jersey, Massachusetts","Long-lasting, multi-hazard weather system",0.0,Kph,2024,2024,5.0,0.0,0.0,0.0,2500000.0,0.0
+Meteorological,Storm,Storm (General),Nigeria,Sub-Saharan Africa,Africa,Nasarawa State,0,0.0,Kph,2024,2024,1.0,7.0,500.0,507.0,0.0,0.0
+Hydrological,Flood,Flood (General),Kazakhstan,Central Asia,Asia,"Aktobe, Kostanay, Karaganda, Akmola, Atyrau, Pavlodar, Abay, lytau, Aktyubinskaya, Zapadno-kazachstanskaya","Rapid melting snow, heavy rains",0.0,Km2,2024,2024,2.0,0.0,120000.0,120000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Russian Federation,Eastern Europe,Europe,"Orsk, Krasnokholm and Sorochinsk Cities (Orenburg Region); Kurgan, Tyuman R-regions","Rapid snow melting, heavy rains",0.0,Km2,2024,2024,3.0,0.0,38400.0,38400.0,227000.0,0.0
+Hydrological,Flood,Flash flood,Australia,Australia and New Zealand,Oceania,Greater Sidney area (eastern New South Wales State); Queensland,Heavy rains,0.0,Km2,2024,2024,0.0,6.0,200.0,206.0,210000.0,0.0
+Hydrological,Flood,Flash flood,United Republic of Tanzania,Sub-Saharan Africa,Africa,"Arusha, Morogoro, Pwani, Mbeya, Geita, Coast, Tanga, Rukwa, Lindi, Njombe, and Manyara regions",Heavy rains; El Nino,0.0,Km2,2024,2024,155.0,236.0,200000.0,200236.0,0.0,0.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,Buol Regency (Central Sulawesi Province); Luwu Regency (South Sulawesi Province); Bitung Regency (North Sulawesi Province); East Java ,Heavy rains,0.0,Km2,2024,2024,2.0,2.0,3130.0,3132.0,0.0,0.0
+Hydrological,Flood,Flood (General),United States of America,Northern America,Americas,"Texas, Louisiana, MIssissippi, Florida, Colorado, Nebraska, and Wyoming",0,0.0,Km2,2024,2024,1.0,10.0,216.0,226.0,2750000.0,0.0
+Meteorological,Storm,Storm (General),South Africa,Sub-Saharan Africa,Africa,"Cape Winelands, Overberg, and West Coast regions (Western Cape province)",0,0.0,Kph,2024,2024,1.0,0.0,13895.0,13895.0,0.0,0.0
+Hydrological,Flood,Flood (General),Kenya,Sub-Saharan Africa,Africa,"Nairobi, Marsabit, Turkana, Tana River, Garissa, Kirinyaga, Muranga, Kiambu, Meru, Kisumu, and Kitui",Heavy rain; El Nino,0.0,Km2,2024,2024,13.0,2.0,15000.0,15002.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,"Lembang Randan Batu and the Manggau villages (Tana Toraja Regency, South Sulawesi Province)",Heavy rains,0.0,0,2024,2024,20.0,2.0,0.0,2.0,0.0,0.0
+Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,Asia,"Ghazni Nangarhar, Farah, Herat, Badghis, Uruzgan, Paktia, Zabul, Helmand, Kunar, Kabul, Badakhshan, Ghor, Kandahar, Takhar, Parwan, Herat, Ghazni, Laghman, Nimroz, and Sar-e-Pol",Heavy rains,0.0,Km2,2024,2024,357.0,572.0,280000.0,280572.0,0.0,0.0
+Hydrological,Flood,Flash flood,United Arab Emirates,Western Asia,Asia,Dubai,Heavy rains,0.0,Km2,2024,2024,4.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flash flood,Oman,Western Asia,Asia,"South Batinah, South Sharqiyah, Musandam, Al Buraimi, Al Dhahirah, Al Dakhiliyah, Muscat and Ash Sharqiyah North Governorates.",Heavy rains,0.0,Km2,2024,2024,20.0,0.0,1200.0,1200.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Democratic Republic of the Congo,Sub-Saharan Africa,Africa,Idiofa Town (Kwilu Province),Heavy rains,0.0,0,2024,2024,75.0,0.0,0.0,0.0,0.0,0.0
+Geophysical,Volcanic activity,Lava flow,Indonesia,South-eastern Asia,Asia,"Pumpente, Laingpatehi, Mahangiang, Tulusan Barangka Pehe, Apengsala, Lesah Rende, Pahiama, Boto and Leseh, Bahoi and Balehumara. (Sitaro Islands Regency, North Sulawesi Province).",0,0.0,0,2024,2024,0.0,0.0,8500.0,8500.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Guatemala,Latin America and the Caribbean,Americas,"Guatemala, Escuintla, and Sacatepéquez ",0,0.0,Km2,2024,2024,0.0,200.0,0.0,200.0,0.0,0.0
+Hydrological,Flood,Flood (General),Uganda,Sub-Saharan Africa,Africa,"Central Region, Eastern Region, Western Region",0,0.0,Km2,2024,2024,77.0,296.0,57508.0,57804.0,0.0,0.0
+Hydrological,Flood,Flood (General),Burundi,Sub-Saharan Africa,Africa," Bujumbura Mairie, Bujumbura rural, Rumonge, Makamba and Cibitoke.",Heavy rains; El Nino,0.0,Km2,2024,2024,29.0,175.0,237000.0,237175.0,0.0,0.0
+Hydrological,Flood,Flood (General),Iran (Islamic Republic of),Southern Asia,Asia,"Kenarak, Zarabad, Chabahar, Nikshahr, Kach and Zohrikar (Sistan and Baluchistan province)",0,0.0,Km2,2024,2024,10.0,0.0,46000.0,46000.0,0.0,0.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,"Shaoguan, Guangzhou, Heyuan, Zhaoqing, Qingyuan, Meizhou and Huizhou (Guangdong province); Guangxi, and Jiangxi provinces",Heavy rains,0.0,Km2,2024,2024,14.0,6.0,100000.0,100006.0,0.0,0.0
+Hydrological,Flood,Flash flood,Somalia,Sub-Saharan Africa,Africa,"Somaliland, Jubaland, Hirshabelle, South West States, Hiraan, Lower Juba, Lower Shabelle; Awdal, Bari, Mudug, Nugaal, Togdheer, Woqooyi Galbeed",Heavy rains; Gu rainy season,0.0,Km2,2024,2024,9.0,0.0,226000.0,226000.0,0.0,0.0
+Meteorological,Storm,Severe weather,Thailand,South-eastern Asia,Asia,"Chiang Rai, Nan, Bueng Kan, Phayao, Nong Bua Lam Phu, Nakhon Ratchasima, Udon Thani Phetchabun and Nong Bua Lamphu.",Heavy rains and strong winds,0.0,Kph,2024,2024,2.0,3.0,3415.0,3418.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Bangladesh,Southern Asia,Asia,"Shyampur, Bangshal, Kotwali (Dhaka), Sutrapur, Kamrangir Char, Chak Bazar, Lalbagh, Gendaria, Paltan, Barisal, Dhaka, Khulna, Rajshahi, Rangpur; Magura district",0,38.0,°C,2024,2024,15.0,0.0,33000000.0,33000000.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,India,Southern Asia,Asia,"New Delhi; Rajasthan, Bihar, Gujarat, West Rajasthan, Punjab, Haryana, Chandigarh",0,50.5,°C,2024,2024,11.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Extreme temperature,Heat wave,Pakistan,Southern Asia,Asia,Sindh,0,53.0,°C,2024,2024,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Kenya,Sub-Saharan Africa,Africa,Nairobi,Heavy rain; El Nino,0.0,Km2,2024,2024,10.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,"Karang Jaya, Ulu Rawas districts (Musi Rawas Regency (South Sumatra province)",Heavy rains,0.0,Km2,2024,2024,4.0,0.0,51812.0,51812.0,0.0,0.0
+Hydrological,Flood,Flood (General),Kyrgyzstan,Central Asia,Asia,"Batken, Jalal-Abad, Naryn, Osh, Talas, Kara-Suuyskiy, Nookatsky, Uzgen, Alai, Zhumgalsky",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,103901.0,103901.0,0.0,0.0
+Hydrological,Flood,Flood (General),Chad,Sub-Saharan Africa,Africa,Mandoul and Logone (Oriental provinces),Heavy rain,0.0,Km2,2024,2024,1.0,45.0,3760.0,3805.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Indonesia,South-eastern Asia,Asia,"Bandung, Bogor, Ciamis, Cianjur, Garut, Sukabumi and Tasikmalaya regencies (West Java)",0,6.1,Moment Magnitude,2024,2024,1.0,12.0,2730.0,2812.0,0.0,0.0
+Meteorological,Storm,Severe weather,Pakistan,Southern Asia,Asia,Khyber Pakhtunkhwa province,0,0.0,Kph,2024,2024,7.0,9.0,300.0,309.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,"Tallang Sura village (North Toraja regency, South Sulawesi province); Talagajaya village (Garut regency, West Java province) ",Heavy rains,0.0,0,2024,2024,12.0,6.0,0.0,6.0,0.0,0.0
+Meteorological,Storm,Tornado,China,Eastern Asia,Asia,Guangzhou (Guangdong province),0,331.0,Kph,2024,2024,5.0,33.0,423.0,456.0,0.0,0.0
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,"Oklahoma, Iowa, Nebraska, Texas, Kansas, Missouri, Michigan, Tennessee, North and South Craolinas",0,0.0,Kph,2024,2024,4.0,0.0,558.0,1155.0,0.0,0.0
+Hydrological,Flood,Flood (General),Democratic Republic of the Congo,Sub-Saharan Africa,Africa,"1 Nord-Ubangi, Sud-Ubangi, Tanganyika, Bas-Uele, Haut-Uele, Equateur, Sud-Kivu, Nord-Kivu, Kinshasa, Tshopo, Maniema, Kasaï Central, Mongala, Kwilu et Tshuapa. Kongo Central, Lomami",0,0.0,Km2,2024,2024,300.0,0.0,1827126.0,1827126.0,0.0,0.0
+Hydrological,Flood,Flood (General),Argentina,Latin America and the Caribbean,Americas,Corrientes and Entre Ríos,Heavy rains,0.0,Km2,2024,2024,0.0,0.0,2400.0,2400.0,0.0,0.0
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,"Metropolitan, Central, Vale do Rio Pardo, Vale do Taquari, and Serra Gaúcha areas (Rio Grande do Sul)",0,0.0,Km2,2024,2024,182.0,806.0,2398255.0,2399061.0,7000000.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),China,Eastern Asia,Asia,Near Meizhou (Guangdong),Heavy rains,0.0,0,2024,2024,48.0,30.0,0.0,30.0,0.0,0.0
+Hydrological,Flood,Flood (General),Rwanda,Sub-Saharan Africa,Africa,"Nyanza, Burera, Gakenke, Ngororero",Heavy rains,0.0,Km2,2024,2024,14.0,27.0,0.0,27.0,0.0,0.0
+Meteorological,Storm,Severe weather,Viet Nam,South-eastern Asia,Asia,"Lao Cai, Yen Bai, Ha Giang, Cao Bang, Bac Kan, Tuyen Quang, Phu Tho, Thai Nguyen and Quang Ninh",0,0.0,Kph,2024,2024,1.0,0.0,8320.0,8320.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,Luwu (Sulawesi),Heavy rains,0.0,0,2024,2024,12.0,0.0,17395.0,17395.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Haiti,Latin America and the Caribbean,Americas,Cap-Haïtien commune ,Heavy rains,0.0,0,2024,2024,13.0,0.0,11125.0,11200.0,0.0,0.0
+Meteorological,Storm,Hail,India,Southern Asia,Asia,"Bishnupur, Imphal West, Imphal East, Thoubal, Kakching, Tengnoupal, Kangpokpi, Noney, and Churachandpur districts (Manipur state)",0,0.0,Kph,2024,2024,1.0,0.0,77000.0,77000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Yemen,Western Asia,Asia,"Abyan, Taiz, Al-Jawf, Hadramout, Shabwa, Sa'ada, Mareb, Al-Mahara, Al-Dhale'",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,39123.0,39123.0,0.0,0.0
+Hydrological,Flood,Flash flood,Kyrgyzstan,Central Asia,Asia,Bazar-Korgon district (Jalal-Abad region),0,0.0,Km2,2024,2024,0.0,0.0,500.0,500.0,0.0,0.0
+Hydrological,Flood,Flash flood,Tajikistan,Central Asia,Asia,"Sughd, Khatlon, and Gorno-Badakhshan provinces",Heavy rains,0.0,Km2,2024,2024,3.0,0.0,40.0,40.0,0.0,0.0
+Climatological,Wildfire,Forest fire,Canada,Northern America,Americas,"Fort Nelson, Carpenter Lake, Fontas, and Doig River First Nation reserve (British Columbia); Alberta, Manitoba Provinces",0,0.0,Km2,2024,2024,0.0,0.0,3500.0,3500.0,0.0,0.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,"Agam, Tanah Datar, Padang Panjang, and Padang Pariaman (Sumatra Isl.)",Heavy rains,0.0,Km2,2024,2024,87.0,37.0,3300.0,3337.0,0.0,0.0
+Meteorological,Storm,Severe weather,Thailand,South-eastern Asia,Asia,"Lampang, Phrae, Phichit, Nakhon Sawan, Nong Bua Lamphu, Khon Kaen, Lopburi, Pathum Thani",0,0.0,Kph,2024,2024,0.0,0.0,1300.0,1300.0,0.0,0.0
+Meteorological,Storm,Severe weather,Viet Nam,South-eastern Asia,Asia,"Lao Cai, Yen Bai, Thai Nguyen, Phu Tho, Quang Ninh, and Hanoi provinces",0,0.0,Kph,2024,2024,3.0,0.0,2128.0,2128.0,0.0,0.0
+Hydrological,Flood,Flood (General),Uruguay,Latin America and the Caribbean,Americas,"Ortigas, Cerro Largo, Durazno, Paysandú, Rocha, Salto, Soriano, Tacuarembó and Treinta y Tres",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,3588.0,3588.0,0.0,0.0
+Hydrological,Flood,Flood (General),Sri Lanka,Southern Asia,Asia,"Colombo, Gampaha, Kalutara, Matara, Ratnapura, Kegalle, and Galle districts",Monsoon,0.0,Km2,2024,2024,40.0,48.0,235854.0,235902.0,0.0,0.0
+Hydrological,Flood,Flood (General),Germany,Western Europe,Europe,"Baden-Württemberg; Günzburg, Augsburg, Aichach-Friedberg, Neu-Ulm, Pfaffenhofen an der Ilm, Donau-Ries, Unterallgäu, Freising, Neuburg Schrobenhausen, Dillingen an Donau, Dachau, Kelheim, Deggendorf, Straubing-Bogen districts and the cities of Straubing and Regensburg (Bavaria)",Heavy rains,0.0,Km2,2024,2024,12.0,9.0,3398.0,3407.0,5400000.0,0.0
+Hydrological,Flood,Flood (General),South Africa,Sub-Saharan Africa,Africa,"Eastern Cape, KwaZulu-Natal, and Western Cape provinces",Heavy rains,0.0,Km2,2024,2024,21.0,55.0,46565.0,46620.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Papua New Guinea,Melanesia,Oceania,Enga Region,Heavy rains,0.0,0,2024,2024,6.0,0.0,7849.0,7849.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"Houston (Texas); Kansas, Oklahoma, Missouri, Iowa, Wisconsin, Illinois, Nebraska ",0,160.0,Kph,2024,2024,5.0,0.0,0.0,0.0,4800000.0,0.0
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,Greenfield (Iowa state),0,0.0,Kph,2024,2024,5.0,35.0,0.0,335.0,0.0,0.0
+Hydrological,Flood,Flood (General),Armenia,Western Asia,Asia,"Alaverdi, Akhtala, Bagratashen, Bendik, Deghdsavan, Haghtanak, Karkop, Mets Ayrum, Pokr Ayrum, Sanahin, Shamlug, and Shnogh villages (Lori and Tavush Provinces)",Heavy rains,0.0,Km2,2024,2024,4.0,0.0,429.0,429.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,Asia,"Khulna, Bagerhat, Satkhira, Patuakhali, Pirojpur, Barguna, Jhalokath, Bhola",0,111.0,Kph,2024,2024,16.0,13.0,4590000.0,4590013.0,90700.0,0.0
+Meteorological,Storm,Tropical cyclone,India,Southern Asia,Asia,"Aizawl (Mizoram state); Bengal, Assam, Nagaland, Meghalaya states; West Bengal, Telangana",0,0.0,Kph,2024,2024,51.0,500.0,2109143.0,2109643.0,0.0,0.0
+Geophysical,Volcanic activity,Lahar,Philippines,South-eastern Asia,Asia,La Castellana and Canlaon (Negros Oriental and Negros Occidental Province),0,0.0,0,2024,2024,0.0,0.0,29137.0,29137.0,0.0,0.0
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,Tanah Bumbu Regency (South Kalimantan province),Heavy rains,0.0,Km2,2024,2024,0.0,0.0,7743.0,7743.0,0.0,0.0
+Geophysical,Volcanic activity,Volcanic activity (General),Indonesia,South-eastern Asia,Asia,North Maluku province (west Halmahera Island),0,0.0,0,2024,2024,0.0,0.0,2011.0,2011.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,"Cagayan Valley, Central Luzon, Calabarzon, Mimaropa, Bicol, and Eastern and Central Visayas.",0,0.0,Kph,2024,2024,6.0,8.0,52000.0,52008.0,20000.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,Arfak Mountain Regency (West Papua Province),Heavy rain,0.0,0,2024,2024,4.0,0.0,1750.0,1750.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"Arkansas, northern Texas, eastern Oklahoma, Kentucky, Alabama, Colorado, Missouri, Illinois",0,0.0,Kph,2024,2024,23.0,80.0,102.0,182.0,2500000.0,0.0
+Hydrological,Flood,Flood (General),Ethiopia,Sub-Saharan Africa,Africa,"far, Amhara, Central Ethiopia, Oromia, Sidama, Somali, South Ethiopia and South West Ethiopia Peoples, Tigray regions and Dire Dawa City Administration",Heavy rains,0.0,Km2,2024,2024,14.0,0.0,125000.0,125000.0,0.0,0.0
+Meteorological,Storm,Severe weather,Colombia,Latin America and the Caribbean,Americas,"San Jacinto del Cauca municipalit (Bolívar department); Guaranda, Sucre and Majagual municipalities (Sucre department)",0,0.0,Kph,2024,2024,0.0,0.0,7806.0,7806.0,0.0,0.0
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,"Texas, Colorado",0,0.0,Kph,2024,2024,0.0,0.0,0.0,0.0,1900000.0,0.0
+Climatological,Wildfire,Wildfire (General),Belize,Latin America and the Caribbean,Americas,Toledo and Cayo districts,0,0.0,Km2,2024,2024,0.0,0.0,800.0,800.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Guatemala,Latin America and the Caribbean,Americas,"Petén, Alta Verapaz and Izabal",Prolonged heat,0.0,Km2,2024,2024,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,Asia,Mashhad,0,0.0,Km2,2024,2024,19.0,0.0,450.0,450.0,0.0,0.0
+Hydrological,Flood,Flood (General),Viet Nam,South-eastern Asia,Asia,"Dien Bien, Lao Cai, Ha Giang, Yen Bai, Cao Bang, Lang Son, Thai Nguyen, Bac Giang, Quang Ninh and Hai Phong",Heavy rains,0.0,Km2,2024,2024,3.0,0.0,9628.0,9628.0,0.0,0.0
+Hydrological,Flood,Flood (General),Chile,Latin America and the Caribbean,Americas,"Ñuble, Biobío, Araucanía, Maule, Los Ríos; O'HIggins, santiago regions",Heavy rains,0.0,Km2,2024,2024,0.0,1.0,6392.0,6393.0,0.0,0.0
+Hydrological,Flood,Flood (General),Guatemala,Latin America and the Caribbean,Americas,"Suchitepéquez, San Marcos, Jutiapa, Sacatepequez, Guatemala Department",Heavy rains,0.0,Km2,2024,2024,18.0,13.0,606102.0,606115.0,0.0,0.0
+Hydrological,Flood,Flood (General),Côte dIvoire,Sub-Saharan Africa,Africa,Abidjan district,Heavy rains,0.0,Km2,2024,2024,26.0,0.0,227.0,227.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Ecuador,Latin America and the Caribbean,Americas,"El Chaco, Patate, Pelileo, Quero, Pillaro, Baños de Agua Santa (Tungurahua province); Penipe (Chimborazo province); Cotopaxi province",Heavy rains,0.0,0,2024,2024,19.0,27.0,3602.0,3629.0,0.0,0.0
+Hydrological,Flood,Flood (General),Niger,Sub-Saharan Africa,Africa,"Maradi, Zinder, Agadez, Tahoua, Tilleberi",Heavy rains,0.0,Km2,2024,2024,273.0,278.0,710767.0,711045.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,Razavi Khorasan province,0,4.9,Moment Magnitude,2024,2024,4.0,120.0,0.0,120.0,0.0,0.0
+Meteorological,Storm,Severe weather,Viet Nam,South-eastern Asia,Asia,"Bac Kan, Ha Giang, Tuyen Quang, Cao Bang, Thai Nguyen, and Binh Duong ",0,0.0,Kph,2024,2024,7.0,1.0,400.0,401.0,0.0,0.0
+Meteorological,Storm,Severe weather,Nicaragua,Latin America and the Caribbean,Americas,0,Heavy rain,0.0,Kph,2024,2024,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Severe weather,El Salvador,Latin America and the Caribbean,Americas,"Tacuba district in Ahuachapán Department; La Paz, La Unión, San Vicente, Sonsonate",Tropical storm 'Alberto',0.0,Kph,2024,2024,19.0,0.0,8570.0,8570.0,0.0,0.0
+Meteorological,Storm,Severe weather,Chile,Latin America and the Caribbean,Americas,"Coquimbo, Valparaíso, O'Higgins, Maule, Ñuble, Biobío, Araucanía, Los Rios and Santiago, Metropolitana, Los Lagos regions",0,0.0,Kph,2024,2024,1.0,0.0,24480.0,26820.0,540000.0,0.0
+Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,Asia,"Sylhet, Sunamganj, Netrokona, Moulvibazar, Habiganj, Rangpur, Jamalpur, Gaibandha, Feni, Rangamati, Bogra, Kurigram, Sirajganj, Lalmonirhat, Tangail, Coxs Bazar, Bogura, Munshigan, Khagrachari, Bandarban","Monsoon rain, upstream flow",0.0,Km2,2024,2024,15.0,0.0,2500000.0,2500000.0,11000.0,0.0
+Hydrological,Flood,Flash flood,India,Southern Asia,Asia,Assam and Meghalaya states,Monsoon rains,0.0,Km2,2024,2024,48.0,0.0,2100000.0,2100000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Guatemala,Latin America and the Caribbean,Americas,Jalpatagua and Chacaya municipalities,0,0.0,Kph,2024,2024,10.0,0.0,14400.0,14400.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Honduras,Latin America and the Caribbean,Americas,"Ocotepeque, Lempira, Intibucá, La Paz, Valle and Choluteca departments",0,0.0,Kph,2024,2024,1.0,0.0,1500.0,1500.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Mexico,Latin America and the Caribbean,Americas,"Nuevo Leon, Veracruz, Tamaulipas, Coahuila, ",0,0.0,Kph,2024,2024,4.0,0.0,0.0,0.0,0.0,0.0
+Climatological,Wildfire,Forest fire,United States of America,Northern America,Americas,"Otero and Lincoln Counties (New Mexico); California, Washington states",0,0.0,Km2,2024,2024,2.0,2.0,1500.0,1502.0,1200000.0,0.0
+Meteorological,Extreme temperature,Heat wave,Saudi Arabia,Western Asia,Asia,0,0,51.8,°C,2024,2024,1000.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Barbados,Latin America and the Caribbean,Americas,0,0,0.0,Kph,2024,2024,0.0,0.0,2500.0,2500.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Canada,Northern America,Americas,Nouvelle Ecosse,0,0.0,Kph,2024,2024,1.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Grenada,Latin America and the Caribbean,Americas,"The Union, Carriacou and Petite Martinique islands",0,265.0,Kph,2024,2024,8.0,27.0,6981.0,7008.0,430000.0,0.0
+Meteorological,Storm,Tropical cyclone,Jamaica,Latin America and the Caribbean,Americas,"Clarendon, St.Elizabeth, St. Thomas, Manchester, Westmoreland, Hanover",0,270.0,Kph,2024,2024,3.0,60.0,160000.0,160060.0,1000000.0,0.0
+Meteorological,Storm,Tropical cyclone,United States of America,Northern America,Americas,"Texas, Louisiana",0,130.0,Kph,2024,2024,8.0,0.0,207.0,207.0,4500000.0,0.0
+Meteorological,Storm,Tropical cyclone,Saint Vincent and the Grenadines,Latin America and the Caribbean,Americas,"Union Island, Canouan Island, and Mayrea",0,265.0,Kph,2024,2024,3.0,0.0,15000.0,15000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,Americas,"Cumanacoa, Montes municipality (Sucre)",0,0.0,Kph,2024,2024,8.0,0.0,29000.0,29000.0,0.0,0.0
+Meteorological,Storm,Tornado,China,Eastern Asia,Asia,"Dongming, Juancheng counties (Shandong province)",0,0.0,Kph,2024,2024,5.0,83.0,9000.0,9083.0,0.0,0.0
+Hydrological,Flood,Flood (General),Nepal,Southern Asia,Asia,0,Heavy rains,0.0,Km2,2024,2024,24.0,29.0,2705.0,2734.0,0.0,0.0
+Hydrological,Flood,Flood (General),Myanmar,South-eastern Asia,Asia,"Myitkyina, Waingmaw, and Bhamo districts (Kachin state); Magway, Mandalay and Sagaing; Ayeyarwady, Bago Region (East), Kayin, Mon, Tanintharyi, Yangon, Bago Region (West)",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,106792.0,106792.0,0.0,0.0
+Meteorological,Storm,Severe weather,New Zealand,Australia and New Zealand,Oceania,Hawke's Bay and Tairawhiti regions,0,0.0,Kph,2024,2024,0.0,0.0,1200.0,1200.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Afghanistan,Southern Asia,Asia,Orgor village (Saskani district) Wazi Zadran district ( Paktia province),0,0.0,0,2024,2024,12.0,0.0,0.0,0.0,0.0,0.0
+Climatological,Wildfire,Wildfire (General),Canada,Northern America,Americas,Quebec province,0,0.0,Km2,2024,2024,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flash flood,Republic of Korea,Eastern Asia,Asia,"Chupungnyeong, Geumsan, Gunsan, Nonsan, Seocheon and Daegu (South Chungcheong and the North Jeolla provinces)",Heavy rains,0.0,Km2,2024,2024,4.0,0.0,3500.0,3500.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Mexico,Latin America and the Caribbean,Americas,"Veracruz, Mexico city",0,65.0,Kph,2024,2024,6.0,0.0,20000.0,20000.0,0.0,0.0
+Geophysical,Earthquake,Ground movement,Peru,Latin America and the Caribbean,Americas,Near Arequipa province,0,7.2,Moment Magnitude,2024,2024,0.0,30.0,9000.0,9063.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Nepal,Southern Asia,Asia,Chitwan District,Heavy rain,0.0,0,2024,2024,62.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Nepal,Southern Asia,Asia,"Baglung, Chitawan, Kaski, and Myagdi districts (Gandaki and Bagmati provinces)",0,0.0,0,2024,2024,25.0,13.0,0.0,13.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Viet Nam,South-eastern Asia,Asia,"Ta Mo village (Bac Me district, Ha Giang province)","Heavy rain, tropical depression Three",0.0,0,2024,2024,11.0,4.0,230.0,234.0,0.0,0.0
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia," Pratapgarh, Sultanpur, Chandauli, Mainpuri, Prayagraj, Auraiya, Deoria, Hathras, Varanasi and Siddharthnagar districts (Uttar Pradesh); Assam",Monsoon rain,0.0,Km2,2024,2024,125.0,20.0,1000000.0,1000020.0,0.0,0.0
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,"Punjab, Sindh, Balochistan and Khyber Pakhtunkhwa provinces",Mosoon rain,0.0,Km2,2024,2024,368.0,700.0,551068.0,551768.0,0.0,0.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,"Chengxi town (Dianjiang county) and Yuntai town (Changshou county), Chongqing municipality",0,0.0,Km2,2024,2024,6.0,0.0,7000.0,7000.0,0.0,0.0
+Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,Asia,"Achin, Bati Kot, Behsud, Chaparhar, Haska Mina, Jalalabad, Momandara, Rodat and Surkhrud districts (Nangarhar); Alingar, Alishang, Badpakh, Dawlatshah, Mehtarlam and Qarghayi districts (Laghman); Asadabad, Bar-Kunar, Dare-e-Pech, Khas Kunar, Marawara, Shigal, Sirkani and Watapur districts (Kunar); Jorm district (Badakhshan); Guzargah Noor district, Khwaja Hijran (Baghlan); Kamdesh, Mandul and Wama districts (Nuristan)",Heavy rains,0.0,Km2,2024,2024,58.0,380.0,9625.0,10005.0,0.0,0.0
+Hydrological,Flood,Flood (General),Kyrgyzstan,Central Asia,Asia,Osh city (Osh city region),Heavy rains,0.0,Km2,2024,2024,6.0,0.0,3000.0,3000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Liberia,Sub-Saharan Africa,Africa,"Bong, Grand Cape Mount, Montserrado",Heavy rains,0.0,Km2,2024,2024,2.0,0.0,51000.0,51000.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Ethiopia,Sub-Saharan Africa,Africa,Gofa Zuria zone (South Ethiopia Regional State),Heavy rains,0.0,0,2024,2024,257.0,12.0,15515.0,15527.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,"Metro Manilla, Batangas, Cavite, Pampanga and Bulacan provinces; Regions NCR, I, II, III, CALABARZON, MIMAROPA, V, VI, VII, X, and CAR",0,0.0,Kph,2024,2024,45.0,9.0,3631339.0,3631348.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,Asia,0,0,190.0,Kph,2024,2024,11.0,3300.0,0.0,3300.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),China,Eastern Asia,Asia,Hunan province,Heavy rains,0.0,0,2024,2024,15.0,6.0,0.0,6.0,0.0,0.0
+Hydrological,Flood,Flash flood,Sudan,Northern Africa,Africa,"Kassala, Aj Jazirah, East Darfur, Central Darfur, North Darfur, Khartoum, North Kordofan, Northern, Red Sea, River Nile, West Darfur, and White Nile states",Heavy rain,0.0,Km2,2024,2024,132.0,107.0,317000.0,317107.0,0.0,0.0
+Hydrological,Flood,Flood (General),Democratic People's Republic of Korea,Eastern Asia,Asia,"Sinuiju City and Uiju County (North Pyongan Province); Changang, North Pyongan, and Ryangang provinces ",Heavy rain,0.0,Km2,2024,2024,0.0,0.0,4200.0,4200.0,0.0,0.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,Zixing (Hunan province),"Heavy rains, Typhoon Gaemi",0.0,Km2,2024,2024,65.0,0.0,2700.0,2700.0,0.0,0.0
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia,"Mandi, Kullu, Shimla districts (Himachal Pradesh)",Heavy rains,0.0,Km2,2024,2024,46.0,0.0,0.0,0.0,0.0,0.0
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,"Ridi Village (Kangding county, Garzê Tibetan Autonomous Prefecture, Sichuan province)",Heavy rains,0.0,Km2,2024,2024,27.0,0.0,939.0,939.0,0.0,0.0
+Hydrological,Flood,Flood (General),Chad,Sub-Saharan Africa,Africa,"Batha, Chari-Baguirmi, Logone Oriental, Mayo-Kebbi Ouest, Sila, Logone Occidental, N'Djamena city, Lake and Kanem provinces; Tibesti, Lac, Mayo-Kebbi Est, Mandoul, Tandjilé and Batah regions",Heavy rains,0.0,Km2,2024,2024,503.0,0.0,1700000.0,1700000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Yemen,Western Asia,Asia,"Maqbanah district (Taez governorate), Sadaa provinces; Al Hudaydah, Al Hajjah, Ma'rib governorates",Heavy rains,0.0,Km2,2024,2024,62.0,16.0,171300.0,171316.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),Uganda,Sub-Saharan Africa,Africa,Kampala,Heavy rains,0.0,0,2024,2024,34.0,14.0,1000.0,1014.0,0.0,0.0
+Climatological,Glacial lake outburst flood,Glacial lake outburst flood,Nepal,Southern Asia,Asia,Solukhumbu district (Koshi province),0,0.0,0,2024,2024,0.0,0.0,135.0,135.0,0.0,0.0
+Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,Asia,"Lakshmipur, Cumilla, Feni, and Noakhali districts ",Heavy monsoon rains,0.0,Km2,2024,2024,42.0,0.0,5200000.0,5200000.0,0.0,0.0
+Hydrological,Flood,Flash flood,India,Southern Asia,Asia,Tripura state,Heavy rains,0.0,Km2,2024,2024,11.0,0.0,34000.0,34000.0,0.0,0.0
+Hydrological,Mass movement (wet),Landslide (wet),India,Southern Asia,Asia,"Dipu Dara village (Singtam municipality, Gangtok district, Sikkim state) ",Heavy rains,0.0,0,2024,2024,10.0,0.0,90.0,90.0,0.0,0.0
+Hydrological,Flood,Flood (General),Thailand,South-eastern Asia,Asia,"Phetchabun, Chiang Rai, Chiang Mai, Nan, Phayao, Lampang, Phrae, Udon Thani, Rayong, Phuket, Sukhothai and Prae provinces",Heavy rains,0.0,Km2,2024,2024,22.0,19.0,38331.0,38350.0,0.0,0.0
+Hydrological,Flood,Flood (General),Nigeria,Sub-Saharan Africa,Africa,"Adamawa, Borno, Bauchi, Sokoto, Zamfara and Jigawa states",Heavy rains,0.0,Km2,2024,2024,757.0,6917.0,0.0,6917.0,0.0,0.0
+Hydrological,Flood,Flood (General),Lao People's Democratic Republic,South-eastern Asia,Asia,"Houaphan, Xaignabouli, Xiangkhouang",0,0.0,Km2,2024,2024,0.0,0.0,22800.0,22800.0,0.0,0.0
+Meteorological,Storm,Storm (General),Austria,Western Europe,Europe,Lower Austria,0,0.0,Kph,2024,2024,5.0,0.0,2220.0,2220.0,0.0,0.0
+Meteorological,Storm,Storm (General),Czechia,Eastern Europe,Europe,Slovakia and Moravia regions,0,0.0,Kph,2024,2024,11.0,0.0,12600.0,12600.0,0.0,0.0
+Meteorological,Storm,Storm (General),Italy,Southern Europe,Europe,"Ravenna, Forlì-Cesena and eastern Bologna province, Emilia Romagna and Ancona (Marche); Cotignola, Lugo, Villa San Martino and Zagonara",0,0.0,Kph,2024,2024,3.0,0.0,1000.0,1000.0,0.0,0.0
+Meteorological,Storm,Storm (General),Poland,Eastern Europe,Europe,0,0,0.0,Kph,2024,2024,7.0,0.0,8000.0,8000.0,992970.0,0.0
+Meteorological,Storm,Storm (General),Romania,Eastern Europe,Europe,0,0,0.0,Kph,2024,2024,7.0,0.0,15000.0,15000.0,0.0,0.0
+Meteorological,Storm,Storm (General),Slovakia,Eastern Europe,Europe,Bratislava,0,0.0,Kph,2024,2024,0.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Lao People's Democratic Republic,South-eastern Asia,Asia,0,0,0.0,Kph,2024,2024,5.0,0.0,51440.0,51440.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Myanmar,South-eastern Asia,Asia,"Nay Pyi Taw, Mandalay, Magway, Bago Regions, Shan, Mon, Kayah, and Kayin States",0,0.0,Kph,2024,2024,116.0,0.0,631000.0,631000.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,"Luzon Isl., Isabela province",0,75.0,Kph,2024,2024,47.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Thailand,South-eastern Asia,Asia,0,0,0.0,Kph,2024,2024,20.0,0.0,0.0,0.0,0.0,0.0
+Meteorological,Storm,Tropical cyclone,Viet Nam,South-eastern Asia,Asia," Lao Cai-Yen Bai, Quang Ninh and Hai Phong provinces.",0,0.0,Kph,2024,2024,338.0,1900.0,0.0,1900.0,0.0,0.0
+Hydrological,Flood,Flood (General),Morocco,Northern Africa,Africa,"Tata, Tiznit, Errachidia, Tinghir and Taroudant provinces",Heavy rains,0.0,Km2,2024,2024,22.0,0.0,0.0,168.0,0.0,0.0
+Hydrological,Flood,Flood (General),Nigeria,Sub-Saharan Africa,Africa,Maiduguri (Borno state),Heavy rains,0.0,Km2,2024,2024,37.0,58.0,414000.0,414058.0,0.0,0.0
+Hydrological,Flood,Flood (General),South Sudan,Sub-Saharan Africa,Africa,"Jonglei, Northern Bahr el Ghazal, Warrap States",Heavy rains,0.0,Km2,2024,2024,0.0,0.0,710000.0,710000.0,0.0,0.0
+Hydrological,Flood,Flood (General),Nepal,Southern Asia,Asia,"Kathmandu, Kavrepalanchowk, Lalitpur districts",Heavy rains,0.0,Km2,2024,2024,255.0,83.0,4430.0,4513.0,0.0,0.0
+Hydrological,Flood,Flood (General),Mali,Sub-Saharan Africa,Africa,"Ségou, Timbuktu, Gao, Bamako and Mopti",Heavy rains,0.0,Km2,2024,2024,62.0,118.0,179949.0,180067.0,0.0,0.0
+Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,Asia,Jiroft (Kerman province),0,0.0,Km2,2024,2024,15.0,0.0,0.0,0.0,0.0,0.0
+Climatological,Drought,Drought,Colombia,Latin America and the Caribbean,Americas,"Boyaca, Cordoba, Cundinamarca, Huila, Santander, Sucre",El Nino,0.0,Km2,2024,2024,0.0,0.0,1143043.0,1143043.0,0.0,0.0
+Climatological,Drought,Drought,Zambia,Sub-Saharan Africa,Africa,"Shangombo, Sinazongwe, Chirundu, Siavonga, Chikankata, Lusaka, Luapula, and the Western, Eastern, Southern, Central, and North-Western Provinces","Lack of rains, El Nino",0.0,Km2,2024,2024,0.0,0.0,6600000.0,6600000.0,0.0,0.0
+Climatological,Drought,Drought,Marshall Islands,Micronesia,Oceania,"Ratak Chain, Ralik Chain",0,0.0,Km2,2024,2024,0.0,0.0,13924.0,13924.0,0.0,0.0
+Climatological,Drought,Drought,Malawi,Sub-Saharan Africa,Africa,0,El Nino,0.0,Km2,2024,2024,0.0,0.0,6100000.0,6100000.0,0.0,0.0
+Climatological,Drought,Drought,Zimbabwe,Sub-Saharan Africa,Africa,0,El NIno,0.0,Km2,2024,2024,0.0,0.0,7600000.0,7600000.0,0.0,0.0
+Climatological,Drought,Drought,Viet Nam,South-eastern Asia,Asia,"Can Duoc, Can Giuoc areas (Long An province); U Minh and Tran Van Thoi districts (Ca Mau province); Tien Giang, Ben Tre, Soc Trang, Bac Lieu and Kien Giang provinces",0,0.0,Km2,2024,2024,0.0,0.0,266000.0,266000.0,10000.0,0.0
+Climatological,Drought,Drought,Namibia,Sub-Saharan Africa,Africa,"Khomas, Ohangwena, Kavango West, Kunene, and Kavango East",El Nino,0.0,Km2,2024,2024,0.0,0.0,1655000.0,1655000.0,0.0,0.0
+Climatological,Drought,Drought,Grenada,Latin America and the Caribbean,Americas,"Saint Andrew, Saint David, Saint George",0,0.0,Km2,2024,2024,0.0,0.0,100000.0,100000.0,0.0,0.0
+Climatological,Drought,Drought,Angola,Sub-Saharan Africa,Africa,0,El Nino,0.0,Km2,2024,2024,0.0,0.0,2800000.0,2800000.0,0.0,0.0

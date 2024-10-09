@@ -1,0 +1,300 @@
+Disaster Subgroup,Disaster Type,Disaster Subtype,Country,Subregion,Region,Start Year,End Year,Total Deaths,No. Injured,No. Affected,Total Affected,Total Damage ('000 US$),"Total Damage, Adjusted ('000 US$)"
+Hydrological,Flood,Flood (General),Philippines,South-eastern Asia,Asia,2023,2023,52,11,2143347,2143358,30371,30371
+Geophysical,Earthquake,Ground movement,Indonesia,South-eastern Asia,Asia,2023,2023,1,11,4350,4421,,
+Meteorological,Extreme temperature,Cold wave,Afghanistan,Southern Asia,Asia,2023,2023,166,,,,,
+Meteorological,Storm,Tropical cyclone,Madagascar,Sub-Saharan Africa,Africa,2023,2023,53,,90870,90870,20000,20000
+Hydrological,Mass movement (wet),Avalanche (wet),China,Eastern Asia,Asia,2023,2023,28,5,53,58,,
+Hydrological,Flood,Riverine flood,Serbia,Southern Europe,Europe,2023,2023,2,,210,210,,
+Hydrological,Flood,Flood (General),Colombia,Latin America and the Caribbean,Americas,2023,2023,2,23,15,38,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,5,,180,180,10000,10000
+Hydrological,Flood,Flood (General),New Zealand,Australia and New Zealand,Oceania,2023,2023,4,,3786,5400,1900000,1900000
+Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,2023,2023,3,1017,261387,262404,255000,255000
+Climatological,Wildfire,Wildfire (General),Chile,Latin America and the Caribbean,Americas,2023,2023,26,3034,7500,10534,900000,900000
+Meteorological,Extreme temperature,Severe winter conditions,Canada,Northern America,Americas,2023,2023,2,,,,165000,165000
+Meteorological,Extreme temperature,Severe winter conditions,United States of America,Northern America,Americas,2023,2023,10,25,,25,385000,385000
+Geophysical,Earthquake,Ground movement,Syrian Arab Republic,Western Asia,Asia,2023,2023,5900,8700,8800000,8808700,8900000,8900000
+Geophysical,Earthquake,Ground movement,Türkiye,Western Asia,Asia,2023,2023,53000,107000,16000000,16107000,34000000,34000000
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,2023,2023,5,,188610,188610,,
+Hydrological,Flood,Flood (General),Zambia,Sub-Saharan Africa,Africa,2023,2023,,,22000,22000,,
+Hydrological,Mass movement (wet),Landslide (wet),Peru,Latin America and the Caribbean,Americas,2023,2023,38,27,6300,6327,,
+Biological,Epidemic,Bacterial disease,Zambia,Sub-Saharan Africa,Africa,2023,2023,2,118,,118,,
+Geophysical,Earthquake,Ground movement,Indonesia,South-eastern Asia,Asia,2023,2023,4,,2136,2136,,
+Hydrological,Mass movement (wet),Avalanche (wet),Austria,Western Europe,Europe,2023,2023,8,,,,,
+Hydrological,Mass movement (wet),Avalanche (wet),Switzerland,Western Europe,Europe,2023,2023,2,,,,,
+Hydrological,Mass movement (wet),Avalanche (wet),Italy,Southern Europe,Europe,2023,2023,1,,,,,
+Hydrological,Flood,Flood (General),Mozambique,Sub-Saharan Africa,Africa,2023,2023,14,3,89090,89093,,
+Meteorological,Storm,Tropical cyclone,New Zealand,Australia and New Zealand,Oceania,2023,2023,11,,10500,10500,2800000,2800000
+Hydrological,Flood,Flood (General),South Africa,Sub-Saharan Africa,Africa,2023,2023,17,,1000,1000,,
+Biological,Epidemic,Viral disease,Equatorial Guinea,Sub-Saharan Africa,Africa,2023,2023,10,16,,16,,
+Geophysical,Earthquake,Ground movement,Syrian Arab Republic,Western Asia,Asia,2023,2023,,470,,470,,
+Geophysical,Earthquake,Ground movement,Türkiye,Western Asia,Asia,2023,2023,6,294,,294,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,67,25,4000,4025,30000,30000
+Hydrological,Flood,Flood (General),Philippines,South-eastern Asia,Asia,2023,2023,15,,32764,32764,5000,5000
+Meteorological,Storm,Tropical cyclone,Madagascar,Sub-Saharan Africa,Africa,2023,2023,17,,299000,299000,,
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,2023,2023,55,8,1200,1208,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,,,750,750,95000,95000
+Hydrological,Flood,Flood (General),Ecuador,Latin America and the Caribbean,Americas,2023,2023,30,37,66727,66764,205000,205000
+Meteorological,Storm,Severe weather,Indonesia,South-eastern Asia,Asia,2023,2023,1,3,650,653,,
+Meteorological,Storm,Tropical cyclone,Vanuatu,Melanesia,Oceania,2023,2023,,,251356,251356,,
+Hydrological,Flood,Flood (General),Australia,Australia and New Zealand,Oceania,2023,2023,,,700,700,,
+Meteorological,Storm,Severe weather,United States of America,Northern America,Americas,2023,2023,3,,551,551,255000,255000
+Hydrological,Flood,Flood (General),Peru,Latin America and the Caribbean,Americas,2023,2023,71,,410000,410000,,
+Hydrological,Flood,Flood (General),Australia,Australia and New Zealand,Oceania,2023,2023,,,170,170,,
+Biological,Epidemic,Bacterial disease,South Sudan,Sub-Saharan Africa,Africa,2023,2023,1,178,,178,,
+Hydrological,Flood,Flood (General),Türkiye,Western Asia,Asia,2023,2023,19,,,,25000,25000
+Geophysical,Earthquake,Ground movement,Ecuador,Latin America and the Caribbean,Americas,2023,2023,14,494,126922,127416,,
+Geophysical,Earthquake,Ground movement,Peru,Latin America and the Caribbean,Americas,2023,2023,1,1,140,141,,
+Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,Asia,2023,2023,5,80,3265,3345,,
+Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,Asia,2023,2023,11,79,860,939,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,6,,2400,2400,50000,50000
+Hydrological,Flood,Flash flood,Pakistan,Southern Asia,Asia,2023,2023,10,,,,,
+Hydrological,Flood,Flood (General),Syrian Arab Republic,Western Asia,Asia,2023,2023,,1,2850,2851,,
+Meteorological,Storm,Severe weather,India,Southern Asia,Asia,2023,2023,16,14,,14,,
+Biological,Epidemic,Bacterial disease,Nigeria,Sub-Saharan Africa,Africa,2023,2023,562,9486,,9486,,
+Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,Asia,2023,2023,,239,,239,,
+Hydrological,Flood,Flash flood,Somalia,Sub-Saharan Africa,Africa,2023,2023,21,2,100001,100003,,
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,2023,2023,14,,50,50,,
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,2023,2023,3,,9960,9960,,
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,2023,2023,25,72,6000,7011,2900000,2900000
+Hydrological,Mass movement (wet),Landslide (wet),Ecuador,Latin America and the Caribbean,Americas,2023,2023,75,44,8400,8444,,
+Hydrological,Flood,Flood (General),Bolivia (Plurinational State of),Latin America and the Caribbean,Americas,2023,2023,,,1500,1500,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,,,15000,15000,20000,20000
+Hydrological,Flood,Flood (General),South Africa,Sub-Saharan Africa,Africa,2023,2023,3,,500,500,,
+Hydrological,Flood,Flood (General),Ethiopia,Sub-Saharan Africa,Africa,2023,2023,91,,240000,240000,,
+Hydrological,Flood,Flood (General),Kenya,Sub-Saharan Africa,Africa,2023,2023,36,29,139135,139164,,
+Geophysical,Earthquake,Ground movement,Papua New Guinea,Melanesia,Oceania,2023,2023,8,11,13635,16274,,
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,2023,2023,31,200,5544,6479,5500000,5500000
+Hydrological,Mass movement (wet),Landslide (wet),Democratic Republic of the Congo,Sub-Saharan Africa,Africa,2023,2023,19,,,,,
+Hydrological,Flood,Flood (General),Colombia,Latin America and the Caribbean,Americas,2023,2023,1,,4500,4500,,
+Biological,Epidemic,Bacterial disease,Somalia,Sub-Saharan Africa,Africa,2023,2023,14,3428,,3428,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,6,26,3693,3719,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,5,,1152,1152,,
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,2023,2023,5,5,225,266,2900000,2900000
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,2023,2023,14,27,750,777,,
+Hydrological,Flood,Flood (General),Belarus,Eastern Europe,Europe,2023,2023,,,420,420,,
+Hydrological,Flood,Flood (General),Latvia,Northern Europe,Europe,2023,2023,,,200,200,,
+Meteorological,Storm,Tornado,New Zealand,Australia and New Zealand,Oceania,2023,2023,,,303,303,,
+Climatological,Wildfire,Wildfire (General),Republic of Korea,Eastern Asia,Asia,2023,2023,1,,500,500,,
+Hydrological,Flood,Flood (General),Peru,Latin America and the Caribbean,Americas,2023,2023,25,,124326,124326,305000,305000
+Hydrological,Flood,Flood (General),Burundi,Sub-Saharan Africa,Africa,2023,2023,14,13,226,239,,
+Hydrological,Flood,Flash flood,United States of America,Northern America,Americas,2023,2023,,,2000,2000,1100000,1100000
+Hydrological,Flood,Flood (General),United Republic of Tanzania,Sub-Saharan Africa,Africa,2023,2023,13,,,24,,
+Hydrological,Mass movement (wet),Landslide (wet),Indonesia,South-eastern Asia,Asia,2023,2023,5,,130,130,,
+Meteorological,Storm,Sand/Dust storm,Iran (Islamic Republic of),Southern Asia,Asia,2023,2023,3,,400,400,,
+Meteorological,Storm,Sand/Dust storm,Iraq,Western Asia,Asia,2023,2023,3,,,,,
+Meteorological,Storm,Severe weather,Brazil,Latin America and the Caribbean,Americas,2023,2023,,,750,1050,,
+Meteorological,Extreme temperature,Heat wave,India,Southern Asia,Asia,2023,2023,11,330,,330,,
+Hydrological,Flood,Flood (General),United Republic of Tanzania,Sub-Saharan Africa,Africa,2023,2023,,,1976,1976,,
+Geophysical,Earthquake,Ground movement,Tajikistan,Central Asia,Asia,2023,2023,,3,2202,2205,,
+Meteorological,Storm,Tropical cyclone,Peru,Latin America and the Caribbean,Americas,2023,2023,8,,45000,45000,705000,705000
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,2023,2023,1,12,,12,2950000,2950000
+Meteorological,Storm,Lightning/Thunderstorms,Cambodia,South-eastern Asia,Asia,2023,2023,,,14100,14100,,
+Hydrological,Flood,Flood (General),Ukraine,Eastern Europe,Europe,2023,2023,,,2850,2850,,
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,2023,2023,,,136149,136149,222,222
+Hydrological,Flood,Flood (General),Angola,Sub-Saharan Africa,Africa,2023,2023,54,450,44000,44450,,
+Meteorological,Storm,Tornado,Myanmar,South-eastern Asia,Asia,2023,2023,8,130,,1280,,
+Meteorological,Storm,Tornado,Türkiye,Western Asia,Asia,2023,2023,1,50,504,554,,
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,2023,2023,,,,,1300000,1300000
+Meteorological,Storm,Storm (General),Bangladesh,Southern Asia,Asia,2023,2023,10,,,,,
+Meteorological,Storm,Lightning/Thunderstorms,Thailand,South-eastern Asia,Asia,2023,2023,,,22200,22200,,
+Meteorological,Storm,Lightning/Thunderstorms,Sri Lanka,Southern Asia,Asia,2023,2023,,,910,910,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,,,9348,9348,,
+Hydrological,Flood,Flash flood,Kenya,Sub-Saharan Africa,Africa,2023,2023,,,22500,22500,,
+Hydrological,Flood,Flood (General),Uganda,Sub-Saharan Africa,Africa,2023,2023,23,16,1000,1016,,
+Hydrological,Flood,Flood (General),Viet Nam,South-eastern Asia,Asia,2023,2023,,,6540,6540,,
+Hydrological,Flood,Flash flood,Pakistan,Southern Asia,Asia,2023,2023,12,3,,3,,
+Hydrological,Flood,Flood (General),Rwanda,Sub-Saharan Africa,Africa,2023,2023,131,77,51905,51982,,
+Geophysical,Earthquake,Ground movement,China,Eastern Asia,Asia,2023,2023,,10,8400,8410,30000,30000
+Hydrological,Flood,Flood (General),Italy,Southern Europe,Europe,2023,2023,2,,500,500,,
+Hydrological,Flood,Flood (General),Canada,Northern America,Americas,2023,2023,2,,1000,1000,,
+Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,Asia,2023,2023,1,43,2157,2254,,
+Climatological,Wildfire,Forest fire,Canada,Northern America,Americas,2023,2023,2,,30000,30000,200000,200000
+Hydrological,Flood,Flash flood,Democratic Republic of the Congo,Sub-Saharan Africa,Africa,2023,2023,2830,220,50000,50220,10000,10000
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,2023,2023,,,530000,530000,95000,95000
+Geophysical,Volcanic activity,Ash fall,Guatemala,Latin America and the Caribbean,Americas,2023,2023,,,1054,1054,,
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,2023,2023,1,,,,2200000,2200000
+Climatological,Wildfire,Forest fire,Russian Federation,Eastern Europe,Europe,2023,2023,21,,15000,15000,50000,50000
+Meteorological,Storm,Storm (General),Sierra Leone,Sub-Saharan Africa,Africa,2023,2023,15,17,,17,,
+Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,Asia,2023,2023,4,25,1500,1525,,
+Hydrological,Flood,Flood (General),Czechia,Eastern Europe,Europe,2023,2023,,,,,,
+Hydrological,Flood,Flood (General),Italy,Southern Europe,Europe,2023,2023,15,,46000,46000,9750000,9750000
+Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,Asia,2023,2023,3,12,750000,750012,1000,1000
+Meteorological,Storm,Tropical cyclone,India,Southern Asia,Asia,2023,2023,,,1000,1000,,
+Meteorological,Storm,Tropical cyclone,Myanmar,South-eastern Asia,Asia,2023,2023,148,132,1200000,1200132,2240000,2240000
+Hydrological,Flood,Flash flood,Somalia,Sub-Saharan Africa,Africa,2023,2023,22,,468000,468000,,
+Meteorological,Extreme temperature,Cold wave,Mongolia,Eastern Asia,Asia,2023,2023,2,,5100,5100,,
+Meteorological,Storm,Tropical cyclone,Guam,Micronesia,Oceania,2023,2023,2,,100000,100000,4300000,4300000
+Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,Asia,2023,2023,3,35,,35,,
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,2023,2023,1,1,30500,30501,,
+Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,Asia,2023,2023,1,,,,,
+Hydrological,Mass movement (wet),Avalanche (wet),Pakistan,Southern Asia,Asia,2023,2023,11,25,,25,,
+Hydrological,Flood,Flood (General),Croatia,Southern Europe,Europe,2023,2023,,,177,177,,
+Hydrological,Flood,Flood (General),Bosnia and Herzegovina,Southern Europe,Europe,2023,2023,,,10000,10000,,
+Geophysical,Earthquake,Ground movement,France,Western Europe,Europe,2023,2023,,2,750,752,445000,445000
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,2023,2023,5,135,60,195,3800000,3800000
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,17,,11100,11100,205000,205000
+Hydrological,Flood,Flood (General),Nepal,Southern Asia,Asia,2023,2023,36,6,1500,1506,,
+Meteorological,Extreme temperature,Heat wave,India,Southern Asia,Asia,2023,2023,179,460,,460,,
+Meteorological,Extreme temperature,Heat wave,Pakistan,Southern Asia,Asia,2023,2023,22,,,,,
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia,2023,2023,,,500000,500000,,
+Meteorological,Storm,Tropical cyclone,India,Southern Asia,Asia,2023,2023,7,,10000,10000,,
+Meteorological,Storm,Tropical cyclone,Pakistan,Southern Asia,Asia,2023,2023,1,,,,,
+Meteorological,Storm,Tornado,United States of America,Northern America,Americas,2023,2023,3,12,600,612,4100000,4100000
+Climatological,Wildfire,Wildfire (General),Kazakhstan,Central Asia,Asia,2023,2023,14,,300,300,,
+Hydrological,Flood,Flood (General),Cuba,Latin America and the Caribbean,Americas,2023,2023,6,,18500,18500,,
+Hydrological,Flood,Flood (General),Haiti,Latin America and the Caribbean,Americas,2023,2023,78,143,225000,225143,420000,420000
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,2023,2023,25,,,,,
+Hydrological,Flood,Flood (General),Ecuador,Latin America and the Caribbean,Americas,2023,2023,,,14186,14186,,
+Meteorological,Storm,Severe weather,South Africa,Sub-Saharan Africa,Africa,2023,2023,5,,,150,,
+Meteorological,Storm,Sand/Dust storm,Iran (Islamic Republic of),Southern Asia,Asia,2023,2023,,1050,,1050,,
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,2023,2023,33,48,150,198,,
+Geophysical,Volcanic activity,Lava flow,Philippines,South-eastern Asia,Asia,2023,2023,,628,38396,39024,,
+Hydrological,Mass movement (wet),Landslide (wet),China,Eastern Asia,Asia,2023,2023,7,,900,900,,
+Hydrological,Flood,Flash flood,India,Southern Asia,Asia,2023,2023,62,,5,5,3000,3000
+Meteorological,Storm,Tropical cyclone,Barbados,Latin America and the Caribbean,Americas,2023,2023,,,179,179,,
+Meteorological,Storm,Tropical cyclone,Saint Vincent and the Grenadines,Latin America and the Caribbean,Americas,2023,2023,,,150,150,,
+Hydrological,Flood,Flood (General),Chile,Latin America and the Caribbean,Americas,2023,2023,4,,21673,21673,765000,765000
+Meteorological,Extreme temperature,Heat wave,United States of America,Northern America,Americas,2023,2023,14,,,,,
+Hydrological,Flood,Flood (General),Guatemala,Latin America and the Caribbean,Americas,2023,2023,78,5,4400000,4400005,,
+Meteorological,Storm,Severe weather,Indonesia,South-eastern Asia,Asia,2023,2023,,7,330,337,,
+Hydrological,Flood,Flood (General),Ghana,Sub-Saharan Africa,Africa,2023,2023,8,,250,250,,
+Meteorological,Storm,Storm (General),United States of America,Northern America,Americas,2023,2023,8,100,,100,5300000,5300000
+Geophysical,Earthquake,Ground movement,Indonesia,South-eastern Asia,Asia,2023,2023,1,10,1110,1120,,
+Hydrological,Flood,Flood (General),Yemen,Western Asia,Asia,2023,2023,248,183,308000,308183,,
+Biological,Epidemic,Viral disease,Peru,Latin America and the Caribbean,Americas,2023,2023,176,110000,,110000,,
+Hydrological,Flood,Flood (General),Dominican Republic,Latin America and the Caribbean,Americas,2023,2023,1,,289083,289083,,
+Hydrological,Flood,Flood (General),Venezuela (Bolivarian Republic of),Latin America and the Caribbean,Americas,2023,2023,12,,112,112,,
+Hydrological,Flood,Flood (General),Serbia,Southern Europe,Europe,2023,2023,,,15432,15432,,
+Meteorological,Storm,Hail,Armenia,Western Asia,Asia,2023,2023,,,18000,18000,,
+Hydrological,Flood,Flash flood,Georgia,Western Asia,Asia,2023,2023,,,350000,350000,,
+Hydrological,Flood,Flood (General),Argentina,Latin America and the Caribbean,Americas,2023,2023,,,38000,38000,,
+Meteorological,Storm,Storm (General),Gabon,Sub-Saharan Africa,Africa,2023,2023,,,3000,3000,,
+Hydrological,Flood,Flash flood,Japan,Eastern Asia,Asia,2023,2023,6,18,4200,4218,,
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,2023,2023,21,,95000,109000,,
+Hydrological,Flood,Flood (General),Thailand,South-eastern Asia,Asia,2023,2023,,,7650,7650,,
+Biological,Epidemic,Viral disease,Nepal,Southern Asia,Asia,2023,2023,,600,,600,,
+Hydrological,Flood,Flood (General),United States of America,Northern America,Americas,2023,2023,10,,,,2200000,2200000
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia,2023,2023,1529,,10250000,10250000,,
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,2023,2023,217,320,28855,29175,,
+Hydrological,Flood,Flood (General),Brazil,Latin America and the Caribbean,Americas,2023,2023,14,,20000,20000,,
+Hydrological,Flood,Flood (General),Mongolia,Eastern Asia,Asia,2023,2023,,,288738,288738,,
+Meteorological,Storm,Storm (General),Sri Lanka,Southern Asia,Asia,2023,2023,,,6631,6631,,
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,2023,2023,6,7,510,517,,
+Meteorological,Extreme temperature,Heat wave,Albania,Southern Europe,Europe,2023,2023,363,,,,,
+Meteorological,Extreme temperature,Heat wave,Austria,Western Europe,Europe,2023,2023,486,,,,,
+Meteorological,Extreme temperature,Heat wave,Belgium,Western Europe,Europe,2023,2023,324,,,,,
+Meteorological,Extreme temperature,Heat wave,Bulgaria,Eastern Europe,Europe,2023,2023,1670,,,,,
+Meteorological,Extreme temperature,Heat wave,Switzerland,Western Europe,Europe,2023,2023,294,,,,,
+Meteorological,Extreme temperature,Heat wave,Cyprus,Western Asia,Asia,2023,2023,151,,,,,
+Meteorological,Extreme temperature,Heat wave,Czechia,Eastern Europe,Europe,2023,2023,361,,,,,
+Meteorological,Extreme temperature,Heat wave,Germany,Western Europe,Europe,2023,2023,6376,,,,,
+Meteorological,Extreme temperature,Heat wave,Denmark,Northern Europe,Europe,2023,2023,189,,,,,
+Meteorological,Extreme temperature,Heat wave,Spain,Southern Europe,Europe,2023,2023,8352,,,,,
+Meteorological,Extreme temperature,Heat wave,Estonia,Northern Europe,Europe,2023,2023,103,,,,,
+Meteorological,Extreme temperature,Heat wave,Finland,Northern Europe,Europe,2023,2023,138,,,,,
+Meteorological,Extreme temperature,Heat wave,France,Western Europe,Europe,2023,2023,2734,,,,,
+Meteorological,Extreme temperature,Heat wave,United Kingdom of Great Britain and Northern Ireland,Northern Europe,Europe,2023,2023,1851,,,,,
+Meteorological,Extreme temperature,Heat wave,Greece,Southern Europe,Europe,2023,2023,4339,,,,,
+Meteorological,Extreme temperature,Heat wave,Croatia,Southern Europe,Europe,2023,2023,561,,,,,
+Meteorological,Extreme temperature,Heat wave,Hungary,Eastern Europe,Europe,2023,2023,294,,,,,
+Meteorological,Extreme temperature,Heat wave,Ireland,Northern Europe,Europe,2023,2023,60,,,,,
+Meteorological,Extreme temperature,Heat wave,Iceland,Northern Europe,Europe,2023,2023,,,,,,
+Meteorological,Extreme temperature,Heat wave,Italy,Southern Europe,Europe,2023,2023,12743,,,,,
+Meteorological,Extreme temperature,Heat wave,Liechtenstein,Western Europe,Europe,2023,2023,1,,,,,
+Meteorological,Extreme temperature,Heat wave,Lithuania,Northern Europe,Europe,2023,2023,247,,,,,
+Meteorological,Extreme temperature,Heat wave,Luxembourg,Western Europe,Europe,2023,2023,33,,,,,
+Meteorological,Extreme temperature,Heat wave,Latvia,Northern Europe,Europe,2023,2023,58,,,,,
+Meteorological,Extreme temperature,Heat wave,Malta,Southern Europe,Europe,2023,2023,70,,,,,
+Meteorological,Extreme temperature,Heat wave,Montenegro,Southern Europe,Europe,2023,2023,41,,,,,
+Meteorological,Extreme temperature,Heat wave,Netherlands (Kingdom of the),Western Europe,Europe,2023,2023,368,,,,,
+Meteorological,Extreme temperature,Heat wave,Norway,Northern Europe,Europe,2023,2023,29,,,,,
+Meteorological,Extreme temperature,Heat wave,Poland,Eastern Europe,Europe,2023,2023,616,,,,,
+Meteorological,Extreme temperature,Heat wave,Portugal,Southern Europe,Europe,2023,2023,1432,,,,,
+Meteorological,Extreme temperature,Heat wave,Romania,Eastern Europe,Europe,2023,2023,2585,,,,,
+Meteorological,Extreme temperature,Heat wave,Serbia,Southern Europe,Europe,2023,2023,464,,,,,
+Meteorological,Extreme temperature,Heat wave,Slovakia,Eastern Europe,Europe,2023,2023,247,,,,,
+Meteorological,Extreme temperature,Heat wave,Slovenia,Southern Europe,Europe,2023,2023,95,,,,,
+Meteorological,Extreme temperature,Heat wave,Sweden,Northern Europe,Europe,2023,2023,13,,,,,
+Hydrological,Flood,Flood (General),Republic of Korea,Eastern Asia,Asia,2023,2023,58,34,10500,10534,,
+Climatological,Wildfire,Forest fire,Greece,Southern Europe,Europe,2023,2023,3,11,19000,19011,,
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,2023,2023,2,,450,450,,
+Meteorological,Storm,Tropical cyclone,Viet Nam,South-eastern Asia,Asia,2023,2023,1,3,,3,,
+Hydrological,Mass movement (wet),Landslide (wet),Colombia,Latin America and the Caribbean,Americas,2023,2023,29,6,,106,,
+Hydrological,Flood,Flood (General),Niger,Sub-Saharan Africa,Africa,2023,2023,41,53,169598,169651,,
+Meteorological,Storm,Hail,Italy,Southern Europe,Europe,2023,2023,,110,,110,,
+Hydrological,Mass movement (wet),Landslide (wet),India,Southern Asia,Asia,2023,2023,28,,,200,,
+Meteorological,Storm,Storm (General),Bosnia and Herzegovina,Southern Europe,Europe,2023,2023,1,20,,20,,
+Meteorological,Storm,Storm (General),Croatia,Southern Europe,Europe,2023,2023,1,100,6000,6100,,
+Meteorological,Storm,Storm (General),Serbia,Southern Europe,Europe,2023,2023,,,20,20,,
+Meteorological,Storm,Storm (General),Slovakia,Eastern Europe,Europe,2023,2023,,,,,,
+Meteorological,Storm,Storm (General),Slovenia,Southern Europe,Europe,2023,2023,1,3,3000,3003,,
+Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,Asia,2023,2023,67,24,126000,126024,,
+Hydrological,Flood,Flash flood,Pakistan,Southern Asia,Asia,2023,2023,13,,,,,
+Meteorological,Storm,Tropical cyclone,China,Eastern Asia,Asia,2023,2023,56,39,880000,880039,25000000,25000000
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,2023,2023,39,171,5385066,5385237,284256,284256
+Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,Asia,2023,2023,1,68,,68,10000,10000
+Hydrological,Flood,Flood (General),Canada,Northern America,Americas,2023,2023,4,,450,450,,
+Meteorological,Storm,Severe weather,Switzerland,Western Europe,Europe,2023,2023,2,40,15000,15040,,
+Meteorological,Storm,Severe weather,Germany,Western Europe,Europe,2023,2023,1,,,,,
+Meteorological,Storm,Severe weather,Italy,Southern Europe,Europe,2023,2023,2,,,,100000,100000
+Meteorological,Storm,Severe weather,Romania,Eastern Europe,Europe,2023,2023,2,,,,,
+Meteorological,Storm,Severe weather,Serbia,Southern Europe,Europe,2023,2023,1,,,,,
+Climatological,Wildfire,Wildfire (General),Algeria,Northern Africa,Africa,2023,2023,34,26,30000,30026,,
+Biological,Epidemic,Viral disease,Bangladesh,Southern Asia,Asia,2023,2023,127,,,,,
+Hydrological,Flood,Flood (General),Cameroon,Sub-Saharan Africa,Africa,2023,2023,2,5,93255,93260,,
+Hydrological,Flood,Flood (General),India,Southern Asia,Asia,2023,2023,23,,,,,
+Meteorological,Storm,Storm (General),Russian Federation,Eastern Europe,Europe,2023,2023,10,76,,76,,
+Hydrological,Flood,Flood (General),Viet Nam,South-eastern Asia,Asia,2023,2023,7,,1730,2175,,
+Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,Asia,2023,2023,2,41,,41,,
+Meteorological,Storm,Tropical cyclone,Republic of Korea,Eastern Asia,Asia,2023,2023,2,,,,,
+Meteorological,Storm,Tropical cyclone,Russian Federation,Eastern Europe,Europe,2023,2023,3,,13200,13200,,
+Hydrological,Flood,Flood (General),Lao People's Democratic Republic,South-eastern Asia,Asia,2023,2023,7,,110129,110129,7719,7719
+Hydrological,Flood,Flood (General),Slovenia,Southern Europe,Europe,2023,2023,,,1500120,1500120,,
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,2023,2023,51,,600000,600000,,
+Climatological,Wildfire,Wildfire (General),Portugal,Southern Europe,Europe,2023,2023,,35,1400,1435,,
+Hydrological,Flood,Flash flood,Mongolia,Eastern Asia,Asia,2023,2023,4,,1230,1230,,
+Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,Asia,2023,2023,4,6,1000000,1000006,,
+Hydrological,Flood,Flood (General),China,Eastern Asia,Asia,2023,2023,14,,134000,134000,,
+Hydrological,Flood,Flood (General),Myanmar,South-eastern Asia,Asia,2023,2023,5,,48000,48000,,
+Hydrological,Flood,Flash flood,Viet Nam,South-eastern Asia,Asia,2023,2023,15,8,214527,214535,,
+Hydrological,Mass movement (wet),Landslide (wet),Georgia,Western Asia,Asia,2023,2023,18,,,,,
+Geophysical,Earthquake,Ground movement,China,Eastern Asia,Asia,2023,2023,,21,,399,35000,35000
+Climatological,Wildfire,Wildfire (General),United States of America,Northern America,Americas,2023,2023,128,,7695,7695,5500000,5500000
+Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,Asia,2023,2023,,66,600,666,,
+Meteorological,Storm,Storm (General),China,Eastern Asia,Asia,2023,2023,5,18,849,867,,
+Climatological,Wildfire,Wildfire (General),France,Western Europe,Europe,2023,2023,,51,90,141,,
+Hydrological,Mass movement (wet),Landslide (wet),Myanmar,South-eastern Asia,Asia,2023,2023,39,,,,,
+Climatological,Wildfire,Wildfire (General),United States of America,Northern America,Americas,2023,2023,2,1,720,802,,
+Climatological,Wildfire,Forest fire,Greece,Southern Europe,Europe,2023,2023,20,,,,200000,200000
+Hydrological,Flood,Flood (General),Chile,Latin America and the Caribbean,Americas,2023,2023,3,,32000,32000,1100000,1100000
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,2023,2023,16,,,,,
+Hydrological,Mass movement (wet),Landslide (wet),India,Southern Asia,Asia,2023,2023,10,,605,605,,
+Hydrological,Mass movement (wet),Landslide (wet),India,Southern Asia,Asia,2023,2023,26,2,,2,,
+Hydrological,Flood,Flash flood,China,Eastern Asia,Asia,2023,2023,27,,,,,
+Meteorological,Storm,Tropical cyclone,Dominican Republic,Latin America and the Caribbean,Americas,2023,2023,3,,289083,289083,,
+Biological,Epidemic,Bacterial disease,Congo,Sub-Saharan Africa,Africa,2023,2023,52,1752,84240,85992,,
+Meteorological,Storm,Tropical cyclone,Cuba,Latin America and the Caribbean,Americas,2023,2023,,,,,,
+Meteorological,Storm,Tropical cyclone,United States of America,Northern America,Americas,2023,2023,5,,,,3500000,3500000
+Meteorological,Storm,Tropical cyclone,China,Eastern Asia,Asia,2023,2023,1,2,,2,690000,690000
+Meteorological,Storm,Tropical cyclone,"China, Hong Kong Special Administrative Region",Eastern Asia,Asia,2023,2023,,86,,86,,
+Meteorological,Storm,Tropical cyclone,Philippines,South-eastern Asia,Asia,2023,2023,4,3,900000,900003,33000,33000
+Hydrological,Flood,Flood (General),Tajikistan,Central Asia,Asia,2023,2023,21,,,,,
+Hydrological,Flood,Flood (General),Pakistan,Southern Asia,Asia,2023,2023,6,101,89500,89601,,
+Biological,Epidemic,Viral disease,Kyrgyzstan,Central Asia,Asia,2023,2023,,3618,,3618,,
+Hydrological,Flood,Flood (General),Guinea,Sub-Saharan Africa,Africa,2023,2023,8,937,24135,25072,,
+Hydrological,Flood,Flood (General),Mauritania,Sub-Saharan Africa,Africa,2023,2023,1,,7200,7200,,
+Hydrological,Flood,Flood (General),Algeria,Northern Africa,Africa,2023,2023,8,218,1450,1668,,
+Hydrological,Flood,Flood (General),Spain,Southern Europe,Europe,2023,2023,3,,6000,6000,370000,370000
+Hydrological,Flood,Flood (General),Bulgaria,Eastern Europe,Europe,2023,2023,4,,4000,4000,,
+Hydrological,Flood,Flood (General),Greece,Southern Europe,Europe,2023,2023,17,,5260,5260,,
+Hydrological,Flood,Flood (General),Türkiye,Western Asia,Asia,2023,2023,8,31,,31,,
+Geophysical,Earthquake,Ground movement,Morocco,Northern Africa,Africa,2023,2023,2946,5674,840000,845674,7000000,7000000
+Hydrological,Flood,Flood (General),Indonesia,South-eastern Asia,Asia,2023,2023,,,14500,14500,,
+Meteorological,Storm,Tropical cyclone,Argentina,Latin America and the Caribbean,Americas,2023,2023,,,6000,6000,,
+Meteorological,Storm,Tropical cyclone,Brazil,Latin America and the Caribbean,Americas,2023,2023,46,924,341000,341924,705000,705000
+Meteorological,Storm,Lightning/Thunderstorms,India,Southern Asia,Asia,2023,2023,12,14,1060,1074,,
+Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,Asia,2023,2023,3,,3600,3600,,
+Meteorological,Storm,Storm (General),Libya,Northern Africa,Africa,2023,2023,12352,,1600000,1600000,6200000,6200000
+Hydrological,Flood,Flash flood,China,Eastern Asia,Asia,2023,2023,,,,,,
+Hydrological,Flood,Flash flood,"China, Hong Kong Special Administrative Region",Eastern Asia,Asia,2023,2023,,119,,119,,
+Hydrological,Flood,Flood (General),South Africa,Sub-Saharan Africa,Africa,2023,2023,11,,5000,5000,,

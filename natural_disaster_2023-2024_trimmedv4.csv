@@ -1,0 +1,101 @@
+Disaster Type,Country,Region,Start Year,End Year,Total Deaths,No. Injured,No. Affected,Total Affected,Total Damage ('000 US$),"Total Damage, Adjusted ('000 US$)"
+Flood,Philippines,Asia,2023,2023,52,11,2143347,2143358,30371,30371
+Earthquake,Indonesia,Asia,2023,2023,1,11,4350,4421,,
+Extreme temperature,Afghanistan,Asia,2023,2023,166,,,,,
+Storm,Madagascar,Africa,2023,2023,53,,90870,90870,20000,20000
+Mass movement (wet),China,Asia,2023,2023,28,5,53,58,,
+Flood,Serbia,Europe,2023,2023,2,,210,210,,
+Flood,Colombia,Americas,2023,2023,2,23,15,38,,
+Flood,Brazil,Americas,2023,2023,5,,180,180,10000,10000
+Flood,New Zealand,Oceania,2023,2023,4,,3786,5400,1900000,1900000
+Earthquake,Iran (Islamic Republic of),Asia,2023,2023,3,1017,261387,262404,255000,255000
+Wildfire,Chile,Americas,2023,2023,26,3034,7500,10534,900000,900000
+Extreme temperature,Canada,Americas,2023,2023,2,,,,165000,165000
+Extreme temperature,United States of America,Americas,2023,2023,10,25,,25,385000,385000
+Earthquake,Syrian Arab Republic,Asia,2023,2023,5900,8700,8800000,8808700,8900000,8900000
+Earthquake,Türkiye,Asia,2023,2023,53000,107000,16000000,16107000,34000000,34000000
+Flood,Bolivia (Plurinational State of),Americas,2023,2023,5,,188610,188610,,
+Flood,Zambia,Africa,2023,2023,,,22000,22000,,
+Mass movement (wet),Peru,Americas,2023,2023,38,27,6300,6327,,
+Epidemic,Zambia,Africa,2023,2023,2,118,,118,,
+Earthquake,Indonesia,Asia,2023,2023,4,,2136,2136,,
+Mass movement (wet),Austria,Europe,2023,2023,8,,,,,
+Mass movement (wet),Switzerland,Europe,2023,2023,2,,,,,
+Mass movement (wet),Italy,Europe,2023,2023,1,,,,,
+Flood,Mozambique,Africa,2023,2023,14,3,89090,89093,,
+Storm,New Zealand,Oceania,2023,2023,11,,10500,10500,2800000,2800000
+Flood,South Africa,Africa,2023,2023,17,,1000,1000,,
+Epidemic,Equatorial Guinea,Africa,2023,2023,10,16,,16,,
+Earthquake,Syrian Arab Republic,Asia,2023,2023,,470,,470,,
+Earthquake,Türkiye,Asia,2023,2023,6,294,,294,,
+Flood,Brazil,Americas,2023,2023,67,25,4000,4025,30000,30000
+Flood,Philippines,Asia,2023,2023,15,,32764,32764,5000,5000
+Storm,Madagascar,Africa,2023,2023,17,,299000,299000,,
+Mass movement (wet),Indonesia,Asia,2023,2023,55,8,1200,1208,,
+Flood,Brazil,Americas,2023,2023,,,750,750,95000,95000
+Flood,Ecuador,Americas,2023,2023,30,37,66727,66764,205000,205000
+Storm,Indonesia,Asia,2023,2023,1,3,650,653,,
+Storm,Vanuatu,Oceania,2023,2023,,,251356,251356,,
+Flood,Australia,Oceania,2023,2023,,,700,700,,
+Storm,United States of America,Americas,2023,2023,3,,551,551,255000,255000
+Flood,Peru,Americas,2023,2023,71,,410000,410000,,
+Flood,Australia,Oceania,2023,2023,,,170,170,,
+Epidemic,South Sudan,Africa,2023,2023,1,178,,178,,
+Flood,Türkiye,Asia,2023,2023,19,,,,25000,25000
+Earthquake,Ecuador,Americas,2023,2023,14,494,126922,127416,,
+Earthquake,Peru,Americas,2023,2023,1,1,140,141,,
+Earthquake,Afghanistan,Asia,2023,2023,5,80,3265,3345,,
+Earthquake,Pakistan,Asia,2023,2023,11,79,860,939,,
+Flood,Brazil,Americas,2023,2023,6,,2400,2400,50000,50000
+Flood,Pakistan,Asia,2023,2023,10,,,,,
+Flood,Syrian Arab Republic,Asia,2023,2023,,1,2850,2851,,
+Storm,India,Asia,2023,2023,16,14,,14,,
+Epidemic,Nigeria,Africa,2023,2023,562,9486,,9486,,
+Earthquake,Iran (Islamic Republic of),Asia,2023,2023,,239,,239,,
+Flood,Somalia,Africa,2023,2023,21,2,100001,100003,,
+Flood,Pakistan,Asia,2023,2023,14,,50,50,,
+Flood,Bolivia (Plurinational State of),Americas,2023,2023,3,,9960,9960,,
+Storm,United States of America,Americas,2023,2023,25,72,6000,7011,2900000,2900000
+Mass movement (wet),Ecuador,Americas,2023,2023,75,44,8400,8444,,
+Flood,Bolivia (Plurinational State of),Americas,2023,2023,,,1500,1500,,
+Flood,Brazil,Americas,2023,2023,,,15000,15000,20000,20000
+Flood,South Africa,Africa,2023,2023,3,,500,500,,
+Flood,Ethiopia,Africa,2023,2023,91,,240000,240000,,
+Flood,Kenya,Africa,2023,2023,36,29,139135,139164,,
+Earthquake,Papua New Guinea,Oceania,2023,2023,8,11,13635,16274,,
+Storm,United States of America,Americas,2023,2023,31,200,5544,6479,5500000,5500000
+Mass movement (wet),Democratic Republic of the Congo,Africa,2023,2023,19,,,,,
+Flood,Colombia,Americas,2023,2023,1,,4500,4500,,
+Epidemic,Somalia,Africa,2023,2023,14,3428,,3428,,
+Flood,Brazil,Americas,2023,2023,6,26,3693,3719,,
+Flood,Brazil,Americas,2023,2023,5,,1152,1152,,
+Storm,United States of America,Americas,2023,2023,5,5,225,266,2900000,2900000
+Flood,Pakistan,Asia,2023,2023,14,27,750,777,,
+Flood,Belarus,Europe,2023,2023,,,420,420,,
+Flood,Latvia,Europe,2023,2023,,,200,200,,
+Storm,New Zealand,Oceania,2023,2023,,,303,303,,
+Wildfire,Republic of Korea,Asia,2023,2023,1,,500,500,,
+Flood,Peru,Americas,2023,2023,25,,124326,124326,305000,305000
+Flood,Burundi,Africa,2023,2023,14,13,226,239,,
+Flood,United States of America,Americas,2023,2023,,,2000,2000,1100000,1100000
+Flood,United Republic of Tanzania,Africa,2023,2023,13,,,24,,
+Mass movement (wet),Indonesia,Asia,2023,2023,5,,130,130,,
+Storm,Iran (Islamic Republic of),Asia,2023,2023,3,,400,400,,
+Storm,Iraq,Asia,2023,2023,3,,,,,
+Storm,Brazil,Americas,2023,2023,,,750,1050,,
+Extreme temperature,India,Asia,2023,2023,11,330,,330,,
+Flood,United Republic of Tanzania,Africa,2023,2023,,,1976,1976,,
+Earthquake,Tajikistan,Asia,2023,2023,,3,2202,2205,,
+Storm,Peru,Americas,2023,2023,8,,45000,45000,705000,705000
+Storm,United States of America,Americas,2023,2023,1,12,,12,2950000,2950000
+Storm,Cambodia,Asia,2023,2023,,,14100,14100,,
+Flood,Ukraine,Europe,2023,2023,,,2850,2850,,
+Storm,Philippines,Asia,2023,2023,,,136149,136149,222,222
+Flood,Angola,Africa,2023,2023,54,450,44000,44450,,
+Storm,Myanmar,Asia,2023,2023,8,130,,1280,,
+Storm,Türkiye,Asia,2023,2023,1,50,504,554,,
+Storm,United States of America,Americas,2023,2023,,,,,1300000,1300000
+Storm,Bangladesh,Asia,2023,2023,10,,,,,
+Storm,Thailand,Asia,2023,2023,,,22200,22200,,
+Storm,Sri Lanka,Asia,2023,2023,,,910,910,,
+Flood,Brazil,Americas,2023,2023,,,9348,9348,,
